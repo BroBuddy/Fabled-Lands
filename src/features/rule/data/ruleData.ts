@@ -99,7 +99,7 @@ const ruleData: Rule[] = [
     tag: "r006",
     title: "Possessions",
     desc: [
-      "You can carry up to 12 possessions on your person., All characters begin with 16 Shards in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (Defence +1), map.",
+      "You can carry up to 12 possessions on your person., All characters begin with 16 💎 in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (Defence +1), map.",
       "Possessions are always marked in bold text, like this: gold compass. Anything marked in this way is an item which can be picked up and added to your list of possessions.",
       "Remember that you are limited to carrying a total of 12 items, so if you get more than this you'll have to cross something off your Adventure Sheet or find somewhere to store extra items. You can carry unlimited sums of money.",
     ],
@@ -225,7 +225,7 @@ const ruleData: Rule[] = [
           ["r012c", "Chalor the Exiled One"],
           ["r012d", "Marana Fireheart"],
           ["r012e", "Ignatius the Devout"],
-          ["r012g", "Astariel Skysong"],
+          ["r012f", "Astariel Skysong"],
         ],
       },
     ],

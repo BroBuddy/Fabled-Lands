@@ -28,7 +28,7 @@
     "tag": "e104",
     "title": "Investments",
     "desc": [
-      "Lose the codewords Almanac, Brush and Eldritch if you have them. You can invest money in multiples of 100 Shards. The guild will sell and buy commodities on your behalf using this money until you return to collect it. ‘Don’t forget that you can lose money as well,’ mutters a sullen merchant who leaves the guild penniless. Write the sum you are investing in the box here – or withdraw a sum invested previously.",
+      "Lose the codewords Almanac, Brush and Eldritch if you have them. You can invest money in multiples of 100 💎. The guild will sell and buy commodities on your behalf using this money until you return to collect it. ‘Don’t forget that you can lose money as well,’ mutters a sullen merchant who leaves the guild penniless. Write the sum you are investing in the box here – or withdraw a sum invested previously.",
       "Then turn back to e571."
     ]
   },
@@ -67,7 +67,7 @@
     "tag": "e107",
     "title": "Tyrnai’s Blessing",
     "desc": [
-      "If you are an initiate it costs only 10 Shards to purchase Tyrnai’s blessing. A non-initiate must pay 25 Shards. Cross off the money and mark COMBAT in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can only have one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
+      "If you are an initiate it costs only 10 💎 to purchase Tyrnai’s blessing. A non-initiate must pay 25 💎. Cross off the money and mark COMBAT in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can only have one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
       "When you are finished, turn to e282."
     ]
   },
@@ -110,13 +110,13 @@
     "title": "Bronze Hills Mine",
     "desc": [
       "You are walking through Bronze Hills. Virtually the whole area has been given over to mining. Everywhere, quarries and mineshafts abound. It is a horrible expanse of torn-up earth – hardly any areas of green are left. Great heaps of excavated rock, leeched of their useful minerals, mar the landscape. You find a quarry that is open to the public.",
-      "That is to say, if you pay 50 Shards, you can dig for an hour in a silver mine."
+      "That is to say, if you pay 50 💎, you can dig for an hour in a silver mine."
     ],
     "tables": [
       {
         "cols": ["Ref", "Option"],
         "rows": [
-          ["e668", "Pay 50 Shards and mine for silver"],
+          ["e668", "Pay 50 💎 and mine for silver"],
           ["e400", "Go to Caran Baru"],
           ["e047", "South into the Forest of Larun"],
           ["e333", "West to the River Grimm"],
@@ -268,7 +268,7 @@
     "desc": [
       "If you have the codeword Acid, turn to e543 immediately. If not, but you have a copper amulet, turn to e384 immediately. Otherwise, read on.",
       "Guildmaster Vernon of Yellowport is surprisingly eager to see you. He is a hugely fat and bejewelled merchant, and he tells you that a group of ratmen have made a base in the sewers beneath the city. They come out at night to raid the warehouses and homes of the merchants of Yellowport.",
-      "‘We need an adventurer like yourself to destroy their king,’ explains the guildmaster. ‘Without him, the ratmen wouldn’t be able to organize a feast in a larder. We will pay you 450 Shards if you succeed.’ Vernon tells you that the sewers can be entered via an old disused well in the poor quarter.",
+      "‘We need an adventurer like yourself to destroy their king,’ explains the guildmaster. ‘Without him, the ratmen wouldn’t be able to organize a feast in a larder. We will pay you 450 💎 if you succeed.’ Vernon tells you that the sewers can be entered via an old disused well in the poor quarter.",
       "Whenever you are ready to enter the sewers, and you are in Yellowport, turn to e460. Note this option on your Adventure Sheet. Now you can return to the city centre, turn to 10, or go down the sewers straight away."
     ]
   },
@@ -537,7 +537,7 @@
       "You can buy one-way passage on a ship to the following destinations: (see table below)",
       "If you buy a ship, you are the captain and can take it where you wish, exploring or trading. You also get to name it. There are three types of ship, and four types of crew quality. You can also buy cargo for your ship to sell in other ports. (see table below)",
       "If you buy a ship, add it to the Ship's Manifest and name it as you wish. The quality of the ship's crew is average, unless you pay to upgrade it. If you already own a ship you can sell it to the harbourmaster at half the above prices.",
-      "It costs 50 Shards to upgrade a poor crew to average, 100 Shards to upgrade an average crew to good, and 150 Shards to upgrade a good crew to excellent.",
+      "It costs 50 💎 to upgrade a poor crew to average, 100 💎 to upgrade an average crew to good, and 150 💎 to upgrade a good crew to excellent.",
       "Cargo can be bought at Marlock City and sold at other ports for profit. If you own a ship, you can buy as many Cargo Units as it has room for. You may also sell cargo, if you have any. Prices quoted here are for entire Cargo Units. (see table below)",
       "Fill in your current cargo on the Ship's Manifest – assuming you own a ship!",
       "If you own a ship and wish to set sail, turn to e084. If not, you can go to the city centre. Turn to e100."
@@ -546,30 +546,30 @@
       {
         "cols": ["Ref", "Destination", "Cost"],
         "rows": [
-          ["e372", "Yellowport", "10 Shards"],
-          ["e455", "Wishport", "15 Shards"],
-          ["e234", "Sorcerer's Isle", "30 Shards"],
-          ["e424", "Copper Island", "30 Shards"]
+          ["e372", "Yellowport", "10 💎"],
+          ["e455", "Wishport", "15 💎"],
+          ["e234", "Sorcerer's Isle", "30 💎"],
+          ["e424", "Copper Island", "30 💎"]
         ]
       },
       {
         "cols": ["Ship Type", "Cost", "Capacity"],
         "rows": [
-          ["Barque", "250 Shards", "1 Cargo Unit"],
-          ["Brigantine", "450 Shards", "2 Cargo Units"],
-          ["Galleon", "900 Shards", "3 Cargo Units"]
+          ["Barque", "250 💎", "1 Cargo Unit"],
+          ["Brigantine", "450 💎", "2 Cargo Units"],
+          ["Galleon", "900 💎", "3 Cargo Units"]
         ]
       },
       {
         "cols": ["Cargo", "To Buy", "To Sell"],
         "rows": [
-          ["Furs", "190 Shards", "180 Shards"],
-          ["Grain", "190 Shards", "180 Shards"],
-          ["Metals", "700 Shards", "635 Shards"],
-          ["Minerals", "500 Shards", "460 Shards"],
-          ["Spices", "820 Shards", "760 Shards"],
-          ["Textiles", "325 Shards", "285 Shards"],
-          ["Timber", "190 Shards", "180 Shards"]
+          ["Furs", "190 💎", "180 💎"],
+          ["Grain", "190 💎", "180 💎"],
+          ["Metals", "700 💎", "635 💎"],
+          ["Minerals", "500 💎", "460 💎"],
+          ["Spices", "820 💎", "760 💎"],
+          ["Textiles", "325 💎", "285 💎"],
+          ["Timber", "190 💎", "180 💎"]
         ]
       }
     ]
@@ -578,8 +578,8 @@
     "tag": "e143",
     "title": "Renouncing the Worship of Elnir",
     "desc": [
-      "To renounce the worship of Elnir, you must pay 40 Shards to the priesthood by way of compensation. A passing noble says disdainfully, 'Ha! Only those born to rule have the fibre to worship the Sky Lord. Those who renounce Elnir never reach the top!'",
-      "Do you want to change your mind? If you are determined to renounce your faith, pay the 40 Shards and delete Elnir from the God box on your Adventure Sheet.",
+      "To renounce the worship of Elnir, you must pay 40 💎 to the priesthood by way of compensation. A passing noble says disdainfully, 'Ha! Only those born to rule have the fibre to worship the Sky Lord. Those who renounce Elnir never reach the top!'",
+      "Do you want to change your mind? If you are determined to renounce your faith, pay the 40 💎 and delete Elnir from the God box on your Adventure Sheet.",
       "When you have finished here, turn to e316."
     ]
   },
@@ -647,13 +647,13 @@
     "title": "The One-Eared Man",
     "desc": [
       "A man accosts you as you are leaving a tavern. His breath reeks of rotting teeth, and his ear has been cut off – the mark of a man punished for piracy.",
-      "'Give me 10 Shards and I will tell you what you want to know,' he says."
+      "'Give me 10 💎 and I will tell you what you want to know,' he says."
     ],
     "tables": [
       {
         "cols": ["Ref", "Option"],
         "rows": [
-          ["e533", "Pay the money (cross off 10 Shards)"],
+          ["e533", "Pay the money (cross off 10 💎)"],
           ["e468", "Refuse to pay"]
         ]
       }
@@ -663,7 +663,7 @@
     "tag": "e150",
     "title": "Bound for Marlock City",
     "desc": [
-      "Cross off the 10 Shards. You get a berth on a merchantman headed for Marlock City. It is a trouble-free journey.",
+      "Cross off the 10 💎. You get a berth on a merchantman headed for Marlock City. It is a trouble-free journey.",
       "'I pay everyone off – the Sokarans, the pirates,' says the captain. 'That way I get left alone.'",
       "You disembark in Marlock City. Turn to e100."
     ]
@@ -689,24 +689,24 @@
       {
         "cols": ["Armour", "Buy", "Sell"],
         "rows": [
-          ["Leather (Defence +1)", "50 Shards", "45 Shards"],
-          ["Ring mail (Defence +2)", "–", "90 Shards"]
+          ["Leather (Defence +1)", "50 💎", "45 💎"],
+          ["Ring mail (Defence +2)", "–", "90 💎"]
         ]
       },
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["Without Combat bonus", "50 Shards", "40 Shards"],
-          ["Combat bonus +1", "–", "200 Shards"]
+          ["Without Combat bonus", "50 💎", "40 💎"],
+          ["Combat bonus +1", "–", "200 💎"]
         ]
       },
       {
         "cols": ["Other Items", "Buy", "Sell"],
         "rows": [
-          ["Rope", "50 Shards", "45 Shards"],
-          ["Lantern", "100 Shards", "90 Shards"],
-          ["Climbing gear", "100 Shards", "90 Shards"],
-          ["Scorpion antidote", "100 Shards", "90 Shards"]
+          ["Rope", "50 💎", "45 💎"],
+          ["Lantern", "100 💎", "90 💎"],
+          ["Climbing gear", "100 💎", "90 💎"],
+          ["Scorpion antidote", "100 💎", "90 💎"]
         ]
       }
     ]
@@ -895,7 +895,7 @@
       {
         "cols": ["Score", "Result"],
         "rows": [
-          ["1–2", "A pick-pocket! You lose 10 Shards"],
+          ["1–2", "A pick-pocket! You lose 10 💎"],
           ["3–4", "Nothing happens"],
           ["5–6", "You find a lantern by the side of the road"]
         ]
@@ -947,8 +947,8 @@
     "tag": "e170",
     "title": "Becoming an Initiate of Lacuna",
     "desc": [
-      "Becoming an initiate of Lacuna gives you the benefit of paying less for blessings and other services the temple can offer. It costs 60 Shards to become an initiate. You cannot do this if you are already an initiate of another temple.",
-      "If you choose to become an initiate, write Lacuna in the God box on your Adventure Sheet and remember to cross off the 60 Shards.",
+      "Becoming an initiate of Lacuna gives you the benefit of paying less for blessings and other services the temple can offer. It costs 60 💎 to become an initiate. You cannot do this if you are already an initiate of another temple.",
+      "If you choose to become an initiate, write Lacuna in the God box on your Adventure Sheet and remember to cross off the 60 💎.",
       "Once you have finished here, turn to e615."
     ]
   },
@@ -1107,7 +1107,7 @@
     "desc": [
       "The Blue Griffon Tavern is frequented by soldiers and mercenaries. The tavern costs you 1 Shard a day. Each day you spend here, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.",
       "If you have the codeword Axe or if you have a black dragon shield and want to find Yanryt the Son, turn to e451.",
-      "If not, but you want to spend a further 3 Shards buying drinks all round at the bar and listen for rumours, turn to e341.",
+      "If not, but you want to spend a further 3 💎 buying drinks all round at the bar and listen for rumours, turn to e341.",
       "Or you can return to the town centre – turn to e400."
     ]
   },
@@ -1117,8 +1117,8 @@
     "desc": [
       "You tell him who you are, and that General Grieve Marlock's brother, the Governor of Yellowport, is your personal friend. His eyes widen as recognition dawns on his fat, greedy face.",
       "'Ah, er... my lord!,' he cries. 'I was merely jesting! Umm.... We were, I mean to say, perhaps you need an escort?'",
-      "'I think we require a levy in order to carry out the important mission the governor has entrusted to me,' you say. 'Sixty Shards ought to do it, Captain!'",
-      "The Sokaran captain hands over the 60 Shards (add it to your Adventure Sheet) and leads his men off your ship.",
+      "'I think we require a levy in order to carry out the important mission the governor has entrusted to me,' you say. 'Sixty 💎 ought to do it, Captain!'",
+      "The Sokaran captain hands over the 60 💎 (add it to your Adventure Sheet) and leads his men off your ship.",
       "You sail on. Turn to e439."
     ]
   },
@@ -1126,7 +1126,7 @@
     "tag": "e186",
     "title": "Selling the Leash",
     "desc": [
-      "You pass the leash over to the man in the palanquin, who leans out and hands you over 75 Shards. You leave the slave market. Turn to e400."
+      "You pass the leash over to the man in the palanquin, who leans out and hands you over 75 💎. You leave the slave market. Turn to e400."
     ]
   },
   {
@@ -1188,7 +1188,7 @@
     "title": "The Provost Marshal's Mission",
     "desc": [
       "The provost marshal is a rich and powerful man, cunning and capable.",
-      "'I have need of someone like you,' he says. 'A group of rebels, loyal to the old king, are hiding out in the Coldbleak Mountains. Their leader, Nergan Corin, is dangerous to us, as he is heir to the old throne and a rallying point for the rebels. Penetrate their stronghold and slay Nergan Corin, and you will be richly rewarded. I can promise you 500 Shards and a title if you succeed.'",
+      "'I have need of someone like you,' he says. 'A group of rebels, loyal to the old king, are hiding out in the Coldbleak Mountains. Their leader, Nergan Corin, is dangerous to us, as he is heir to the old throne and a rallying point for the rebels. Penetrate their stronghold and slay Nergan Corin, and you will be richly rewarded. I can promise you 500 💎 and a title if you succeed.'",
       "If you take the mission, gain the codeword Artery.",
       "If you have the codeword Ambuscade, turn to e375. Otherwise, the provost marshal dismisses you. Turn to e010."
     ]
@@ -1259,7 +1259,7 @@
     "tag": "e197",
     "title": "The Blessing of Sig",
     "desc": [
-      "The blessing of Sig costs 10 Shards if you are an initiate, 30 Shards otherwise. If you buy the blessing, cross off the money and mark Thievery in the Blessings box on your Adventure Sheet.",
+      "The blessing of Sig costs 10 💎 if you are an initiate, 30 💎 otherwise. If you buy the blessing, cross off the money and mark Thievery in the Blessings box on your Adventure Sheet.",
       "The blessing works by allowing you to reroll any failed Thievery attempt once. When you use the blessing, cross it off your Adventure Sheet. You can then make a second try at the roll. You can have only one blessing for each ability at any one time. Once your Thievery blessing is used up, you can return to any branch of the temple of Sig to buy a new one.",
       "When you are finished here, turn back to e235."
     ]
@@ -1281,7 +1281,7 @@
     "desc": [
       "If there is a tick in the box, turn to e634 immediately. If not, put a tick there now, and read on.",
       "A strange, vaguely humanoid shape, flickering with energy, soars down to attack you. You must fight.",
-      "If you win, it fades away, leaving a clear blue jewel worth 200 Shards. Note the money on your sheet directly.",
+      "If you win, it fades away, leaving a clear blue jewel worth 200 💎. Note the money on your sheet directly.",
       "If you lose, it's the end of you, unless you have a resurrection deal. If you still live, there's nothing else up here, so you climb down again. Turn to e658."
     ],
     "tables": [

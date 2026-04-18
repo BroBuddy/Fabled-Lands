@@ -1,5 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom";
-import { ScrollText, Castle, Zap } from "lucide-react";
+import { ScrollText, Castle, Zap, Map } from "lucide-react";
 import type { ReactNode } from "react";
 import styles from "./NavBar.module.scss";
 
@@ -13,6 +13,7 @@ const links: Links[] = [
   { to: "/", icon: <Castle /> },
   { to: "/rule", icon: <ScrollText /> },
   { to: "/event", icon: <Zap /> },
+  { to: "/map", icon: <Map /> },
 ];
 
 const NavBar = () => {
