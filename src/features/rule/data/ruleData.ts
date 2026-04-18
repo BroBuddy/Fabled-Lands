@@ -233,6 +233,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012a",
     title: "Liana the Swift",
+    image: true,
     desc: [
       "Liana prefers to make her home in mountain grottos and woodland groves rather than in the squalid streets of cities. She has the agility of a gazelle, the cunning of a fox and the ferocity of an eagle.",
       "She has heard of a City of Trees, deep within the forest of the Isle of Druids.",
@@ -268,6 +269,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012b",
     title: "Andriel the Hammer",
+    image: true,
     desc: [
       "Andriel seeks fame through adventure and the glory of battle. He left his homeland when an extended outbreak of peace made his skills redundant there.",
       "He is blunt and outspoken, but scrupulously follows the warrior's code. He knows the merchants' guild in Yellowport needs assistance.",
@@ -303,6 +305,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012c",
     title: "Chalor the Exiled One",
+    image: true,
     desc: [
       "Chalor is an outcast by choice, shunning his native land and the family who spurned him, driven by a burning desire for secret knowledge.",
       "His goal is to become one of the mightiest wizards of the world, and nothing will stand in his way. For now, he is looking for the Gold Dust Tavern in Yellowport, where adventure awaits.",
@@ -338,6 +341,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012d",
     title: "Marana Fireheart",
+    image: true,
     desc: [
       "Marana is a fiercely independent woman who grew up in the back streets of her home town. Forced to flee because she was too active in her chosen profession, she has come to new lands to seek her fortune.",
       "Devious and resourceful, she can break in almost anywhere. She has heard that the temple of Sig in Marlock City needs the service of a rogue.",
@@ -373,6 +377,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012e",
     title: "Ignatius the Devout",
+    image: true,
     desc: [
       "Ignatius is a traveller whose desire is to learn all he can about the deities of the Fabled Lands. His strong beliefs give his sermons added zest, and he has enthralled many a crowd with his impassioned speeches.",
       "He is looking for the House of Priests in Marlock City.",
@@ -408,6 +413,7 @@ const ruleData: Rule[] = [
   {
     tag: "r012f",
     title: "Astariel Skysong",
+    image: true,
     desc: [
       "Astariel has the wanderlust, and chafes if he has to remain in one place for any length of time. He enjoys the freedom of the open road and the thought that he never knows what adventures each new day will bring.",
       "He lives by his wits and is a familiar figure at tavern firesides, where he regales travellers with his tales.",

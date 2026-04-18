@@ -4,6 +4,7 @@ import Card from "@/components/Card";
 import ListTable from "@/components/ListTable";
 import { parseLinks } from "@/lib/parseLinks";
 import { ChevronLeftCircle, ChevronRightCircle } from "lucide-react";
+import { ParagraphImage } from "@/components/ParagraphImage";
 
 const EventDetailPage = () => {
   const { tag } = useParams();
@@ -21,9 +22,15 @@ const EventDetailPage = () => {
     <>
       {event.desc && event.desc?.length >= 1 && (
         <Card title={event.title}>
-          {event.desc.map((p, i) => (
-            <p key={i}>{parseLinks(p)}</p>
-          ))}
+          <div style={{ display: "flow-root" }}>
+            {event.image && (
+              <ParagraphImage tag={tag as string} title={event.title} />
+            )}
+
+            {event.desc.map((p, i) => (
+              <p key={i}>{parseLinks(p)}</p>
+            ))}
+          </div>
         </Card>
       )}
       {event.tables?.map((table, index) => (

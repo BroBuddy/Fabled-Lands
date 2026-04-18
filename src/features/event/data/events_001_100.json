@@ -2,6 +2,7 @@
   {
     "tag": "e001",
     "title": "The approach of dawn",
+    "image": true,
     "desc": [
       "The approach of dawn has turned the sky a milky grey-green, like jade. The sea is a luminous pane of silver. Holding the tiller of your sailing boat, you keep your gaze fixed on the glittering constellation known as the Spider. It marks the north, and by keeping it to port you know you are still on course.",
       "The sun appears in a trembling burst of red fire at the rim of the world. Slowly the chill of night gives way to brazen warmth. You lick your parched lips. There is a little water sloshing in the bottom of the barrel by your feet, but not enough to see you through another day.",
@@ -292,6 +293,7 @@
   {
     "tag": "e020",
     "title": "Isle of the Druids",
+    "image": true,
     "desc": [
       "‘Well, well, well, what have we here, friends?’ asks the old man. He seems to be talking to someone next to him, although you are certain he is alone.",
       "‘Looks like a washed up adventurer to me!’ he says in answer to his own question, ‘all wet and out of luck.’",

@@ -1,6 +1,7 @@
 export interface Rule {
   tag: string;
   title: string;
+  image?: boolean;
   desc?: string[];
   note?: string[];
   tables?: TableType[];
