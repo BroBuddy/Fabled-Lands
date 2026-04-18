@@ -25,7 +25,7 @@ const NavBar = () => {
 
         return (
           <NavLink
-            key={label}
+            key={to}
             to={to}
             style={{
               pointerEvents: isActive ? "none" : "auto",

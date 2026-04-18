@@ -1,8 +1,9 @@
-import events_001 from "../data/events_001_080.json";
+import events_001 from "../data/events_001_100.json";
+import events_101 from "../data/events_101_200.json";
 import type { Event, EventItem } from "../types/EventType";
 
 export function useEventService() {
-  const eventData: Event[] = [...events_001];
+  const eventData: Event[] = [...events_001, ...events_101];
 
   const getEventData = (): EventItem[] => {
     if (!eventData) return [];

@@ -33,10 +33,17 @@
     "tag": "e003",
     "title": "Foothills of Harkun",
     "desc": [
-      "You have come to the foothills of the Spine of Harkun, in the north west of Sokara. The view is impressive: a massive wall of forested mountains, whose rocky, white-flanked peaks soar skywards into the clouds. These parts of the mountains are unclimbable but you notice a large cave at the bottom of a mountain.",
-      "Investigate the cave → e665",
-      "Go east to the Citadel of Velis Corin → e271",
-      "South into the wilderness → e276"
+      "You have come to the foothills of the Spine of Harkun, in the north west of Sokara. The view is impressive: a massive wall of forested mountains, whose rocky, white-flanked peaks soar skywards into the clouds. These parts of the mountains are unclimbable but you notice a large cave at the bottom of a mountain."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e665", "Investigate the cave"],
+          ["e271", "Go east to the Citadel of Velis Corin"],
+          ["e276", "South into the wilderness"]
+        ]
+      }
     ]
   },
   {
@@ -50,9 +57,17 @@
     "tag": "e005",
     "title": "The climb",
     "desc": [
-      "It is a tough climb upwards but not impossible. If you have some climbing gear, turn to e652. If not, make a SCOUTING roll at Difficulty 10.",
-      "Successful SCOUTING roll → e652",
-      "Failed SCOUTING roll → e529"
+      "It is a tough climb upwards but not impossible. If you have some climbing gear, turn to e652.",
+      "If not, make a SCOUTING roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e652", "Successful SCOUTING roll"],
+          ["e529", "Failed SCOUTING roll"]
+        ]
+      }
     ]
   },
   {
@@ -208,15 +223,24 @@
       "If there is a tick in the box, turn to e251 immediately. If not, put a tick there now and read on.",
       "If you have the codeword Avenge, turn to e648 immediately. Otherwise read on.",
       "You remain quiet as a mouse behind a pile of coins. After a long wait, the sea dragon slithers into the water and swims away.",
-      "You now have time to loot the hoard. You may choose up to three treasures:",
-      "Enchanted sword (COMBAT +3)",
-      "Plate armour (Defence +5)",
-      "Ebony wand (MAGIC +2)",
-      "500 Shards",
-      "Magic mandolin (CHARISMA +2)",
-      "Gold compass (SCOUTING +2)",
-      "Magic lockpicks (THIEVERY +2)",
-      "Silver holy symbol (SANCTITY +2)",
+      "You now have time to loot the hoard. You may choose up to three treasures:"
+    ],
+    "tables": [
+      {
+        "cols": ["Treasure", "Effect"],
+        "rows": [
+          ["Enchanted sword", "COMBAT +3"],
+          ["Plate armour", "Defence +5"],
+          ["Ebony wand", "MAGIC +2"],
+          ["500 Shards", ""],
+          ["Magic mandolin", "CHARISMA +2"],
+          ["Gold compass", "SCOUTING +2"],
+          ["Magic lockpicks", "THIEVERY +2"],
+          ["Silver holy symbol", "SANCTITY +2"]
+        ]
+      }
+    ],
+    "note": [
       "After taking your third treasure, the sea dragon returns.",
       "You climb up through a hole in the roof onto an island in the middle of the lake.",
       "From there you escape on a passing boat and reach Cadmium village.",
@@ -248,8 +272,6 @@
     "tag": "e018",
     "title": "Militia encounter",
     "desc": [
-      "People and they close in around you ominously. Make a SANCTITY roll at Difficulty 9.",
-      "Successful SANCTITY roll → e626. Failed SANCTITY roll → e268.",
       "You spin them a tale about how your poor brother, a mercenary in Grieve Marlock’s personal guard, lost his legs in the fight to overthrow the old king, and that you have spent all your money on looking after him.",
       "Several of the militia are brought to tears by your eloquent speech – they end up having a whip-round among themselves for your brother, and they give you 15 Shards!",
       "Chuckling to yourself, you return to the city centre.",
@@ -863,6 +885,535 @@
       "A short ceremony later – fortunately, the initiation does not involve any cannibalistic rites – and you are a full member of the Cult of Badogor. Write Unspeakable Cultist in the Titles and Honours box on your Adventure Sheet. You lose 1 point of SANCTITY permanently for joining such a vile cult.",
       "You take your leave, and they wish you well, all smiles and friendship. ‘Remember, never say his name! And don’t forget to bring us new recruits,’ says the leader. ‘And some people for dinner!’ adds the chef. Hastily, you head for the city centre.",
       "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e062",
+    "title": "Sokaran surrender",
+    "desc": [
+      "The Sokarans surrender. Their captain has been killed in the battle, and his marines have had the fight knocked out of them. The war galley isn’t carrying any cargo, but you find an officer’s pass on the body of the captain, and a chest in his cabin, which contains 150 Shards. You have to hand out 50 Shards to your crew, but you can add 100 Shards to your Adventure Sheet. You leave the galley to limp back to Yellowport while you sail on.",
+      "Turn to e439."
+    ]
+  },
+  {
+    "tag": "e063",
+    "title": "The Gob-gobbler plea",
+    "desc": [
+      "If you have the codeword Attar, turn to e578 immediately. If not, read on. A small boy runs up to you, saying ‘Help us, help us! The Man-eating Blood-Thursday Gob-gobbler has got my little sister!’ His mother, a flaxen-haired beauty, comes up behind him. ‘Surely, you mean blood-thirsty not Thursday,’ you ask. ‘Oh no,’ replies the young mother, ‘the Man-eating Blood-Thursday Gob-gobbler is so named because it hunts only on Thursdays!’ The boy’s name is Mikail, and his mother is Lynn. Her husband is away in the army, and her young daughter, Haylie, was taken by the beast last Thursday. Apparently, several people have disappeared, never to be seen again. ‘Please, help us!’ plead the villagers."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e600", "Help them"],
+          ["e427", "Refuse to help"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e064",
+    "title": "Exploding chest trap",
+    "desc": [
+      "Your amateurish tinkering sets the trap off, and the chest explodes! You take the full force of the blast – lose 5 Stamina points. If you are still alive, you also find that the contents of the chest have been vaporized – except for a sturdy metal scroll case, containing a piece of ancient religious text about the gods of Uttaku. You discover from the scroll that one of the gods of the Uttakin is called Ebron, and that he has fourteen angles. Note the scroll of Ebron on your Adventure Sheet if you wish to take it.",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e065",
+    "title": "Stone gates of the island",
+    "desc": [
+      "There are three stone gates engraved with ancient runes. Each gate is marked with a name – Yellowport, Marlock City, and Wishport. From here, you can see the coast and the whole island, which is heavily forested."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e128", "Explore the coastline"],
+          ["e257", "Head into the forest"],
+          ["e008", "Step through the Yellowport arch"],
+          ["e180", "Step through the Marlock City arch"],
+          ["e330", "Step through the Wishport arch"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e066",
+    "title": "Ghostly horse charge",
+    "desc": [
+      "You stand your ground. The ghostly horses stream past you on either side, neighing wildly at the sky. Nimbly, you leap at one, and manage to wrap your arms around its neck, and swing on to its back. The horse feels quite solid, but appears to be a luminous, pale-green colour. You look up through a cloud of sparks emanating from the horse’s mane just in time to see a rocky wall of a low hill looming up out of the evening mist. Your horse is galloping full tilt right into it!"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e017", "Hold on"],
+          ["e028", "Leap off"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e067",
+    "title": "Lost at sea",
+    "desc": [
+      "Your ship is thrown about like flotsam and jetsam. When the storm subsides, you take stock. Much has been swept overboard – you lose 1 Cargo Unit, if you had any, of your choice. Also, the ship has been swept way off course and the mate has no idea where you are. ‘We’re lost at sea, Cap’n!’ he moans.",
+      "Turn to e090."
+    ]
+  },
+  {
+    "tag": "e068",
+    "title": "Renouncing Alvir and Valmir",
+    "desc": [
+      "To renounce the worship of Alvir and Valmir, you must pay 30 Shards in compensation to the priesthood. The priest simply points to a ship limping into harbour – its shattered masts, torn sails and battered hull mute testimony to its storm-tossed voyage. ‘The captain did not revere the Twin Gods,’ whispers the coral-jewelled priest darkly. Do you want to change your mind? If you are determined to renounce your faith, pay the 30 Shards and delete Alvir and Valmir from the God box on your Adventure Sheet.",
+      "Turn to e154."
+    ]
+  },
+  {
+    "tag": "e069",
+    "title": "Renouncing Tyrnai",
+    "desc": [
+      "To renounce the worship of Tyrnai, you must pay 50 Shards to the warrior priests, and suffer the Ceremony of the Wrathful Blow. A priest will strike you once – it is better to be struck by a priest than by Tyrnai himself! If you are determined to renounce your initiate status, pay the 50 Shards, delete Tyrnai from the God box on your Adventure Sheet. The High Priest smashes you across the jaw, saying ‘I’m doing you a favour – believe me!’ Lose 1 Stamina point. If you earlier arranged a resurrection here, it is cancelled with no refund.",
+      "When you are finished, turn to e526."
+    ]
+  },
+  {
+    "tag": "e070",
+    "title": "Lost at sea",
+    "desc": [
+      "Your ship is thrown about like flotsam and jetsam. When the storm subsides, you take stock. Much has been swept overboard – you lose 1 Cargo Unit, if you had any, of your choice. Also, the ship has been swept way off course and the mate has no idea where you are. ‘We’re lost at sea, Cap’n!’ he moans.",
+      "Turn to e090."
+    ]
+  },
+  {
+    "tag": "e071",
+    "title": "Temple of Nagil",
+    "desc": [
+      "If you have the codeword Ague, turn to e517 immediately. If not, read on. Nagil is the Lord of the Lands of the Dead, and his temple in Marlock City is covered in friezes and gargoyles of ornate design, depicting the souls of the dead on their journey to the underworld. Inside, it is cool and dark, hung with black velvet drapes. A scroll tacked to the wall reads: ‘Wanted: person of unusual resourcefulness. See temple warden.’"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e409", "Become an initiate"],
+          ["e187", "Renounce worship"],
+          ["e478", "Make resurrection arrangements"],
+          ["e048", "Visit the warden"],
+          ["e100", "Leave the temple"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e072",
+    "title": "Resisting the gas",
+    "desc": ["You manage to shrug off the effects of the gas."],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e371", "Attack the beast"],
+          ["e052", "Run off"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e073",
+    "title": "Blessing of Elnir",
+    "desc": [
+      "If you are an initiate it costs only 10 Shards to purchase Elnir’s blessing. A non-initiate must pay 25 Shards. Cross off the money and mark CHARISMA in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you make a failed CHARISMA roll. It is only good for one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one CHARISMA blessing at any one time. Once it is used up, you can return to any branch of the temple of Elnir to buy a new one.",
+      "When you are finished here, turn to e568."
+    ]
+  },
+  {
+    "tag": "e074",
+    "title": "Passage to Yellowport",
+    "desc": [
+      "A fisherman will take you all the way to Yellowport for 15 Shards. Cross the money off your Adventure Sheet. Amazingly, despite the apparent fragility of the small vessel, you arrive without incident.",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e075",
+    "title": "Temple of Sig Mission",
+    "desc": [
+      "The high priest takes you to a private chamber. ‘You may be just what the temple needs,’ he says, ‘a good, old-fashioned thief! There is a suit of armour made entirely of gold – ceremonial only of course. Nevertheless, we would like to, er, have it donated to us.’ ‘I see,’ you reply, ‘and where is the armour?’ ‘Well that’s the tricky part – it’s in the Temple of Tyrnai, in Caran Baru. In fact, it’s worn by the idol of Tyrnai himself in the temple! Can you bring us the gold chain mail of Tyrnai? In return, we will instruct you in the roguish arts.’ If you want to take up the mission for the Temple of Sig, record the codeword Armour.",
+      "Turn to e235."
+    ]
+  },
+  {
+    "tag": "e076",
+    "title": "Street Brawl Victory",
+    "desc": [
+      "You are an accomplished street brawler, and after only a few minutes’ furious fighting, the three officers are laid out unconscious in the street. Several people gathered to watch the brawl – most of them give a cheer at your performance. General Marlock’s troops have not endeared themselves to the population. You find about 25 Shards on the officers’ bodies and an officer’s pass.",
+      "Take whatever you require and turn to e100."
+    ]
+  },
+  {
+    "tag": "e077",
+    "title": "Cure at Temple of Maka",
+    "desc": [
+      "‘It is fortunate we have a Chosen One of Maka at this temple,’ says the high priestess. ‘Only the Chosen Ones have the goddess-given powers to cure the afflicted!’ It costs 75 Shards – only 30 if you are an initiate of Maka – to be cured of a poison or a disease. Make any necessary payment and delete the disease or poison, and its effects, from your Adventure Sheet.",
+      "Turn to e141."
+    ]
+  },
+  {
+    "tag": "e078",
+    "title": "Scouting Test",
+    "desc": ["Make a SCOUTING roll at Difficulty 10."],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e524", "Successful SCOUTING roll"],
+          ["e415", "Failed SCOUTING roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e079",
+    "title": "Escape the Tunnels",
+    "desc": [
+      "Make a SCOUTING roll at Difficulty 14, as you try to lose them in the tunnels. It is hard because they know the layout better than you do."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e224", "Successful SCOUTING roll"],
+          ["e003", "Failed SCOUTING roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e080",
+    "title": "Pickpocket Encounter",
+    "desc": [
+      "You grab the woman’s wrist a split-second before she can cut the strings of your money pouch. You drag her around to face you, but she meets your outraged scowl with a swashbuckling grin. ‘You’ve got good reflexes,’ she says. ‘Most of the street scum around here are too drink-sodden or dimwitted to notice the loss of a few Shards. Want to earn some real money?’"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e425", "Accept her offer"],
+          ["e108", "Refuse and leave"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e081",
+    "title": "Golem Fight",
+    "desc": ["This could be a tough fight."],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Golem", "5", "10", "10"]]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e094", "If you win"],
+          ["e488", "If you lose"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e082",
+    "title": "Stinking River",
+    "desc": [
+      "You are following the course of the Stinking River – and it certainly does stink, laden with sulphur as it is. Roll a die. Score 1 or 2: Stung by a large golden insect. You are poisoned (COMBAT –1 until you find a cure). Score 3 or 4: Nothing happens. Score 5 or 6: Catch a smoulder fish. Note it on your Adventure Sheet."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e310", "Follow the river north"],
+          ["e010", "Follow the river south to Yellowport"],
+          ["e558", "Go west to the road"],
+          ["e278", "Go east into the countryside"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e083",
+    "title": "Lost at Sea",
+    "desc": [
+      "Your ship is thrown about like flotsam and jetsam. When the storm subsides, you take stock. Much has been swept overboard - you lose 1 Cargo Unit, if you had any, of your choice. Also, the ship has been swept way off course and the mate has no idea where you are. ‘We’re lost at sea, Cap’n!’ he moans.",
+      "Turn to e090."
+    ]
+  },
+  {
+    "tag": "e084",
+    "title": "At the Harbour",
+    "desc": [
+      "Your ship awaits you in the harbour. The crew are in good spirits, as ever when a new voyage is about to begin."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e142", "Go ashore"],
+          ["e222", "Set sail"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e085",
+    "title": "Scorpion Bight",
+    "desc": ["You are sailing around Scorpion Bight."],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e190", "Sail north along the coast"],
+          ["e029", "Sail west towards Yellowport"],
+          ["e136", "Sail east into the Sea of Whispers"],
+          ["e416", "Sail south into the Violet Ocean"],
+          ["e176", "Go ashore at Scorpion Bight"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e086",
+    "title": "Temple of the Three Fortunes",
+    "desc": [
+      "The temple of the Three Fortunes is a squat, square building. A frieze above the door depicts three woman weaving a tapestry. ‘That’s the Tapestry of Fate, where our destiny is woven,’ comments a priest."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e258", "Become an initiate"],
+          ["e573", "Renounce worship"],
+          ["e603", "Seek a blessing"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e087",
+    "title": "Road to Blessed Springs",
+    "desc": [
+      "You are on the road between Blessed Springs and Venefax. Pilgrims, the sick and injured travel this route to the holy waters of Blessed Springs to find salvation. Roll a die. Score 1 or 2: Attacked by a mad pilgrim. You must fight. If you win, you get his staff. Score 3 or 4: Nothing happens. Score 5 or 6: Blessed by a priest. Write Safety from Storms in the Blessings box on your Adventure Sheet."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Pilgrim", "3", "5", "6"]]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e510", "Go to Blessed Springs"],
+          ["e427", "Go to Venefax"],
+          ["e548", "Go north into the countryside"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e088",
+    "title": "Investments Outcome",
+    "desc": [
+      "To find out how well your investments have done, roll two dice. Add 1 to the dice roll if you are an initiate of the Three Fortunes. Also add 1 if you have the codeword Almanac, add 2 if you have the codeword Brush, and add 3 if you have the codeword Eldritch. Score 2-4: Lose entire sum invested. Score 5-6: Loss of 50%. Score 7-8: Loss of 10%. Score 9-10: Investment remains unchanged. Score 11-12: Profit of 10%. Score 13-14: Profit of 50%. Score 15-16: Double initial investment. Score 17+: Triple initial investment.",
+      "Now turn to e104, where you can withdraw or leave the sum written in the box there after adjusting it according to the result rolled."
+    ]
+  },
+  {
+    "tag": "e089",
+    "title": "Curse of the Undead Pirate",
+    "desc": [
+      "The undead pirate reaches for you, but it is too slow. Then it speaks, its voice seeming to sound inside your head. ‘Damn you, and your kind, thieving sea centaur! I curse you forever – may you never swim again in the seas you love. You will walk for the rest of your life as a human, doomed to wander the surface world, unable to find the peace of coral caves!’",
+      "Quickly, you swim away, unable to believe your luck! What a convenient curse. You find yourself already changing back to a human, and you make it to your ship, coughing and spluttering. Your crew haul you aboard. The gems are worth 300 Shards – add that much to your money. You sail on, lucky to be still human.",
+      "Turn to e507."
+    ]
+  },
+  {
+    "tag": "e090",
+    "title": "Lost at Sea Navigation",
+    "desc": [
+      "Your ship is limping through unknown waters. The sun beats down, and the wind drops to a whisper. ‘What direction, Cap’n?’ asks the bosun.",
+      "Make a SCOUTING roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e633", "Successful SCOUTING roll"],
+          ["e004", "Failed SCOUTING roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e091",
+    "title": "Gambler’s Den",
+    "desc": [
+      "He smiles and takes you into the Gambler’s Den. It is a smoke-filled casino, full of all kinds of dubious characters, playing cards and dice. If you want to gamble, decide how much you want to bet, to a maximum of 20 Shards, and roll two dice. Score 2: win five times your bet. Score 3-4: win twice your bet. Score 5-9: lose your bet. Score 10-11: win twice your bet. Score 12: win five times your bet.",
+      "When you are ready to leave, put a tick in the box and turn to e109, unless the box is already ticked, in which case turn to e100."
+    ]
+  },
+  {
+    "tag": "e092",
+    "title": "Flame Opal",
+    "desc": [
+      "He falls dead at your feet. Searching him, you find 25 Shards you can take if you wish. Then you flip up his eyepatch. Nestling in the eye-socket is a sparkling gem, a flame opal. You pluck it free. Note the flame opal eye on your Adventure Sheet and lose the codeword Barnacle. You hurry off, before a patrol arrives.",
+      "Turn to e400."
+    ]
+  },
+  {
+    "tag": "e093",
+    "title": "Mad Beggar",
+    "desc": [
+      "If you have the codeword Azure, turn to e359 immediately. If not, read on. A mad beggar, covered in sores and grime, accosts you in the street. ‘O noble one, aid me for the love of the gods!’ he rants, frothing at the mouth and gesticulating wildly. ‘I need coins to eat, food to spend, and blessings to wear!’"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e010", "Ignore him and return to city centre"],
+          ["e227", "Give him 5 Shards"],
+          ["e632", "Bless him"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e094",
+    "title": "Temple Theft",
+    "desc": [
+      "At last, the golem is defeated. You manage to get into the temple without being noticed by anyone else. Inside, it is cool and dark, filled with an unearthly stillness. You reach forward to strip the armour off the idol of Tyrnai.",
+      "Make a THIEVERY roll at Difficulty 12."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e509", "Successful THIEVERY roll"],
+          ["e228", "Failed THIEVERY roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e095",
+    "title": "No More Missions",
+    "desc": [
+      "You are greeted warmly and politely by the provost marshal who treats you as one of his own. However, there are no more missions, and after thanking you once again, he politely sends you on your way.",
+      "Return to e010."
+    ]
+  },
+  {
+    "tag": "e096",
+    "title": "Militia Fight",
+    "desc": [
+      "One of the militiamen kicks over a table, blocking your escape. You set your back to a corner of the room and grimly prepare to fight for your life. Fight them one at a time:"
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [
+          ["First Militiaman", "4", "7", "5"],
+          ["Second Militiaman", "4", "7", "4"],
+          ["Third Militiaman", "4", "7", "5"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e432", "If you win"],
+          ["e218", "If you surrender"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e097",
+    "title": "Song of the Sea",
+    "desc": [
+      "You climb down a narrow track to the beach. The sea pounds the rocky shore, and the spray lashes your face. A mournful, yet utterly captivating singing suddenly fills your ears. You look out to sea, and spot several mermaids and mermen, cavorting in the surf. ‘Come, come to us…’ one of them calls in a lilting voice that fills you with a yearning desire to plunge into the sea and swim out to them.",
+      "Make a SANCTITY roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e584", "Successful SANCTITY roll"],
+          ["e159", "Failed SANCTITY roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e098",
+    "title": "Raiders in the Mountains",
+    "desc": [
+      "The soldier recognizes you and bows. ‘My lord,’ he says, ‘We are a small group now, left here to act as raiders behind enemy lines. Thanks to your heroic actions, the Citadel of Velis Corin is now ours – the king has moved his court there. Go to the citadel if you would speak with the king.’ There is nothing else of interest in the mountains, so you return to the foothills.",
+      "Turn to e474."
+    ]
+  },
+  {
+    "tag": "e099",
+    "title": "River Grimm",
+    "desc": [
+      "You are on the east bank of the River Grimm, a great, powerful river, which rushes past towards the sea. You can travel to Golnir from here."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e168", "Cross the bridge to Conflass (Cities of Gold and Glory)"],
+          ["e306", "Ford the river to the south (Cities of Gold and Glory)"],
+          ["e333", "Follow the river north"],
+          ["e175", "Head for the Curstmoor"],
+          ["e560", "Head towards Devil’s Peak"],
+          ["e579", "Go south to the mouth of the river"],
+          ["e100", "Go to Marlock City"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e100",
+    "title": "Marlock City",
+    "desc": [
+      "Marlock City is a huge sprawling metropolis, enclosed in a fortified wall said to have been built one thousand years ago by the ancient Shadar Empire. It is the capital city of Sokara. Marlock City was once known as Sokar, until General Grieve Marlock led the army in bloody revolt against the old king, Corin VII, and had him executed. The general renamed the city after himself – it is now a crime to call it Sokar.",
+      "The general lives in the old king’s palace, and calls himself the Protector-General of all Sokara. Whereas the old king was corrupt, the general rules with a fist of iron. Some people like the new regime; others are royalists, still loyal to Nergan, the heir to the throne, who has gone into hiding somewhere.",
+      "Outside the city gates hang the bodies of many dead people – labels around their necks read: ‘Rebels, executed by the state for the good of the people’. ‘You’d best behave yourself if you don’t want to end up like one of them,’ grates a guardsman, nodding towards the swinging corpses, as you pass through the great eagle-headed gates of Marlock City.",
+      "You can buy a town house in Marlock City for 200 Shards. Owning a house gives you a place to rest, and to store equipment. If you buy one, cross off 200 Shards and tick the box by the town house option. To leave Marlock City by sea, or to buy or sell ships and cargo, go the harbourmaster."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e158", "Visit the Three Rings Tavern"],
+          ["e154", "Visit the temple of Alvir and Valmir"],
+          ["e071", "Visit the temple of Nagil"],
+          ["e235", "Visit the temple of Sig"],
+          ["e568", "Visit the temple of Elnir"],
+          ["e396", "Visit the market"],
+          ["e142", "Visit the harbourmaster"],
+          ["e571", "Go to the merchants’ guild"],
+          ["e138", "Explore the city"],
+          ["e434", "Visit your town house (if box ticked)"],
+          ["e535", "Visit the House of Priests"],
+          ["e601", "Visit the general’s palace"],
+          ["e377", "Travel east towards Trefoille"],
+          ["e166", "Head south-east towards the Shadar Tor"],
+          ["e099", "Follow the River Grimm north"],
+          ["e175", "Journey north into the Curstmoor"],
+          ["e579", "Head west to the River Grimm delta"]
+        ]
+      }
     ]
   }
 ]
