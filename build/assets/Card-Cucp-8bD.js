@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t={card:`_card_1svvo_1`,cardHeader:`_cardHeader_1svvo_9`,cardContent:`_cardContent_1svvo_23`},n=e(),r=({title:e,children:r})=>(0,n.jsxs)(`div`,{className:t.card,children:[e&&(0,n.jsx)(`div`,{className:t.cardHeader,children:e}),(0,n.jsx)(`div`,{className:t.cardContent,children:r})]});export{r as t};

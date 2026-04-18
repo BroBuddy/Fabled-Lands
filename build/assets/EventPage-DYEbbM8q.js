@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";import{t}from"./EventService-vBzZ0nfG.js";import{t as n}from"./Card-Cucp-8bD.js";import{t as r}from"./TagList-CVd_IEau.js";var i=e();function a(){let{getEventData:e}=t();return(0,i.jsx)(n,{title:`Events`,children:(0,i.jsx)(r,{tags:e()})})}export{a as default};
