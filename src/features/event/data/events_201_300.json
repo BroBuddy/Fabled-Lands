@@ -716,5 +716,430 @@
       "You lead them a merry chase through the backstreets of Yellowport but unfortunately for you, you ran smack dab into another patrol. You are captured and thrown into the dungeons to await your fate, but not before the militiamen take all your money and possessions.",
       "Turn to e454."
     ]
+  },
+  {
+    "tag": "e253",
+    "title": "Renouncing the Worship of Lacuna",
+    "desc": [
+      "To renounce the worship of Lacuna, you must pass an ordeal of judgment. This entails the high priestess throwing several silver daggers at you, while you remain motionless.",
+      "'If Lacuna sees it in her heart to forgive you, the daggers will all miss,' she claims."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e313", "Submit to the ordeal"],
+          ["e615", "Remain an initiate after all"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e254",
+    "title": "A Kiss from the Mer-folk",
+    "desc": [
+      "You ask for a kiss. 'Oh no!' cry the mer-folk, 'A kiss is not so easily won! Tell us a tale to stir our hearts – then we may reward you.'",
+      "Make a Charisma roll at Difficulty 9."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e012", "Successful Charisma roll"],
+          ["e281", "Failed Charisma roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e255",
+    "title": "Reporting to the Provost Marshal",
+    "desc": [
+      "The provost marshal takes you to an empty side chamber, away from prying ears. Over a glass of fine wine you tell him of your adventures in the Coldbleak Mountains. When you give him the Royal Ring of the House of Corin, he knows that Nergan is dead. Cross the royal ring off your Adventure Sheet.",
+      "Marloes Marlock is pleased indeed. He pays you 500 💎 and awards you the title Protector of Sokara. Note it in your Titles and Honours box. The title will give you instant respect and command obedience in Sokara.",
+      "Also, after completing such a difficult test, you find the experience has taught you much – gain 1 Rank and roll one die. The result is the number of Stamina points you gain permanently. Note the increase on your Adventure Sheet. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "Return to e010 and choose again."
+    ]
+  },
+  {
+    "tag": "e256",
+    "title": "King's Champion",
+    "desc": [
+      "The king is overjoyed with the news. 'Excellent! At this rate I will be able to take my rightful place in the throne room of Old Sokar.'",
+      "He rewards you with the title King's Champion. Note this in the Titles and Honours box on your Adventure Sheet. The title comes with a cash gift of 500 💎 as well.",
+      "You also go up one Rank. Roll one die – the result is the number of Stamina points you gain permanently. Note the increase on your Adventure Sheet. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "The king has another mission for you. He explains that an army of steppe Nomads, Trau, Mannekyn people, and Sokaran troops still loyal to Nergan, have gathered on the steppes and are moving to siege the Citadel of Velis Corin, which guards the Pass of Eagles through the Spine of Harkun. Nergan tells you that an alliance of northern nations has declared war on the new Sokaran regime. A certain General Beladai leads the Northern Alliance, and King Nergan has joined forces with him. He asks you to travel to the Steppes and talk to General Beladai.",
+      "'An adventurer like yourself might be able to steal into the citadel, and bring about its downfall from within, or some such. If the citadel falls we will have Sokara at our mercy.'",
+      "If you want to take up this mission for the King, record the codeword Assault. When you are ready, you are led back down to the foothills of the mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e257",
+    "title": "Into the Old Forest",
+    "desc": [
+      "The trees are closely packed, leaning together as if in conference, whispering quietly among themselves. Birds twitter in the distance, and slivers of sunlight lance down through the musty gloom.",
+      "As you proceed along a forest track, you think you hear a rustling in the bushes. Later, you spot a shadowy figure darting through the trees – or was it your imagination? An animal snuffling sound right behind you makes you spin round, but there is nothing there.",
+      "Make a Scouting roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e630", "Successful Scouting roll"],
+          ["e036", "Failed Scouting roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e258",
+    "title": "Becoming an Initiate of the Three Fortunes",
+    "desc": [
+      "Becoming an initiate of the Three Fortunes gives you the benefit of paying less for blessings and other services the temple can offer. It costs 75 💎 to become an initiate. You cannot do this if you are already an initiate of another temple.",
+      "If you choose to become an initiate, write The Three Fortunes in the God box on your Adventure Sheet and cross off the 75 💎.",
+      "Once you have finished here, turn to e086."
+    ]
+  },
+  {
+    "tag": "e259",
+    "title": "Fort Brilon",
+    "desc": [
+      "Fort Brilon, named after a Sokaran King of the first dynasty, is the southernmost castle on the fortified wall that keeps out the rabid, savage manbeasts. What the soldiers fear most is what they call 'Death Duty' – going out on patrols beyond the wall, into Nerech itself.",
+      "Roll one die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "Thief steals one item from you (your choice)"],
+          ["3–4", "Nothing happens"],
+          ["5–6", "Find a manbeast's helmet"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e365", "East into Nerech (The Plains of Howling Darkness)"],
+          ["e472", "North west to Fort Estgard"],
+          ["e548", "West into the farmlands"],
+          ["e466", "South to Blessed Springs"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e260",
+    "title": "The Invulnerable Tomb Guardian",
+    "desc": [
+      "You are shocked to find that you cannot damage the tomb guardian at all! You have no choice but to run for the door.",
+      "Roll one die – if the result is less than or equal to your Rank, you make it back out into the Forest – turn to e047. Otherwise, the whirlwind guardian catches you and buffets you against the stone walls until you are dead – your adventures are over unless you have a resurrection deal."
+    ]
+  },
+  {
+    "tag": "e261",
+    "title": "Renouncing the Worship of Maka",
+    "desc": [
+      "To renounce the worship of Maka, you must pay 15 💎 to the priesthood by way of compensation.",
+      "A man, lying on a pallet, groans, 'I renounced the goddess, and look at me now...' He is ravaged by disease.",
+      "Do you want to change your mind? If you are determined to renounce your faith, pay the 15 💎 and delete Maka from the God box on your Adventure Sheet. When you have finished here, turn to e141."
+    ]
+  },
+  {
+    "tag": "e262",
+    "title": "Into the Burning Building",
+    "desc": [
+      "You charge into the burning building in search of the child's mother. You see her lying unconscious at the bottom of the stairs. Desperately, you try to get to her but a burning beam has fallen across your way and the smoke is making you choke.",
+      "Roll a die and subtract one from the result. If you score less than or equal to your Rank, turn to e546. Otherwise, turn to e133."
+    ]
+  },
+  {
+    "tag": "e263",
+    "title": "The Gas-Breathing Beast",
+    "desc": [
+      "You are passing through a wooded glade when you hear a horrendous trumpeting noise. Suddenly, a massive bear-like form about the size of a large bull appears in front of you. It looks rather like a huge hairy toad, with a gaping, toothy mouth.",
+      "The creature breathes a billowing cloud of noxious, sulphurous gas at you. You feel your head swim as you start to fall asleep.",
+      "Roll one die and subtract one from the total. If the total is greater than your Rank, turn to e491. Otherwise, turn to e072."
+    ]
+  },
+  {
+    "tag": "e264",
+    "title": "The Floating Reed Island",
+    "desc": [
+      "If there is a tick in the box, turn to e131. If not, put a tick there now, and read on.",
+      "A large island made of reeds and plants, which grow out of a massive floating bed of kelp, drifts aimlessly across the waters. As you draw near, you see that a number of people have made their home there. The inhabitants hail you and invite you ashore.",
+      "Turn to e537."
+    ]
+  },
+  {
+    "tag": "e265",
+    "title": "A Cry from the Alley",
+    "desc": [
+      "If you have the title Unspeakable Cultist, turn to e404. If not, read on.",
+      "You hear a muffled cry of distress from a dark alley."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e361", "Investigate"],
+          ["e010", "Walk on"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e266",
+    "title": "Disrespecting the Army",
+    "desc": [
+      "'You rebel swine,' slurs one of them. 'Not showing proper respect to the army,' says another. 'That can't go unpunished!'",
+      "They wade into you, intent on beating you into submission. Make a Combat roll at Difficulty 12."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e076", "Successful Combat roll"],
+          ["e498", "Failed Combat roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e267",
+    "title": "Fishing on the Lake",
+    "desc": [
+      "You row out into the lake, spread the net, and wait to see what happens.",
+      "After an hour or so, a great bubbling and frothing of the lake disturbs your solitude. A massive scaly head, the size of your boat, erupts out of the ochre-coloured water on the end of a long, sinuous neck. Great luminous green eyes look down at you. The creature is covered in brown scales, with a bright red crest running from the head down its thick, ropy neck.",
+      "'I am Vayss the Sea Dragon,' it says in a rich, creamy voice, tinged with evil greed. 'To fish in my lake, you have to pay tribute – to wit, one silver nugget. Pay now, or face my wrath.'"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e505", "Hand over a silver nugget"],
+          ["e582", "Unable or refuse to pay"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e268",
+    "title": "Overwhelmed by the Goblin-folk",
+    "desc": [
+      "The goblin-folk swarm over you. You try to put up a fight, but there are too many of them. Everything goes black.",
+      "You wake up, spluttering, face down on a beach! A wave has just soaked you. 'Going for a swim, are we?' asks an old woman who is gathering shells on the beach. You learn from her that a month has passed since your adventure in the faery mound, and you can remember none of it.",
+      "If you were wounded, you are now back to full Stamina. However, you realize you have lost all the money and items you were carrying. Cross them off your Adventure Sheet. Instead, you have a wolf pelt that you are wearing, some rat poison and a silver nugget. The old lady tells you that you are on the delta of the River Grimm.",
+      "Turn to e579."
+    ]
+  },
+  {
+    "tag": "e269",
+    "title": "Hidden in the Shadows",
+    "desc": [
+      "You find a natural alcove in the wall of a tunnel. Desperately, you squeeze yourself into it, and fade into the shadows. The ratmen come bundling past, whooping and yelling. None of them spot you, and once they have gone you step out, smiling to yourself.",
+      "Turn to e580."
+    ]
+  },
+  {
+    "tag": "e270",
+    "title": "Searching for Secret Panels",
+    "desc": [
+      "You make a swift inspection of the casements, walls and furnishings, searching for secret panels where treasure might be concealed. Make a Thievery roll at a Difficulty of 12."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e059", "Successful Thievery roll"],
+          ["e243", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e271",
+    "title": "The Pass of Eagles",
+    "desc": [
+      "You arrive at the Pass of Eagles, a thin chasm sliced right through the Spine of Harkun, as if Tyrnai himself had split the mountains with his sword.",
+      "A vast citadel has been built right across the southern end of the pass, bottling it up, so that none can travel into Sokara without passing through the castle. Its white walls and flag-topped towers shine brightly in the sunlight."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e400", "Enter the citadel (The Plains of Howling Darkness)"],
+          ["e003", "Go to the western foothills"],
+          ["e244", "The eastern foothills"],
+          ["e201", "South on the road to Caran Baru"],
+          ["e518", "Take the road to Fort Mereth"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e272",
+    "title": "The Chief Administrator's Rebuke",
+    "desc": [
+      "If you have the codeword Aloft, turn to e649 immediately. If not, read on.",
+      "The chief administrator is not happy to see you. 'What are you doing here?' he demands. 'You should be at Devil's Peak, north of here! The storm demons still threaten our city. Come back when you have succeeded.'",
+      "Turn to e100."
+    ]
+  },
+  {
+    "tag": "e273",
+    "title": "Yellowport in Turmoil",
+    "desc": [
+      "You find the city is in turmoil. A rebel group, loyal to the old king, led an uprising against the army. Vicious fighting ensued and the streets ran with blood before the rebellion was brutally put down. Unfortunately, much damage was done during the battle. If you own a town house in Yellowport it has been looted – any possessions you may have cached there have gone.",
+      "Make a note of this paragraph number, turn to e300, cross off anything you had stored there, and return here to read on.",
+      "If you have the codeword Artefact and the Book of the Seven Sages, turn to e040. If not, turn back to e010 and choose from the options listed there."
+    ]
+  },
+  {
+    "tag": "e274",
+    "title": "Spotted by the Dragon",
+    "desc": [
+      "Desperately, you try to sneak behind a pile of coins but the dragon spots you.",
+      "'A sneaky little thief, eh! Can't have that, oh no, not at all!' hisses the dragon, and it breathes a cloud of billowing acidic gas all over you. You watch in horror as the coins in front of you begin to melt, and then the cloud engulfs you.",
+      "If you have an amulet of protection, turn to e298. Otherwise, turn to e212."
+    ]
+  },
+  {
+    "tag": "e275",
+    "title": "Blessing of Safety from Storms",
+    "desc": [
+      "If you are an initiate it costs only 5 💎 to propitiate the twin gods of the sea. A non-initiate must pay 20 💎. Cross off the money and mark Safety from Storms in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to ignore any one storm at sea. When you use the blessing, cross it off your Adventure Sheet. You can only have one Safety from Storms blessing at any one time. Once it is used up, you can return to any branch of the temple of Alvir and Valmir to buy a new one.",
+      "Turn to e154."
+    ]
+  },
+  {
+    "tag": "e276",
+    "title": "Wilderness of North-western Sokara",
+    "desc": [
+      "You are wandering across the wilderness of north-western Sokara. There is a magnificent castle nearby, with many different pennants flying from its towers."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e611", "Visit the castle"],
+          ["e123", "Head west to the River Grimm"],
+          ["e003", "Travel north to the mountains"],
+          ["e201", "Head north-east"],
+          ["e110", "Head east into the Bronze Hills"],
+          ["e047", "Go south into the Forest of Larun"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e277",
+    "title": "Stopped by a Militia Patrol",
+    "desc": [
+      "A patrol of militiamen – mercenaries in the pay of the dictator, General Grieve Marlock – stop you in the street.",
+      "If you have the codeword Assassin, turn to e221 immediately.",
+      "If not, but you are a Protector of Sokara, they greet you politely and salute. You return to the city centre without incident – turn to e010.",
+      "Otherwise they decide you will be arrested unless you pay 15 💎 as 'taxes'. If you refuse, or don't have 15 💎, turn to e538. If you hand over the money, cross it off and the militiamen leave you alone – turn back to e010."
+    ]
+  },
+  {
+    "tag": "e278",
+    "title": "Open Flinty Ground",
+    "desc": [
+      "You are crossing an open expanse of flinty ground. A few herds of sheep roam the low hills.",
+      "Roll a die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "You get lost. Turn to e082."],
+          ["3–4", "Nothing happens"],
+          ["5–6", "A shepherd gives you a wolf pelt"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e427", "To Venefax"],
+          ["e310", "West to the Stinking River"],
+          ["e135", "North to the lake"],
+          ["e087", "East"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e279",
+    "title": "Sacrilege at the Temple of Tyrnai",
+    "desc": [
+      "What you have just done is probably a sacrilege, desecrating the Temple of Tyrnai, but you don't care. You sneak out of the temple unseen, and head back to town with your prize. Who else could have stolen something from right under the noses of the warrior priests of Tyrnai!",
+      "Turn to e400."
+    ]
+  },
+  {
+    "tag": "e280",
+    "title": "Too Many Wolves",
+    "desc": [
+      "There are too many wolves to contend with. You withdraw before they get angry.",
+      "Turn to e003."
+    ]
+  },
+  {
+    "tag": "e281",
+    "title": "An Unappreciative Audience",
+    "desc": [
+      "Your tale of valour and derring-do falls on an unappreciative audience. The mer-folk slip beneath the waves with snorts of derision, leaving you alone on the desolate beach. There is nothing for you to do but return to the clifftop tor."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e602", "Take the road to Trefoille"],
+          ["e166", "Take the road to Marlock City"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e282",
+    "title": "The Temple of Tyrnai",
+    "desc": [
+      "If you have the codeword Armour, turn to e246 immediately. If not, read on.",
+      "The Temple of Tyrnai, the God of Battle, Chaos and Strife, is built like a small fortress in one corner of the city, near the barracks. Its heavy wooden gates are flanked by iron statues of bull-headed men wielding clubs. The workmanship is uncannily life-like. Inside, the god is represented by a stone idol of a jaguar-headed warrior. A beautiful suit of gold chain mail adorns the idol."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e636", "Become an initiate"],
+          ["e514", "Renounce worship"],
+          ["e107", "Seek a blessing"],
+          ["e033", "Make resurrection arrangements"],
+          ["e400", "Leave the temple"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e283",
+    "title": "The Ghost Banquet",
+    "desc": [
+      "'What goes on here?' you ask. 'Why do you behave so oddly?'",
+      "The villagers seem quite frightened of you, but one old fellow has nerve enough to reply. 'This banquet is for the ghosts of three travellers who lost their way in a storm, fell into our millpond and were drowned.'",
+      "'When was this?' you ask. 'Seven years since. They come every year on this night, and if we didn't placate them with victuals and treasure, there'd be a mess of trouble.'",
+      "'How do you know that?' 'Old Megan told us,' he says. 'She knows much about such things.'"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e590", "Stay out at night and watch for the ghosts"],
+          ["e576", "Follow the river north"],
+          ["e082", "Follow the river south"],
+          ["e278", "Head east into the countryside"]
+        ]
+      }
+    ]
   }
 ]
