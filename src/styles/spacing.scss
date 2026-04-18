@@ -1,0 +1,84 @@
+@use "sass:map";
+
+$base-spacing: 0.25rem;
+
+$spacing-multipliers: (
+  0: 0,
+  1: 1,
+  2: 2,
+  3: 3,
+  4: 4,
+  5: 5,
+  6: 6,
+  7: 7,
+  8: 8,
+  9: 9,
+  10: 10,
+  15: 15,
+  20: 20,
+  25: 25,
+);
+
+@each $size-key, $multiplier in $spacing-multipliers {
+  .gap-#{$size-key} {
+    gap: $multiplier * 1px;
+  }
+  .gap-x-#{$size-key} {
+    column-gap: $multiplier * 1px;
+  }
+  .gap-y-#{$size-key} {
+    row-gap: $multiplier * 1px;
+  }
+}
+
+@each $size-key, $multiplier in $spacing-multipliers {
+  .p-#{$size-key} {
+    padding: $multiplier * $base-spacing;
+  }
+  .pt-#{$size-key} {
+    padding-top: $multiplier * $base-spacing;
+  }
+  .pr-#{$size-key} {
+    padding-right: $multiplier * $base-spacing;
+  }
+  .pb-#{$size-key} {
+    padding-bottom: $multiplier * $base-spacing;
+  }
+  .pl-#{$size-key} {
+    padding-left: $multiplier * $base-spacing;
+  }
+  .px-#{$size-key} {
+    padding-left: $multiplier * $base-spacing;
+    padding-right: $multiplier * $base-spacing;
+  }
+  .py-#{$size-key} {
+    padding-top: $multiplier * $base-spacing;
+    padding-bottom: $multiplier * $base-spacing;
+  }
+}
+
+@each $size-key, $multiplier in $spacing-multipliers {
+  .m-#{$size-key} {
+    margin: $multiplier * $base-spacing;
+  }
+  .mt-#{$size-key} {
+    margin-top: $multiplier * $base-spacing;
+  }
+  .mr-#{$size-key} {
+    margin-right: $multiplier * $base-spacing;
+  }
+  .mb-#{$size-key} {
+    margin-bottom: $multiplier * $base-spacing;
+  }
+  .ml-#{$size-key} {
+    margin-left: $multiplier * $base-spacing;
+  }
+  .mx-#{$size-key} {
+    margin-left: $multiplier * $base-spacing;
+    margin-right: $multiplier * $base-spacing;
+  }
+  .my-#{$size-key} {
+    margin-top: $multiplier * $base-spacing;
+    margin-bottom: $multiplier * $base-spacing;
+  }
+}

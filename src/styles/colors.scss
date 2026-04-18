@@ -1,0 +1,36 @@
+:root {
+  --white: #fff;
+  --light-grey: #f0f0f0;
+  --grey: #e2dfda;
+  --dark-grey: #262626;
+  --black: #000;
+  --paper: #c9b48a;
+  --bronze: #7a5c2e;
+  --gold: #b08a3c;
+  --red: #7b2e2e;
+  --beige: #f4ecd8;
+  --brown: #2b241b;
+}
+
+$colors: (
+  "white": var(--white),
+  "light-grey": var(--light-grey),
+  "grey": var(--grey),
+  "dark-grey": var(--dark-grey),
+  "black": var(--black),
+  "paper": var(--paper),
+  "bronze": var(--bronze),
+  "gold": var(--gold),
+  "red": var(--red),
+  "beige": var(--beige),
+  "brown": var(--brown),
+);
+
+@each $name, $hex in $colors {
+  .text-#{$name} {
+    color: $hex;
+  }
+  .bg-#{$name} {
+    background-color: $hex;
+  }
+}

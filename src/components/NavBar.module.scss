@@ -1,0 +1,32 @@
+.navBar {
+  background-color: var(--paper);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 768px;
+
+  > a {
+    border-radius: 20px;
+    color: var(--beige);
+    display: flex;
+    flex-direction: column;
+    padding: 10px 4px 2px 4px;
+    text-decoration: none;
+    white-space: nowrap;
+    text-align: center;
+
+    &.active {
+      background: transparent;
+      color: var(--brown);
+    }
+
+    > span {
+      font-size: 18px;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+$font-sizes: (
+  xs: 9px,
+  sm: 11px,
+  md: 13px,
+  lg: 15px,
+  xl: 17px,
+);
+
+.text {
+  @each $size-name, $size in $font-sizes {
+    &-#{$size-name} {
+      font-size: $size;
+    }
+  }
+}
+
+.text-bold {
+  font-weight: bold;
+}

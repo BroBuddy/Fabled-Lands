@@ -1,0 +1,132 @@
+@use "./styles/typography";
+@use "./styles/spacing";
+@use "./styles/flexbox";
+@use "./styles/sizing";
+@use "./styles/colors";
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
+
+#root {
+  font-family:
+    "Palatino Linotype", "Book Antiqua", Palatino, Georgia, Garamond, serif;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 768px;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+
+body {
+  background-color: var(--paper);
+  box-sizing: border-box;
+  color: var(--black);
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+  padding-bottom: 55px;
+}
+
+a {
+  color: var(--red);
+  font-family: "Cinzel", cursive;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+button {
+  background-color: var(--brown);
+  border-radius: 14px;
+  color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 12px;
+
+  > span {
+    font-size: 12px;
+  }
+}
+
+p {
+  margin: 8px 0;
+}
+
+p,
+li,
+em,
+strong,
+span,
+table {
+  font-size: 14px;
+  line-height: 1.4em;
+}
+
+img {
+  border-radius: 8px;
+  width: calc(100% - 30px);
+  margin: 12px 15px 25px 15px;
+  display: block;
+  height: 120px;
+  width: 120px;
+}
+
+ul {
+  list-style: square;
+  margin: 5px 20px;
+  padding: 0;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.note {
+  font-size: 11px;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+table {
+  background-color: var(--brown);
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin: 15px;
+  overflow: hidden;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: calc(100% - 30px);
+
+  tr {
+    td,
+    th {
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+    th {
+      color: var(--beige);
+      font-family: "Cinzel", cursive;
+      font-size: 16px;
+      letter-spacing: 0.1em;
+      text-align: left;
+    }
+
+    td {
+      background-color: var(--light-grey);
+      text-align: left;
+    }
+  }
+
+  tr:nth-child(odd) td {
+    background-color: var(--grey);
+  }
+}

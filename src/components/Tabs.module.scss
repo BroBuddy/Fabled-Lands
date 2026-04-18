@@ -1,0 +1,12 @@
+.tabs > span {
+  border-bottom: 3px solid var(--grey);
+  color: var(--grey);
+  cursor: pointer;
+  font-weight: bold;
+  margin: 0 2px;
+
+  &.active {
+    color: var(--gold);
+    border-color: var(--gold);
+  }
+}
