@@ -210,6 +210,236 @@ const ruleData: Rule[] = [
       },
     ],
   },
+  {
+    tag: "r012",
+    title: "Starting characters",
+    desc: [
+      "You can create your own character, or pick one from the following – except for the last two listed.Transfer the details of the character you have chosen to the Adventure Sheet.",
+    ],
+    tables: [
+      {
+        cols: ["Characters"],
+        rows: [
+          ["r012a", "Liana the Swift"],
+          ["r012b", "Andriel the Hammer"],
+          ["r012c", "Chalor the Exiled One"],
+          ["r012d", "Marana Fireheart"],
+          ["r012e", "Ignatius the Devout"],
+          ["r012g", "Astariel Skysong"],
+        ],
+      },
+    ],
+  },
+  {
+    tag: "r012a",
+    title: "Liana the Swift",
+    desc: [
+      "Liana prefers to make her home in mountain grottos and woodland groves rather than in the squalid streets of cities. She has the agility of a gazelle, the cunning of a fox and the ferocity of an eagle.",
+      "She has heard of a City of Trees, deep within the forest of the Isle of Druids.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Wayfarer"],
+          ["Stamina", "9 ❤️"],
+          ["Defence", "7 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "2"],
+          ["Combat", "5"],
+          ["Magic", "2"],
+          ["Sanctity", "3"],
+          ["Scouting", "6"],
+          ["Thievery", "4"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Spear"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
+  {
+    tag: "r012b",
+    title: "Andriel the Hammer",
+    desc: [
+      "Andriel seeks fame through adventure and the glory of battle. He left his homeland when an extended outbreak of peace made his skills redundant there.",
+      "He is blunt and outspoken, but scrupulously follows the warrior's code. He knows the merchants' guild in Yellowport needs assistance.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Warrior"],
+          [" Stamina", "9 ❤️"],
+          ["Defence", "8 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "3"],
+          ["Combat", "6"],
+          ["Magic", "2"],
+          ["Sanctity", "4"],
+          ["Scouting", "3"],
+          ["Thievery", "2"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Battle-axe"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
+  {
+    tag: "r012c",
+    title: "Chalor the Exiled One",
+    desc: [
+      "Chalor is an outcast by choice, shunning his native land and the family who spurned him, driven by a burning desire for secret knowledge.",
+      "His goal is to become one of the mightiest wizards of the world, and nothing will stand in his way. For now, he is looking for the Gold Dust Tavern in Yellowport, where adventure awaits.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Mage"],
+          ["Stamina", "9 ❤️"],
+          ["Defence", "4 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "2"],
+          ["Combat", "2"],
+          ["Magic", "6"],
+          ["Sanctity", "1"],
+          ["Scouting", "5"],
+          ["Thievery", "3"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Staff"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
+  {
+    tag: "r012d",
+    title: "Marana Fireheart",
+    desc: [
+      "Marana is a fiercely independent woman who grew up in the back streets of her home town. Forced to flee because she was too active in her chosen profession, she has come to new lands to seek her fortune.",
+      "Devious and resourceful, she can break in almost anywhere. She has heard that the temple of Sig in Marlock City needs the service of a rogue.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Rogue"],
+          ["Stamina", "9 ❤️"],
+          ["Defence", "6 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "5"],
+          ["Combat", "4"],
+          ["Magic", "4"],
+          ["Sanctity", "1"],
+          ["Scouting", "2"],
+          ["Thievery", "6"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Sword"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
+  {
+    tag: "r012e",
+    title: "Ignatius the Devout",
+    desc: [
+      "Ignatius is a traveller whose desire is to learn all he can about the deities of the Fabled Lands. His strong beliefs give his sermons added zest, and he has enthralled many a crowd with his impassioned speeches.",
+      "He is looking for the House of Priests in Marlock City.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Priest"],
+          ["Stamina", "9 ❤️"],
+          ["Defence", "4 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "4"],
+          ["Combat", "2"],
+          ["Magic", "3"],
+          ["Sanctity", "6"],
+          ["Scouting", "4"],
+          ["Thievery", "2"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Mace"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
+  {
+    tag: "r012f",
+    title: "Astariel Skysong",
+    desc: [
+      "Astariel has the wanderlust, and chafes if he has to remain in one place for any length of time. He enjoys the freedom of the open road and the thought that he never knows what adventures each new day will bring.",
+      "He lives by his wits and is a familiar figure at tavern firesides, where he regales travellers with his tales.",
+    ],
+    tables: [
+      {
+        cols: ["Stat", "Value"],
+        rows: [
+          ["Rank", "1st"],
+          ["Profession", "Troubadour"],
+          ["Stamina", "9 ❤️"],
+          ["Defence", "5 🛡️"],
+          ["Money", "16 💎"],
+        ],
+      },
+      {
+        cols: ["Ability", "Score"],
+        rows: [
+          ["Charisma", "6"],
+          ["Combat", "3"],
+          ["Magic", "4"],
+          ["Sanctity", "3"],
+          ["Scouting", "2"],
+          ["Thievery", "4"],
+        ],
+      },
+      {
+        cols: ["Possessions"],
+        rows: [["Sword"], ["Leather jerkin (Defence +1)"], ["Map"]],
+      },
+    ],
+  },
 ];
 
 export default ruleData;
