@@ -8,11 +8,11 @@ const RulePage = lazy(() => import("./features/rule/pages/RulePage"));
 const RuleDetailPage = lazy(
   () => import("./features/rule/pages/RuleDetailPage"),
 );
-const EventPage = lazy(() => import("./features/event/pages/EventPage"));
 const EventDetailPage = lazy(
   () => import("./features/event/pages/EventDetailPage"),
 );
 const CodewordsPage = lazy(() => import("./pages/CodewordsPage"));
+const HistoryPage = lazy(() => import("./pages/HistoryPage"));
 const MapPage = lazy(() => import("./pages/MapPage"));
 
 const router = createBrowserRouter([
@@ -22,9 +22,9 @@ const router = createBrowserRouter([
       { path: "/", element: <GamePage /> },
       { path: "/rule", element: <RulePage /> },
       { path: "/rule/:tag", element: <RuleDetailPage /> },
-      { path: "/event", element: <EventPage /> },
       { path: "/event/:tag", element: <EventDetailPage /> },
       { path: "/codewords", element: <CodewordsPage /> },
+      { path: "/history", element: <HistoryPage /> },
       { path: "/map", element: <MapPage /> },
     ],
   },

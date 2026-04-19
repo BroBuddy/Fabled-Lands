@@ -5,11 +5,19 @@ import ListTable from "@/components/ListTable";
 import { parseLinks } from "@/lib/parseLinks";
 import { ChevronLeftCircle, ChevronRightCircle } from "lucide-react";
 import { ParagraphImage } from "@/components/ParagraphImage";
+import { useHistory } from "@/hooks/useHistory";
+import { useEffect } from "react";
 
 const EventDetailPage = () => {
   const { tag } = useParams();
   const { getEventByTag } = useEventService();
   const event = getEventByTag(tag as string);
+  const { addToHistory } = useHistory();
+
+  useEffect(() => {
+    if (!event) return;
+    addToHistory(event.tag, event.title);
+  }, [addToHistory, event]);
 
   if (!event) return null;
 
