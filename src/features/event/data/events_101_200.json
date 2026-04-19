@@ -536,11 +536,11 @@
     "title": "The Harbourmaster's Office",
     "desc": [
       "All shipping in and out of Marlock City must come through the offices of the harbourmaster. Here you can buy passage to far lands, or even a ship of your own, to fill with cargo and crew.",
-      "You can buy one-way passage on a ship to the following destinations: (see table below)",
-      "If you buy a ship, you are the captain and can take it where you wish, exploring or trading. You also get to name it. There are three types of ship, and four types of crew quality. You can also buy cargo for your ship to sell in other ports. (see table below)",
+      "You can buy one-way passage on a ship to the following destinations (see table below).",
+      "If you buy a ship, you are the captain and can take it where you wish, exploring or trading. You also get to name it. There are three types of ship, and four types of crew quality. You can also buy cargo for your ship to sell in other ports.",
       "If you buy a ship, add it to the Ship's Manifest and name it as you wish. The quality of the ship's crew is average, unless you pay to upgrade it. If you already own a ship you can sell it to the harbourmaster at half the above prices.",
       "It costs 50 💎 to upgrade a poor crew to average, 100 💎 to upgrade an average crew to good, and 150 💎 to upgrade a good crew to excellent.",
-      "Cargo can be bought at Marlock City and sold at other ports for profit. If you own a ship, you can buy as many Cargo Units as it has room for. You may also sell cargo, if you have any. Prices quoted here are for entire Cargo Units. (see table below)",
+      "Cargo can be bought at Marlock City and sold at other ports for profit. If you own a ship, you can buy as many Cargo Units as it has room for. You may also sell cargo, if you have any. Prices quoted here are for entire Cargo Units.",
       "Fill in your current cargo on the Ship's Manifest – assuming you own a ship!",
       "If you own a ship and wish to set sail, turn to e084. If not, you can go to the city centre. Turn to e100."
     ],
@@ -685,7 +685,7 @@
     "desc": [
       "If you have the codeword Attar, turn to e623 immediately.",
       "You clamber down a ladder into a long, low hall, the Venefax Market. A sign reads, 'Closed on Thursday'. Fortunately, it's not Thursday, and a stocky, barrel-chested man with piggy eyes introduces himself as Fourze, the Master of the Market.",
-      "There is not much for you to buy or sell in this provincial market. Items with no purchase price are not available locally. (see table below)",
+      "There is not much for you to buy or sell in this provincial market. Items with no purchase price are not available locally.",
       "When you are finished, turn back to e427."
     ],
     "tables": [

@@ -200,7 +200,7 @@
     "tag": "e215",
     "title": "Caran Baru Market",
     "desc": [
-      "Caran Baru market consists of several covered arcades – much of its stock is for miners and soldiers, and it is run with business-like efficiency by the Sokaran military. Items with no purchase price are not available locally. (see table below)",
+      "Caran Baru market consists of several covered arcades – much of its stock is for miners and soldiers, and it is run with business-like efficiency by the Sokaran military. Items with no purchase price are not available locally.",
       "When you have finished, turn back to e400."
     ],
     "tables": [
@@ -1219,7 +1219,7 @@
     "tag": "e292",
     "title": "The Local Market at Cadmium",
     "desc": [
-      "The local market is very small – only two commodities are available for trade. (see table below)",
+      "The local market is very small – only two commodities are available for trade.",
       "When you are finished, turn back to e135."
     ],
     "tables": [

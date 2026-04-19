@@ -114,7 +114,7 @@
     "desc": [
       "He narrows his eyes angrily at your refusal. If your ship is a galleon and you have a good or excellent crew, turn to e335 immediately. If not, read on.",
       "'In that case, I have no choice but to seize your ship!' More of his men swarm on to your ship, and a battle ensues.",
-      "Roll three dice if you are a Warrior, or two dice if you belong to any other profession. Add your Rank to this roll. If the crew is poor quality, subtract 2 from the total. If the crew is good, add 2; if it is excellent, add 3. (see table below)"
+      "Roll three dice if you are a Warrior, or two dice if you belong to any other profession. Add your Rank to this roll. If the crew is poor quality, subtract 2 from the total. If the crew is good, add 2; if it is excellent, add 3."
     ],
     "tables": [
       {
@@ -371,7 +371,7 @@
     "tag": "e332",
     "title": "The Trading Post Quayside",
     "desc": [
-      "The quayside at the Trading Post is a simple affair, without the harbour facilities or the shipwrights of the larger ports. There are no ships available to buy here, but if you already own a ship, you can buy and sell cargo. (see table below)",
+      "The quayside at the Trading Post is a simple affair, without the harbour facilities or the shipwrights of the larger ports. There are no ships available to buy here, but if you already own a ship, you can buy and sell cargo.",
       "Prices are for single Cargo Units. Fill in your current cargo on the Ship's Manifest.",
       "You can buy a one-way passage to Yellowport from here at a cost of 15 💎 – turn to e074.",
       "If you own a ship and wish to set sail, turn to e155. If not, turn to e195."
@@ -517,7 +517,7 @@
     "tag": "e342",
     "title": "The Alchemist's Shop",
     "desc": [
-      "The alchemist's shop is lined with potions, jars of exotic substances, herbs, and so on. Alembics and beakers bubble and boil, full of strangely-coloured liquids. The alchemist, a tall, gangly fellow with a beak of a nose, sells potions. You can buy as many as you can afford – each one costs 50 💎. (see table below)",
+      "The alchemist's shop is lined with potions, jars of exotic substances, herbs, and so on. Alembics and beakers bubble and boil, full of strangely-coloured liquids. The alchemist, a tall, gangly fellow with a beak of a nose, sells potions. You can buy as many as you can afford – each one costs 50 💎.",
       "A potion can be used just before an ability roll or a fight to add 1 to the relevant ability for that one roll or fight only. Each potion can be used only once.",
       "The alchemist can make you a special potion for 250 💎, but he needs an ink sac. If you pay the money, and have an ink sac (cross it off your Adventure Sheet) he will make you a potion of restoration. It can be used only once to heal all lost ❤️ points, cure poison and disease.",
       "Turn to e510."
