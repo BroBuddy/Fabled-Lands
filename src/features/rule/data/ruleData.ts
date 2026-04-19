@@ -122,7 +122,7 @@ const ruleData: Rule[] = [
     ],
     note: [
       "Example: You are a 3rd Rank character with a COMBAT score of 4, and you have to fight a goblin (COMBAT 5, Defence 7, Stamina 6). The fight begins with your attack (you always get first blow unless told otherwise). Suppose you roll 8 on two dice. Adding your COMBAT gives a total of 12. This is 5 more than the goblin's Defence, so it loses 5 Stamina.",
-      "The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its Combat of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (Defence +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.",
+      "The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (Defence +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.",
     ],
   },
   {
@@ -196,7 +196,7 @@ const ruleData: Rule[] = [
           ],
           ["Some items give ability bonuses. Are these cumulative?"],
           [
-            "No. If you already have a set of lockpicks (THIEVERY +1) and then acquire a set of magic lockpicks (THIEVERY +2), you don't get a +3 bonus, only +2. Count only the bonus given by your best item for each ability.",
+            "No. If you already have a set of lockpicks (THIEVERY +1) and then acquire a set of MAGIC lockpicks (THIEVERY +2), you don't get a +3 bonus, only +2. Count only the bonus given by your best item for each ability.",
           ],
           ["Why do I keep going back to entries I've been to?"],
           [
@@ -252,12 +252,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "2 🎭"],
-          ["Combat", "5 ⚔️"],
-          ["Magic", "2 🔮"],
-          ["Sanctity", "3 ✨"],
-          ["Scouting", "6 🧭"],
-          ["Thievery", "4 🗝️"],
+          ["CHARISMA", "2 🎭"],
+          ["COMBAT", "5 ⚔️"],
+          ["MAGIC", "2 🔮"],
+          ["SANCTITY", "3 ✨"],
+          ["SCOUTING", "6 🧭"],
+          ["THIEVERY", "4 🗝️"],
         ],
       },
       {
@@ -288,12 +288,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "3 🎭"],
-          ["Combat", "6 ⚔️"],
-          ["Magic", "2 🔮"],
-          ["Sanctity", "4 ✨"],
-          ["Scouting", "3 🧭"],
-          ["Thievery", "2 🗝️"],
+          ["CHARISMA", "3 🎭"],
+          ["COMBAT", "6 ⚔️"],
+          ["MAGIC", "2 🔮"],
+          ["SANCTITY", "4 ✨"],
+          ["SCOUTING", "3 🧭"],
+          ["THIEVERY", "2 🗝️"],
         ],
       },
       {
@@ -328,12 +328,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "2 🎭"],
-          ["Combat", "2 ⚔️"],
-          ["Magic", "6 🔮"],
-          ["Sanctity", "1 ✨"],
-          ["Scouting", "5 🧭"],
-          ["Thievery", "3 🗝️"],
+          ["CHARISMA", "2 🎭"],
+          ["COMBAT", "2 ⚔️"],
+          ["MAGIC", "6 🔮"],
+          ["SANCTITY", "1 ✨"],
+          ["SCOUTING", "5 🧭"],
+          ["THIEVERY", "3 🗝️"],
         ],
       },
       {
@@ -364,12 +364,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "5 🎭"],
-          ["Combat", "4 ⚔️"],
-          ["Magic", "4 🔮"],
-          ["Sanctity", "1 ✨"],
-          ["Scouting", "2 🧭"],
-          ["Thievery", "6 🗝️"],
+          ["CHARISMA", "5 🎭"],
+          ["COMBAT", "4 ⚔️"],
+          ["MAGIC", "4 🔮"],
+          ["SANCTITY", "1 ✨"],
+          ["SCOUTING", "2 🧭"],
+          ["THIEVERY", "6 🗝️"],
         ],
       },
       {
@@ -400,12 +400,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "4 🎭"],
-          ["Combat", "2 ⚔️"],
-          ["Magic", "3 🔮"],
-          ["Sanctity", "6 ✨"],
-          ["Scouting", "4 🧭"],
-          ["Thievery", "2 🗝️"],
+          ["CHARISMA", "4 🎭"],
+          ["COMBAT", "2 ⚔️"],
+          ["MAGIC", "3 🔮"],
+          ["SANCTITY", "6 ✨"],
+          ["SCOUTING", "4 🧭"],
+          ["THIEVERY", "2 🗝️"],
         ],
       },
       {
@@ -436,12 +436,12 @@ const ruleData: Rule[] = [
       {
         cols: ["Ability", "Score"],
         rows: [
-          ["Charisma", "6 🎭"],
-          ["Combat", "3 ⚔️"],
-          ["Magic", "4 🔮"],
-          ["Sanctity", "3 ✨"],
-          ["Scouting", "2 🧭"],
-          ["Thievery", "4 🗝️"],
+          ["CHARISMA", "6 🎭"],
+          ["COMBAT", "3 ⚔️"],
+          ["MAGIC", "4 🔮"],
+          ["SANCTITY", "3 ✨"],
+          ["SCOUTING", "2 🧭"],
+          ["THIEVERY", "4 🗝️"],
         ],
       },
       {

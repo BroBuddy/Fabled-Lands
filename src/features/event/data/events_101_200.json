@@ -245,10 +245,10 @@
   },
   {
     "tag": "e121",
-    "title": "Underwater Combat at the Repulsive Ones",
+    "title": "Underwater COMBAT at the Repulsive Ones",
     "desc": [
       "You wait outside, hoping to take the repulsive ones singly as they emerge. You will have to fight the three of them, but you may do so one at a time.",
-      "Subtract 1 from your dice rolls for every fight because you are unused to underwater combat.",
+      "Subtract 1 from your dice rolls for every fight because you are unused to underwater COMBAT.",
       "If you beat all three, turn to e213. If you lose, your adventuring days are over, unless you have a resurrection deal."
     ],
     "tables": [
@@ -277,7 +277,7 @@
     "title": "Ford at the River Grimm",
     "desc": [
       "This is the east bank of the River Grimm, near its source in the Spine of Harkun, far to the north.",
-      "You reach a ford where you can travel to the west bank for 1 Shard. You could try swimming across instead, but the current is strong: you need to succeed at a Scouting roll at a Difficulty of 10 to do so."
+      "You reach a ford where you can travel to the west bank for 1 Shard. You could try swimming across instead, but the current is strong: you need to succeed at a SCOUTING roll at a Difficulty of 10 to do so."
     ],
     "tables": [
       {
@@ -327,28 +327,28 @@
       "If you have the codeword Aloft, turn to e199 immediately. If not, read on.",
       "You come across a strange sight. A man lies staked out on the ground, asleep. Blue energy crackles up and down his body, and a hefty-looking hammer, glowing red, is still attached to his belt. It is Sul Veneris, the one you have come to free.",
       "As you are about to lift the stakes, a whistling, keening blast of ferocious wind engulfs you. You are surrounded by whirling storm demons – vaguely man-shaped creatures of thunderous energy which try to sweep you into the air and off the edge of the peak.",
-      "You try to recite the rituals of dismissal associated with such demons. Make a Sanctity roll at Difficulty 12."
+      "You try to recite the rituals of dismissal associated with such demons. Make a SANCTITY roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e421", "Successful Sanctity roll"],
-          ["e210", "Failed Sanctity roll"]
+          ["e421", "Successful SANCTITY roll"],
+          ["e210", "Failed SANCTITY roll"]
         ]
       }
     ]
   },
   {
     "tag": "e127",
-    "title": "Thievery Check",
-    "desc": ["Make a Thievery roll at Difficulty 9."],
+    "title": "THIEVERY Check",
+    "desc": ["Make a THIEVERY roll at Difficulty 9."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e269", "Successful Thievery roll"],
-          ["e183", "Failed Thievery roll"]
+          ["e269", "Successful THIEVERY roll"],
+          ["e183", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -397,14 +397,14 @@
     "title": "The Enchanted Flute",
     "desc": [
       "You play the flute like never before. The king and the queen are enchanted by the haunting melodies you are able to coax from the enchanted flute. Unfortunately, you have played too well. The king puts you under a spell, so that you find you cannot stop.",
-      "Make a Sanctity roll at Difficulty 11."
+      "Make a SANCTITY roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e413", "Successful Sanctity roll"],
-          ["e307", "Failed Sanctity roll"]
+          ["e413", "Successful SANCTITY roll"],
+          ["e307", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -588,14 +588,14 @@
     "title": "Banishing the Ghoul",
     "desc": [
       "You call on the powers of the gods to banish this foul, blasphemous travesty of life. The Ghoul shrinks back for a moment, snarling.",
-      "Make a Sanctity roll at Difficulty 10."
+      "Make a SANCTITY roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e223", "Successful Sanctity roll"],
-          ["e289", "Failed Sanctity roll"]
+          ["e223", "Successful SANCTITY roll"],
+          ["e289", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -604,7 +604,7 @@
     "tag": "e145",
     "title": "King Skabb Attacks",
     "desc": [
-      "King Skabb gives a cry of anger and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 to your Combat if you have some rat poison to put on your weapon. If you use the poison, cross it off your Adventure Sheet.",
+      "King Skabb gives a cry of anger and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 to your COMBAT if you have some rat poison to put on your weapon. If you use the poison, cross it off your Adventure Sheet.",
       "If you lose, your adventuring career will be over, unless you have a resurrection deal. If you win, turn to e554."
     ],
     "tables": [
@@ -696,8 +696,8 @@
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["Without Combat bonus", "50 💎", "40 💎"],
-          ["Combat bonus +1", "–", "200 💎"]
+          ["Without COMBAT bonus", "50 💎", "40 💎"],
+          ["COMBAT bonus +1", "–", "200 💎"]
         ]
       },
       {
@@ -791,7 +791,7 @@
     "tag": "e159",
     "title": "Taken by the Mer-folk",
     "desc": [
-      "Your mind falls into a waking dream, and you walk lazily into the waters. The mer-folk, laughing and singing, take you down to their undersea home of living coral, where they stop you from drowning with their faery magic. They keep you for several weeks, until you are no longer an amusement to them.",
+      "Your mind falls into a waking dream, and you walk lazily into the waters. The mer-folk, laughing and singing, take you down to their undersea home of living coral, where they stop you from drowning with their faery MAGIC. They keep you for several weeks, until you are no longer an amusement to them.",
       "You wake up, as if from a long sleep, with only a shadowy memory of your ordeal, to find yourself washed up in the harbour of Yellowport. You have lost all the possessions you were carrying (erase them from your Adventure Sheet) but you still have your money.",
       "Turn to e010."
     ]
@@ -803,14 +803,14 @@
       "If there is a tick in the box, turn to e461 immediately. If not, put a tick there now, and read on.",
       "You learned the password 'Rebirth' in the library of Dweomer. 'My aren't we the wise one,' carps the door sarcastically. 'Still, a job's a job, eh?' it mutters.",
       "The door lifts straight up, and you step into the shadows of the Tomb of the Wizard King. It is lit by still-burning torches that give off an eerie eldritch glow. In the middle of the large round chamber, a sarcophagus lies, surrounded by a pentacle drawn in blood. You notice the blood still seems fresh!",
-      "Make a Magic roll at Difficulty 10."
+      "Make a MAGIC roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e674", "Successful Magic roll"],
-          ["e309", "Failed Magic roll"]
+          ["e674", "Successful MAGIC roll"],
+          ["e309", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -829,14 +829,14 @@
     "title": "Stripping the Idol of Tyrnai",
     "desc": [
       "With the golems out of the way, you can get on with business. You reach forward to strip the armour off the idol of Tyrnai.",
-      "Make a Thievery roll at Difficulty 12."
+      "Make a THIEVERY roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e509", "Successful Thievery roll"],
-          ["e228", "Failed Thievery roll"]
+          ["e509", "Successful THIEVERY roll"],
+          ["e228", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -856,14 +856,14 @@
     "desc": [
       "The dank tunnels, running with rivulets of foul water, take you deeper into the unknown. You mark the twisting passages with chalk so that you can find your way back.",
       "Shortly, you come out into a large, rough-hewn cavern, wreathed in shadows that dance and flicker in the light you have brought.",
-      "A sound makes you start in surprise. Make a Scouting or a Thievery roll against Difficulty 11."
+      "A sound makes you start in surprise. Make a SCOUTING or a THIEVERY roll against Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e247", "Successful Scouting/Thievery roll"],
-          ["e042", "Failed Scouting/Thievery roll"]
+          ["e247", "Successful SCOUTING/THIEVERY roll"],
+          ["e042", "Failed SCOUTING/THIEVERY roll"]
         ]
       }
     ]
@@ -1045,14 +1045,14 @@
     "title": "The Woman in Black Leather",
     "desc": [
       "A pale woman in black leather brushes past you in the street, casting you an enigmatic look.",
-      "Make a Thievery roll at a Difficulty of 10."
+      "Make a THIEVERY roll at a Difficulty of 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e635", "Successful Thievery roll"],
-          ["e198", "Failed Thievery roll"]
+          ["e635", "Successful THIEVERY roll"],
+          ["e198", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -1160,7 +1160,7 @@
         "rows": [
           ["e035", "Swim back to the Shadar Tor"],
           ["e121", "Fight your way to the golden net"],
-          ["e592", "Try magic"]
+          ["e592", "Try MAGIC"]
         ]
       }
     ]
@@ -1251,7 +1251,7 @@
     "tag": "e196",
     "title": "Ghoulbite Infection",
     "desc": [
-      "If you were wounded by the ghoul you have been infected with a disease (Ghoulbite). Note that, until you can find a cure, you must subtract one from your Sanctity, Combat and Charisma abilities (no ability can drop below one). If you were already suffering from Ghoulbite, there are no further effects.",
+      "If you were wounded by the ghoul you have been infected with a disease (Ghoulbite). Note that, until you can find a cure, you must subtract one from your SANCTITY, COMBAT and CHARISMA abilities (no ability can drop below one). If you were already suffering from Ghoulbite, there are no further effects.",
       "In any case, you hack off the hideous head and leave. Note you have a ghoul's head and turn to e100."
     ]
   },
@@ -1259,8 +1259,8 @@
     "tag": "e197",
     "title": "The Blessing of Sig",
     "desc": [
-      "The blessing of Sig costs 10 💎 if you are an initiate, 30 💎 otherwise. If you buy the blessing, cross off the money and mark Thievery in the Blessings box on your Adventure Sheet.",
-      "The blessing works by allowing you to reroll any failed Thievery attempt once. When you use the blessing, cross it off your Adventure Sheet. You can then make a second try at the roll. You can have only one blessing for each ability at any one time. Once your Thievery blessing is used up, you can return to any branch of the temple of Sig to buy a new one.",
+      "The blessing of Sig costs 10 💎 if you are an initiate, 30 💎 otherwise. If you buy the blessing, cross off the money and mark THIEVERY in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to reroll any failed THIEVERY attempt once. When you use the blessing, cross it off your Adventure Sheet. You can then make a second try at the roll. You can have only one blessing for each ability at any one time. Once your THIEVERY blessing is used up, you can return to any branch of the temple of Sig to buy a new one.",
       "When you are finished here, turn back to e235."
     ]
   },

@@ -151,14 +151,14 @@
     "tag": "e211",
     "title": "Waiting in Ambush",
     "desc": [
-      "When he emerges, you are waiting for him. Make a Thievery roll at Difficulty 11."
+      "When he emerges, you are waiting for him. Make a THIEVERY roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e058", "Successful Thievery roll"],
-          ["e304", "Failed Thievery roll"]
+          ["e058", "Successful THIEVERY roll"],
+          ["e304", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -217,27 +217,27 @@
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["No Combat bonus", "50 💎", "40 💎"],
-          ["Combat bonus +1", "250 💎", "200 💎"],
-          ["Combat bonus +2", "500 💎", "400 💎"],
-          ["Combat bonus +3", "–", "800 💎"]
+          ["No COMBAT bonus", "50 💎", "40 💎"],
+          ["COMBAT bonus +1", "250 💎", "200 💎"],
+          ["COMBAT bonus +2", "500 💎", "400 💎"],
+          ["COMBAT bonus +3", "–", "800 💎"]
         ]
       },
       {
         "cols": ["Magical Equipment", "Buy", "Sell"],
         "rows": [
-          ["Amber wand (Magic +1)", "500 💎", "400 💎"],
-          ["Ebony wand (Magic +2)", "–", "800 💎"],
-          ["Cobalt wand (Magic +3)", "–", "1600 💎"]
+          ["Amber wand (MAGIC +1)", "500 💎", "400 💎"],
+          ["Ebony wand (MAGIC +2)", "–", "800 💎"],
+          ["Cobalt wand (MAGIC +3)", "–", "1600 💎"]
         ]
       },
       {
         "cols": ["Other Items", "Buy", "Sell"],
         "rows": [
-          ["Mandolin (Charisma +1)", "300 💎", "270 💎"],
-          ["Lockpicks (Thievery +1)", "–", "270 💎"],
-          ["Holy symbol (Sanctity +1)", "–", "100 💎"],
-          ["Compass (Scouting +1)", "500 💎", "400 💎"],
+          ["Mandolin (CHARISMA +1)", "300 💎", "270 💎"],
+          ["Lockpicks (THIEVERY +1)", "–", "270 💎"],
+          ["Holy symbol (SANCTITY +1)", "–", "100 💎"],
+          ["Compass (SCOUTING +1)", "500 💎", "400 💎"],
           ["Rope", "50 💎", "45 💎"],
           ["Lantern", "100 💎", "90 💎"],
           ["Climbing gear", "100 💎", "90 💎"],
@@ -261,14 +261,14 @@
     "title": "The Ancient Willow",
     "desc": [
       "You come across a forest glade. Birds twitter in the trees, and woodland animals frolic playfully about. In the middle of the glade stands a mighty willow, ancient beyond reckoning. The trunk is hollow, and a wooden door has been set in the entrance. You step into the glade.",
-      "Make a Sanctity roll at Difficulty 9."
+      "Make a SANCTITY roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e356", "Successful Sanctity roll"],
-          ["e646", "Failed Sanctity roll"]
+          ["e356", "Successful SANCTITY roll"],
+          ["e646", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -392,14 +392,14 @@
     "desc": [
       "A stone slab at the base of the idol shifts ominously as you put your foot on it. A wickedly barbed spear springs out of the ground, straight into your leg. Lose 5 ❤️.",
       "If you still live, you remove the chain mail and sling it over your shoulder. Note the gold chain mail of Tyrnai on your Adventure Sheet. Because it is made of gold, it is useless if worn as armour.",
-      "As you glance at the jaguar-headed idol, its eyes seem to turn to look at you. Make a Sanctity roll at Difficulty 8."
+      "As you glance at the jaguar-headed idol, its eyes seem to turn to look at you. Make a SANCTITY roll at Difficulty 8."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e625", "Successful Sanctity roll"],
-          ["e279", "Failed Sanctity roll"]
+          ["e625", "Successful SANCTITY roll"],
+          ["e279", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -502,14 +502,14 @@
     "title": "Pleading Your Love of Trees",
     "desc": [
       "You explain what a tree-lover you are, and that your heart has always been at home in forests. You portray yourself as the greenest adventurer ever.",
-      "Make a Charisma roll at Difficulty 10. Add 3 to the dice roll if you are a Wayfarer, and add 1 if you are an initiate of Lacuna."
+      "Make a CHARISMA roll at Difficulty 10. Add 3 to the dice roll if you are a Wayfarer, and add 1 if you are an initiate of Lacuna."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e391", "Successful Charisma roll"],
-          ["e410", "Failed Charisma roll"]
+          ["e391", "Successful CHARISMA roll"],
+          ["e410", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -519,7 +519,7 @@
     "title": "The Repulsive One",
     "desc": [
       "The vile-looking creature shoots towards you with a terrifying predatory speed. You have no choice but to fight it.",
-      "You must subtract 2 from your dice rolls for this fight, as you are unused to underwater combat. If you win turn to e053. If you lose, your adventuring days are over, unless you have a resurrection deal."
+      "You must subtract 2 from your dice rolls for this fight, as you are unused to underwater COMBAT. If you win turn to e053. If you lose, your adventuring days are over, unless you have a resurrection deal."
     ],
     "tables": [
       {
@@ -668,14 +668,14 @@
       "'Nerech's a dangerous place – even its coastal waters, Cap'n,' says the first mate. 'The men probably won't follow you there if they don't think you're good enough to lead them!'",
       "If your Rank is 4 or more, turn to paragraph e050 in The Plains of Howling Darkness.",
       "If your Rank is less than 4, the first mate advises you against making the ocean journey. If you take his advice, turn back to e209.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 11 to convince the crew to follow you."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e050", "Successful Charisma roll"],
-          ["e209", "Failed Charisma roll"]
+          ["e050", "Successful CHARISMA roll"],
+          ["e209", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -739,14 +739,14 @@
     "title": "A Kiss from the Mer-folk",
     "desc": [
       "You ask for a kiss. 'Oh no!' cry the mer-folk, 'A kiss is not so easily won! Tell us a tale to stir our hearts – then we may reward you.'",
-      "Make a Charisma roll at Difficulty 9."
+      "Make a CHARISMA roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e012", "Successful Charisma roll"],
-          ["e281", "Failed Charisma roll"]
+          ["e012", "Successful CHARISMA roll"],
+          ["e281", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -779,14 +779,14 @@
     "desc": [
       "The trees are closely packed, leaning together as if in conference, whispering quietly among themselves. Birds twitter in the distance, and slivers of sunlight lance down through the musty gloom.",
       "As you proceed along a forest track, you think you hear a rustling in the bushes. Later, you spot a shadowy figure darting through the trees – or was it your imagination? An animal snuffling sound right behind you makes you spin round, but there is nothing there.",
-      "Make a Scouting roll at Difficulty 10."
+      "Make a SCOUTING roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e630", "Successful Scouting roll"],
-          ["e036", "Failed Scouting roll"]
+          ["e630", "Successful SCOUTING roll"],
+          ["e036", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -892,14 +892,14 @@
     "title": "Disrespecting the Army",
     "desc": [
       "'You rebel swine,' slurs one of them. 'Not showing proper respect to the army,' says another. 'That can't go unpunished!'",
-      "They wade into you, intent on beating you into submission. Make a Combat roll at Difficulty 12."
+      "They wade into you, intent on beating you into submission. Make a COMBAT roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e076", "Successful Combat roll"],
-          ["e498", "Failed Combat roll"]
+          ["e076", "Successful COMBAT roll"],
+          ["e498", "Failed COMBAT roll"]
         ]
       }
     ]
@@ -944,14 +944,14 @@
     "tag": "e270",
     "title": "Searching for Secret Panels",
     "desc": [
-      "You make a swift inspection of the casements, walls and furnishings, searching for secret panels where treasure might be concealed. Make a Thievery roll at a Difficulty of 12."
+      "You make a swift inspection of the casements, walls and furnishings, searching for secret panels where treasure might be concealed. Make a THIEVERY roll at a Difficulty of 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e059", "Successful Thievery roll"],
-          ["e243", "Failed Thievery roll"]
+          ["e059", "Successful THIEVERY roll"],
+          ["e243", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -1256,14 +1256,14 @@
   },
   {
     "tag": "e296",
-    "title": "Magic Roll",
-    "desc": ["Make a Magic roll at Difficulty 9."],
+    "title": "MAGIC Roll",
+    "desc": ["Make a MAGIC roll at Difficulty 9."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e494", "Successful Magic roll"],
-          ["e352", "Failed Magic roll"]
+          ["e494", "Successful MAGIC roll"],
+          ["e352", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -1310,10 +1310,10 @@
         "rows": [
           [
             "1–2",
-            "Get in a fight with a drunken soldier. Soldier: Combat 4, Defence 6, Stamina 7. If you win, you can take his axe."
+            "Get in a fight with a drunken soldier. Soldier: COMBAT 4, Defence 6, Stamina 7. If you win, you can take his axe."
           ],
           ["3–4", "Nothing happens"],
-          ["5–6", "Opportunity to buy a mandolin (Charisma +1) for 100 💎"]
+          ["5–6", "Opportunity to buy a mandolin (CHARISMA +1) for 100 💎"]
         ]
       },
       {

@@ -22,7 +22,7 @@
     "desc": [
       "If there is a tick in the box, turn to e229 immediately. If not, put a tick there now and read on.",
       "You dump the head of Amcha One-Eye on the guildmaster's desk. He stares at it in horror for a moment and then a look of joy crosses his features. 'At last! We are rid of that scourge of commerce! Well done, well done indeed!'",
-      "Cross Amcha's head off your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve – you gain one point for one ability of your choice (for example, +1 Combat).",
+      "Cross Amcha's head off your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve – you gain one point for one ability of your choice (for example, +1 COMBAT).",
       "When you are ready, you return to the city. 'Come back anytime,' yells the guildmaster as you go. Turn to e100."
     ]
   },
@@ -63,14 +63,14 @@
     "title": "The Book of the Seven Sages",
     "desc": [
       "You know that the Book of the Seven Sages that Pyletes wanted you to get lies within the mound. If you don't want to go for it now, you can leave by turning to e492. Otherwise, you wait until nightfall, then creep towards the mound.",
-      "Make a Thievery roll at Difficulty 9."
+      "Make a THIEVERY roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e449", "Successful Thievery roll"],
-          ["e139", "Failed Thievery roll"]
+          ["e449", "Successful THIEVERY roll"],
+          ["e139", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -96,7 +96,7 @@
     "title": "Becoming an Initiate of Nagil",
     "desc": [
       "Becoming an initiate of Nagil gives you the benefit of paying less for services the temple can offer. You cannot do this if you are already an initiate of another temple. To become an initiate you have to pass a priestly exam.",
-      "If you want to take the exam, make a Sanctity roll at Difficulty 10 unless there is a tick in the above box, in which case it is at Difficulty 15.",
+      "If you want to take the exam, make a SANCTITY roll at Difficulty 10 unless there is a tick in the above box, in which case it is at Difficulty 15.",
       "If you succeed, you become an initiate – write Nagil in the God box on your Adventure Sheet and turn to e071.",
       "If you fail, put a tick in the box (unless one is already there) and turn to e100."
     ]
@@ -147,7 +147,7 @@
     "title": "Faith Breaks the Spell",
     "desc": [
       "You are so devout that the king's spell cannot affect you for more than a few seconds. The queen, recognizing your faith in the gods, thanks you for entertaining them.",
-      "You wake up in the cabin aboard your ship. You are musing about the strange nature of your dream when you realize that you have something in your hand. It is a silver flute (Charisma +2). While you have the flute, it adds 2 to your Charisma. Note that it is worth 500 💎, and you can sell it at any market if you like.",
+      "You wake up in the cabin aboard your ship. You are musing about the strange nature of your dream when you realize that you have something in your hand. It is a silver flute (CHARISMA +2). While you have the flute, it adds 2 to your CHARISMA. Note that it is worth 500 💎, and you can sell it at any market if you like.",
       "Turn to e507."
     ]
   },
@@ -175,7 +175,7 @@
       "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
       "If your Rank is 4 or more, you can take the ship south west – turn to paragraph e077 in Over the Blood-Dark Sea, or head south east – turn to paragraph e066 in Over the Blood-Dark Sea.",
       "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn back to e559.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 12 to convince the crew to follow you. If you succeed, you can take the ship south west – turn to e077 in Over the Blood-Dark Sea, or south east – turn to e066 in Over the Blood-Dark Sea. If you fail, turn back to e559."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 12 to convince the crew to follow you. If you succeed, you can take the ship south west – turn to e077 in Over the Blood-Dark Sea, or south east – turn to e066 in Over the Blood-Dark Sea. If you fail, turn back to e559."
     ]
   },
   {
@@ -200,14 +200,14 @@
     "desc": [
       "The trail of gruesome murders and tales of terror leads you to an old cemetery in a near-deserted part of the old quarter. It is early morning, a few hours before dawn, so you haven't much time before the ghoul goes into hiding.",
       "At the gates of the cemetery, you find a small girl, hunched over, sobbing. When she sees you, she backs away, terrified.",
-      "Make a Charisma roll at Difficulty 10."
+      "Make a CHARISMA roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e553", "Successful Charisma roll"],
-          ["e045", "Failed Charisma roll"]
+          ["e553", "Successful CHARISMA roll"],
+          ["e045", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -296,7 +296,7 @@
     "tag": "e426",
     "title": "Oliphard's Request",
     "desc": [
-      "'Ah, I see that you are a student of the arcane arts,' says Oliphard the Wizardly. 'There is something I need – if you can get it for me I will teach you how to advance as a mage. It was Vayss the Sea Dragon who turned me into powder. He stole my magic chest in which I store all my magical equipment. Without it, I am virtually powerless. Meet me in Trefoille when you have it.'",
+      "'Ah, I see that you are a student of the arcane arts,' says Oliphard the Wizardly. 'There is something I need – if you can get it for me I will teach you how to advance as a mage. It was Vayss the Sea Dragon who turned me into powder. He stole my MAGIC chest in which I store all my magical equipment. Without it, I am virtually powerless. Meet me in Trefoille when you have it.'",
       "'Where is Vayss?' you ask. 'Why, in the Lake of the Sea Dragon, of course,' he replies.",
       "Record the codeword Avenge. As he leaves, Oliphard gives you an amulet of protection. Note it on your Adventure Sheet. Now turn to e378."
     ]
@@ -438,7 +438,7 @@
     "tag": "e435",
     "title": "Becoming an Initiate of Tyrnai",
     "desc": [
-      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a Combat score of at least 6. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
+      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a COMBAT score of at least 6. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
       "If you choose to become an initiate (and meet the qualification) write Tyrnai in the God box on your Adventure Sheet.",
       "Turn to e526."
     ]
@@ -455,7 +455,7 @@
     "tag": "e437",
     "title": "Becoming an Initiate of Sig",
     "desc": [
-      "Becoming an initiate of Sig gives you the benefit of paying less for blessings and other services. Also, you can add 1 to your Thievery score, as Sig will watch over your pilfering activities and keep you safe from the law. It costs 50 💎 to become an initiate. You cannot become an initiate if you are already an initiate of any other temple.",
+      "Becoming an initiate of Sig gives you the benefit of paying less for blessings and other services. Also, you can add 1 to your THIEVERY score, as Sig will watch over your pilfering activities and keep you safe from the law. It costs 50 💎 to become an initiate. You cannot become an initiate if you are already an initiate of any other temple.",
       "If you choose to become an initiate, write Sig in the God box on your Adventure Sheet and cross off 50 💎.",
       "Turn to e235."
     ]
@@ -498,14 +498,14 @@
     "title": "On the Battlements",
     "desc": [
       "You clamber up on to the battlements of the Temple of Tyrnai with relative ease and manoeuvre yourself into a position overlooking the golem guards at the gate. Now you have to reach down without being noticed.",
-      "Make a Thievery roll at Difficulty 11."
+      "Make a THIEVERY roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e022", "Successful Thievery roll"],
-          ["e168", "Failed Thievery roll"]
+          ["e022", "Successful THIEVERY roll"],
+          ["e168", "Failed THIEVERY roll"]
         ]
       }
     ]

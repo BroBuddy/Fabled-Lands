@@ -50,14 +50,14 @@
     "title": "Attempting to Steal the Chain Mail",
     "desc": [
       "If there is a tick in the box, turn to e367 immediately. If not, put a tick there now, and read on.",
-      "Make a Magic roll at Difficulty 11."
+      "Make a MAGIC roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e609", "Successful Magic roll"],
-          ["e528", "Failed Magic roll"]
+          ["e609", "Successful MAGIC roll"],
+          ["e528", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -78,7 +78,7 @@
     "desc": [
       "It feels like you are playing the flute for an eternity. But at last they tire of your music...",
       "You wake up with a scream. You realize you are not aboard your ship! You find out that you are in the temple of Alvir and Valmir in Yellowport. A priest tells you that your crew brought you here three months ago because they could not wake you from your sleep.",
-      "Your ship and crew are long gone now – note that you no longer own a ship. The priests, however, have been looking after all your possessions. Among them is a silver flute (Charisma +2). While you have the flute, it adds 2 to your Charisma. Note that it is worth 500 💎 and that you can sell it at any market if you like.",
+      "Your ship and crew are long gone now – note that you no longer own a ship. The priests, however, have been looking after all your possessions. Among them is a silver flute (CHARISMA +2). While you have the flute, it adds 2 to your CHARISMA. Note that it is worth 500 💎 and that you can sell it at any market if you like.",
       "You leave the temple. Turn to e010."
     ]
   },
@@ -95,7 +95,7 @@
     "title": "Crossing the Pentacle",
     "desc": [
       "As you move closer to the sarcophagus, your foot crosses the edge of the pentacle by a few millimetres – it is enough. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts from the stone coffin! The smoke hurtles towards you, like a miniature tornado.",
-      "You must fight the tomb guardian. If you have a weapon with a Combat bonus of +1 or greater, turn to e043. Otherwise, turn to e260."
+      "You must fight the tomb guardian. If you have a weapon with a COMBAT bonus of +1 or greater, turn to e043. Otherwise, turn to e260."
     ]
   },
   {
@@ -135,14 +135,14 @@
       "'Nerech's a dangerous place – even its coastal waters, Cap'n,' says the first mate. 'The crew won't follow you there if they don't think you're good enough to lead them!'",
       "If your Rank is 4 or more, turn to paragraph e050 in The Plains of Howling Darkness.",
       "If your Rank is less than 4, the first mate advises you against making the ocean journey. If you take his advice, turn to e507.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 11 to convince the crew to follow you."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e050", "Successful Charisma roll"],
-          ["e507", "Failed Charisma roll"]
+          ["e050", "Successful CHARISMA roll"],
+          ["e507", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -201,7 +201,7 @@
     "tag": "e317",
     "title": "The Familiar Craft",
     "desc": [
-      "It is the same craft you got the magic spear from, with the silver-skinned demon inside – still dead you presume. You examine it again, but there is nothing else of interest on board. The figure still lies there unmoving.",
+      "It is the same craft you got the MAGIC spear from, with the silver-skinned demon inside – still dead you presume. You examine it again, but there is nothing else of interest on board. The figure still lies there unmoving.",
       "You sail on. Turn to e085."
     ]
   },
@@ -328,14 +328,14 @@
     "title": "Searching for the Ghoul",
     "desc": [
       "You are not sure where to start looking for the ghoul, so you wander around, looking for stories, strange murders – anything that might put you on its trail.",
-      "Make a Scouting roll at Difficulty 12."
+      "Make a SCOUTING roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e419", "Successful Scouting roll"],
-          ["e360", "Failed Scouting roll"]
+          ["e419", "Successful SCOUTING roll"],
+          ["e360", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -450,7 +450,7 @@
         "cols": ["Ref", "Option"],
         "rows": [
           ["e079", "Lose them in the tunnels"],
-          ["e296", "Try some magic"],
+          ["e296", "Try some MAGIC"],
           ["e127", "Hide"]
         ]
       }
@@ -493,13 +493,13 @@
   {
     "tag": "e340",
     "title": "Climbing to Devil's Peak",
-    "desc": ["Make a Scouting or Thievery roll at Difficulty 10."],
+    "desc": ["Make a SCOUTING or THIEVERY roll at Difficulty 10."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e239", "Successful Scouting or Thievery roll"],
-          ["e034", "Failed Scouting or Thievery roll"]
+          ["e239", "Successful SCOUTING or THIEVERY roll"],
+          ["e034", "Failed SCOUTING or THIEVERY roll"]
         ]
       }
     ]
@@ -526,12 +526,12 @@
       {
         "cols": ["Potion", "Effect", "Cost"],
         "rows": [
-          ["Potion of strength", "Combat +1", "50 💎"],
-          ["Potion of comeliness", "Charisma +1", "50 💎"],
-          ["Potion of intellect", "Magic +1", "50 💎"],
-          ["Potion of godliness", "Sanctity +1", "50 💎"],
-          ["Potion of stealth", "Thievery +1", "50 💎"],
-          ["Potion of nature", "Scouting +1", "50 💎"],
+          ["Potion of strength", "COMBAT +1", "50 💎"],
+          ["Potion of comeliness", "CHARISMA +1", "50 💎"],
+          ["Potion of intellect", "MAGIC +1", "50 💎"],
+          ["Potion of godliness", "SANCTITY +1", "50 💎"],
+          ["Potion of stealth", "THIEVERY +1", "50 💎"],
+          ["Potion of nature", "SCOUTING +1", "50 💎"],
           [
             "Potion of restoration (needs ink sac)",
             "Heals all Stamina, cures poison and disease",
@@ -554,7 +554,7 @@
     "tag": "e344",
     "title": "Slaying the Governor",
     "desc": [
-      "You must make either a Combat or a Magic roll at Difficulty 14 to slay him. If you fail the roll, turn to e161 immediately. If you are successful, read on.",
+      "You must make either a COMBAT or a MAGIC roll at Difficulty 14 to slay him. If you fail the roll, turn to e161 immediately. If you are successful, read on.",
       "You cut him down, or enchant him so that he obeys your every command and falls on his own sword. Note the codeword Assassin.",
       "Hurriedly, you flee the palace. Turn to e216."
     ]
@@ -761,24 +761,24 @@
       {
         "cols": ["Weapons", " Buy", "Sell"],
         "rows": [
-          ["No Combat bonus", "50 💎", "40 💎"],
-          ["Combat bonus +1", "250 💎", "200 💎"]
+          ["No COMBAT bonus", "50 💎", "40 💎"],
+          ["COMBAT bonus +1", "250 💎", "200 💎"]
         ]
       },
       {
         "cols": ["Magical Equipment", "Buy", "Sell"],
         "rows": [
-          ["Amber wand (Magic +1)", "500 💎", "300 💎"],
-          ["Ebony wand (Magic +2)", "1000 💎", "800 💎"],
-          ["Cobalt wand (Magic +3)", "–", "1600 💎"]
+          ["Amber wand (MAGIC +1)", "500 💎", "300 💎"],
+          ["Ebony wand (MAGIC +2)", "1000 💎", "800 💎"],
+          ["Cobalt wand (MAGIC +3)", "–", "1600 💎"]
         ]
       },
       {
         "cols": ["Other Items", "Buy", " Sell"],
         "rows": [
-          ["Mandolin (Charisma +1)", "–", "270 💎"],
-          ["Silver holy symbol (Sanctity +2)", "800 💎", "750 💎"],
-          ["Gold compass (Scouting +2)", "900 💎", "800 💎"],
+          ["Mandolin (CHARISMA +1)", "–", "270 💎"],
+          ["Silver holy symbol (SANCTITY +2)", "800 💎", "750 💎"],
+          ["Gold compass (SCOUTING +2)", "900 💎", "800 💎"],
           ["Rope", "50 💎", "45 💎"],
           ["Lantern", "100 💎", "90 💎"],
           ["Silver nugget", "–", "150 💎"]
@@ -821,14 +821,14 @@
       "The sea dragon dives deep to the bottom of the lake. You are pulled along at a terrific rate through the murky waters. You think your lungs are about to burst when at last the creature surges upwards, breaking the surface.",
       "You find yourself in a cave inside a rocky island, somewhere on the surface of the lake. A hole in the roof lets in a shaft of bright sunlight, that reflects off the water, casting dappled yellow light all over the walls.",
       "Part of the cave is dry ground, heaped with the dragon's treasure hoard – sparkling coins, swords, armour, and the like. You notice a rocky ledge, lined with a number of bottles, full of yellow dust.",
-      "The dragon pulls itself on top of its hoard – you have a few seconds to try to hide. Make a Thievery roll at a Difficulty of 10."
+      "The dragon pulls itself on top of its hoard – you have a few seconds to try to hide. Make a THIEVERY roll at a Difficulty of 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e016", "Successful Thievery roll"],
-          ["e274", "Failed Thievery roll"]
+          ["e016", "Successful THIEVERY roll"],
+          ["e274", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -837,7 +837,7 @@
     "tag": "e363",
     "title": "Transformed into a Sea Centaur",
     "desc": [
-      "You collapse a rotting beam, just inside the cabin. The roof falls in, and a cloud of debris fills the water, obscuring you completely. You grab the gems, but it is not long before the magic of the sea centaurs takes you over. You live on for a hundred years, as a sea centaur. Your adventure ends here.",
+      "You collapse a rotting beam, just inside the cabin. The roof falls in, and a cloud of debris fills the water, obscuring you completely. You grab the gems, but it is not long before the MAGIC of the sea centaurs takes you over. You live on for a hundred years, as a sea centaur. Your adventure ends here.",
       "You can, however, start afresh with a new character. First make sure to erase all ticks, codewords, and Adventure Sheet details in all your Fabled Lands books. You can begin at e001 in any of the books of the series."
     ]
   },
@@ -848,14 +848,14 @@
       "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
       "If your Rank is 4 or more, turn to paragraph e066 in Over the Blood-Dark Sea.",
       "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn to e085.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 11 to convince the crew to follow you."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e066", "Successful Charisma roll"],
-          ["e085", "Failed Charisma roll"]
+          ["e066", "Successful CHARISMA roll"],
+          ["e085", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -876,14 +876,14 @@
       "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
       "If your Rank is 4 or more, turn to paragraph e066 in Over the Blood-Dark Sea.",
       "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn to e439.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 11 to convince the crew to follow you."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e066", "Successful Charisma roll"],
-          ["e439", "Failed Charisma roll"]
+          ["e066", "Successful CHARISMA roll"],
+          ["e439", "Failed CHARISMA roll"]
         ]
       }
     ]
@@ -963,8 +963,8 @@
     "tag": "e373",
     "title": "The Blessing of Tyrnai",
     "desc": [
-      "If you are an initiate it costs only 10 💎 to purchase Tyrnai's blessing. A non-initiate must pay 25 💎. Cross off the money and mark Combat in the Blessings box on your Adventure Sheet.",
-      "The blessing works by allowing you to try again when you make a failed Combat roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one Combat blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
+      "If you are an initiate it costs only 10 💎 to purchase Tyrnai's blessing. A non-initiate must pay 25 💎. Cross off the money and mark COMBAT in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to try again when you make a failed COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
       "When you are finished, turn to e526."
     ]
   },
@@ -1065,14 +1065,14 @@
     "tag": "e383",
     "title": "Following Fourze",
     "desc": [
-      "After a while Fourze circles around, heading across country. Make a Scouting roll at Difficulty 9."
+      "After a while Fourze circles around, heading across country. Make a SCOUTING roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e585", "Successful Scouting roll"],
-          ["e263", "Failed Scouting roll"]
+          ["e585", "Successful SCOUTING roll"],
+          ["e263", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -1093,14 +1093,14 @@
       "The king is taken totally by surprise, and you cut him down. He falls dead at your feet. 'Long live General Marlock,' you mutter under your breath.",
       "You take the king's royal ring as proof of your act. Note it on your Adventure Sheet and get the codeword Ark.",
       "Although you manage to talk your way out of the stockade, the body is discovered as you are heading down the mountain path. Vengeful soldiers set off in pursuit.",
-      "Make a Scouting or a Thievery roll (your choice) at Difficulty 9."
+      "Make a SCOUTING or a THIEVERY roll (your choice) at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e167", "Successful Scouting or Thievery roll"],
-          ["e230", "Failed Scouting or Thievery roll"]
+          ["e167", "Successful SCOUTING or THIEVERY roll"],
+          ["e230", "Failed SCOUTING or THIEVERY roll"]
         ]
       }
     ]
@@ -1136,8 +1136,8 @@
     "tag": "e388",
     "title": "The Blessing of Elnir",
     "desc": [
-      "If you are an initiate it costs only 10 💎 to purchase Elnir's blessing. A non-initiate must pay 25 💎. Cross off the money and mark Charisma in the Blessings box on your Adventure Sheet.",
-      "The blessing works by allowing you to try again when you make a failed Charisma roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one Charisma blessing at any one time. Once it is used up, you can return to any branch of the temple of Elnir to buy a new one.",
+      "If you are an initiate it costs only 10 💎 to purchase Elnir's blessing. A non-initiate must pay 25 💎. Cross off the money and mark CHARISMA in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to try again when you make a failed CHARISMA roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one CHARISMA blessing at any one time. Once it is used up, you can return to any branch of the temple of Elnir to buy a new one.",
       "Turn to e316."
     ]
   },
@@ -1249,27 +1249,27 @@
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["No Combat bonus", "70 💎", "20 💎"],
-          ["Combat bonus +1", "270 💎", "180 💎"],
-          ["Combat bonus +2", "–", "380 💎"],
-          ["Combat bonus +3", "–", "780 💎"]
+          ["No COMBAT bonus", "70 💎", "20 💎"],
+          ["COMBAT bonus +1", "270 💎", "180 💎"],
+          ["COMBAT bonus +2", "–", "380 💎"],
+          ["COMBAT bonus +3", "–", "780 💎"]
         ]
       },
       {
         "cols": ["Magical Equipment", "Buy", "Sell"],
         "rows": [
-          ["Amber wand (Magic +1)", "520 💎", "380 💎"],
-          ["Ebony wand (Magic +2)", "–", "780 💎"],
-          ["Cobalt wand (Magic +3)", "–", "1580 💎"]
+          ["Amber wand (MAGIC +1)", "520 💎", "380 💎"],
+          ["Ebony wand (MAGIC +2)", "–", "780 💎"],
+          ["Cobalt wand (MAGIC +3)", "–", "1580 💎"]
         ]
       },
       {
         "cols": ["Other Items", "Buy", "Sell"],
         "rows": [
-          ["Mandolin (Charisma +1)", "300 💎", "250 💎"],
-          ["Lockpicks (Thievery +1)", "300 💎", "250 💎"],
-          ["Holy symbol (Sanctity +1)", "220 💎", "80 💎"],
-          ["Compass (Scouting +1)", "520 💎", "430 💎"],
+          ["Mandolin (CHARISMA +1)", "300 💎", "250 💎"],
+          ["Lockpicks (THIEVERY +1)", "300 💎", "250 💎"],
+          ["Holy symbol (SANCTITY +1)", "220 💎", "80 💎"],
+          ["Compass (SCOUTING +1)", "520 💎", "430 💎"],
           ["Rope", "70 💎", "25 💎"],
           ["Lantern", "120 💎", "70 💎"],
           ["Climbing gear", "120 💎", "70 💎"],
@@ -1294,14 +1294,14 @@
     "desc": [
       "If there is a tick in the box, turn to e225 immediately. If not, put a tick there now, and read on.",
       "You make your way up the hill. After a while, you spot a cave set into the hillside, a little further up. Judging by the human bones dumped near the entrance, this is the lair of a dangerous beast. Fresh tracks, of some large, two-legged, three-toed creature, lead from the cave into some nearby trees. It seems it is not home at the moment.",
-      "If you have the codeword Apache, turn to e463 immediately. If not, make a Magic or Scouting roll (your choice) at Difficulty 11."
+      "If you have the codeword Apache, turn to e463 immediately. If not, make a MAGIC or SCOUTING roll (your choice) at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e577", "Successful Scouting or Magic roll"],
-          ["e486", "Failed Scouting or Magic roll"]
+          ["e577", "Successful SCOUTING or MAGIC roll"],
+          ["e486", "Failed SCOUTING or MAGIC roll"]
         ]
       }
     ]
@@ -1310,7 +1310,7 @@
     "tag": "e399",
     "title": "Assassinating Nergan Corin",
     "desc": [
-      "You were asked by the Governor of Yellowport to assassinate Nergan Corin. It is a good time to make the attempt. If you want to have a go, make a Combat or a Thievery roll at Difficulty 12. If you succeed, turn to e385. If you fail, turn to e581.",
+      "You were asked by the Governor of Yellowport to assassinate Nergan Corin. It is a good time to make the attempt. If you want to have a go, make a COMBAT or a THIEVERY roll at Difficulty 12. If you succeed, turn to e385. If you fail, turn to e581.",
       "If you would rather join the rebels and kill the governor instead, record the codeword Ambuscade. If you join the rebels, when you are ready, the king wishes you well, and you are led out of the stockade and back down to the foothills of the Coldbleak Mountains. Turn to e474."
     ]
   },
