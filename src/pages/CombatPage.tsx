@@ -65,8 +65,8 @@ function CombatPage() {
     const attack = attacker.combat + rollAttacker;
     const defence = defender.defence + rollDefender;
     const hit = attack > defence;
+    const newDef = cloneStats(defender);
     let dmg = 0;
-    let newDef = cloneStats(defender);
 
     if (hit) {
       dmg = Math.max(0, attack - defence);
