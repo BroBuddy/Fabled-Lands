@@ -41,7 +41,7 @@ function CombatPage() {
   const intervalRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const logTable = {
-    cols: ["#", "⚔️", "🛡️", "💥"],
+    cols: ["Combat", "⚔️", "🛡️", "💥"],
     rows: log,
   };
 
@@ -56,7 +56,7 @@ function CombatPage() {
   }
 
   function addLog(parts: string[]) {
-    setLog((prev) => [...prev, parts]);
+    setLog((prev) => [parts, ...prev]);
   }
 
   function resolveAttack(attacker: Stats, defender: Stats, label: string) {
@@ -93,7 +93,6 @@ function CombatPage() {
   }
 
   function stopSim(): void {
-    setFighting(false);
     if (intervalRef.current) clearInterval(intervalRef.current);
     intervalRef.current = null;
   }
@@ -111,7 +110,7 @@ function CombatPage() {
       syncEnemy(e);
 
       if (e.stamina <= 0) {
-        addLog(["Enemy defeated", "", "", ""]);
+        addLog(["Enemy", "defeated", "", ""]);
         stopSim();
         return;
       }
@@ -120,7 +119,7 @@ function CombatPage() {
       syncPlayer(player);
 
       if (player.stamina <= 0) {
-        addLog(["Player defeated", "", "", ""]);
+        addLog(["Player", "defeated", "", ""]);
         stopSim();
       }
     }, 1000);
@@ -128,73 +127,105 @@ function CombatPage() {
 
   return (
     <>
-      <Card title="Player">
-        ⚔️{" "}
-        <input
-          type="number"
-          value={player.combat}
-          className="w-5"
-          onChange={(e) =>
-            syncPlayer({ ...player, combat: Number(e.target.value) })
-          }
-        />{" "}
-        🛡️{" "}
-        <input
-          type="number"
-          value={player.defence}
-          className="w-5"
-          onChange={(e) =>
-            syncPlayer({ ...player, defence: Number(e.target.value) })
-          }
-        />{" "}
-        ❤️{" "}
-        <input
-          type="number"
-          value={player.stamina}
-          className="w-5"
-          onChange={(e) =>
-            syncPlayer({ ...player, stamina: Number(e.target.value) })
-          }
-        />
-      </Card>
+      <div className="flex flex-row">
+        <Card title="Player">
+          <div className="flex flex-col gap-8 mx-8">
+            <div className="flex flex-row gap-8">
+              ⚔️{" "}
+              <input
+                type="number"
+                value={player.combat}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncPlayer({ ...player, combat: Number(e.target.value) })
+                }
+              />
+            </div>
 
-      <Card title="Enemy">
-        ⚔️{" "}
-        <input
-          type="number"
-          value={enemy.combat}
-          className="w-5"
-          onChange={(e) =>
-            syncEnemy({ ...enemy, combat: Number(e.target.value) })
-          }
-        />{" "}
-        🛡️{" "}
-        <input
-          type="number"
-          value={enemy.defence}
-          className="w-5"
-          onChange={(e) =>
-            syncEnemy({ ...enemy, defence: Number(e.target.value) })
-          }
-        />{" "}
-        ❤️{" "}
-        <input
-          type="number"
-          value={enemy.stamina}
-          className="w-5"
-          onChange={(e) =>
-            syncEnemy({ ...enemy, stamina: Number(e.target.value) })
-          }
-        />
-      </Card>
+            <div className="flex flex-row gap-8">
+              🛡️
+              <input
+                type="number"
+                value={player.defence}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncPlayer({ ...player, defence: Number(e.target.value) })
+                }
+              />
+            </div>
 
-      <Card title="Settings">
-        <button onClick={simulateFight} disabled={fighting}>
-          Fight
-        </button>
-      </Card>
+            <div className="flex flex-row gap-8 mb-2">
+              {player.stamina == 0 ? "💀" : "❤️"}
 
-      {log.length > 0 && <ListTable table={logTable} />}
+              <input
+                type="number"
+                value={player.stamina}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncPlayer({ ...player, stamina: Number(e.target.value) })
+                }
+              />
+            </div>
+          </div>
+        </Card>
+
+        <Card title="Enemy">
+          <div className="flex flex-col gap-8 mx-8">
+            <div className="flex flex-row gap-8">
+              ⚔️
+              <input
+                type="number"
+                value={enemy.combat}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncEnemy({ ...enemy, combat: Number(e.target.value) })
+                }
+              />
+            </div>
+
+            <div className="flex flex-row gap-8">
+              🛡️
+              <input
+                type="number"
+                value={enemy.defence}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncEnemy({ ...enemy, defence: Number(e.target.value) })
+                }
+              />
+            </div>
+
+            <div className="flex flex-row gap-8 mb-2">
+              {enemy.stamina == 0 ? "☠️" : "❤️"}
+
+              <input
+                type="number"
+                value={enemy.stamina}
+                className="w-5"
+                disabled={fighting}
+                onChange={(e) =>
+                  syncEnemy({ ...enemy, stamina: Number(e.target.value) })
+                }
+              />
+            </div>
+          </div>
+        </Card>
+      </div>
+
+      {!fighting && (
+        <Card title="Combat">
+          <button onClick={simulateFight} className="m-1">
+            Fight
+          </button>
+        </Card>
+      )}
+
+      {fighting && log.length > 0 && <ListTable table={logTable} />}
     </>
   );
 }
