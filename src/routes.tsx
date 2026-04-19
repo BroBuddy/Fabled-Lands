@@ -12,6 +12,7 @@ const EventPage = lazy(() => import("./features/event/pages/EventPage"));
 const EventDetailPage = lazy(
   () => import("./features/event/pages/EventDetailPage"),
 );
+const CodewordsPage = lazy(() => import("./pages/CodewordsPage"));
 const MapPage = lazy(() => import("./pages/MapPage"));
 
 const router = createBrowserRouter([
@@ -23,6 +24,7 @@ const router = createBrowserRouter([
       { path: "/rule/:tag", element: <RuleDetailPage /> },
       { path: "/event", element: <EventPage /> },
       { path: "/event/:tag", element: <EventDetailPage /> },
+      { path: "/codewords", element: <CodewordsPage /> },
       { path: "/map", element: <MapPage /> },
     ],
   },
