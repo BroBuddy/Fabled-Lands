@@ -1,0 +1,571 @@
+[
+  {
+    "tag": "e401",
+    "title": "Harbour Duties Paid",
+    "desc": [
+      "Cross off the 60 💎. The captain gives you a satisfied smile. 'Harbour duties all paid up. You may proceed,' he says mockingly.",
+      "He and his men leave the ship. Several of your crew curse or spit in disgust.",
+      "You sail on. Turn to e439."
+    ]
+  },
+  {
+    "tag": "e402",
+    "title": "The Sokarans Left Behind",
+    "desc": [
+      "Your ship draws away, leaving the Sokarans behind. Your crew jeer at them, and you spot the captain shaking his fist at you in rage, before they disappear from sight.",
+      "Turn to e439."
+    ]
+  },
+  {
+    "tag": "e403",
+    "title": "Amcha's Head Delivered",
+    "desc": [
+      "If there is a tick in the box, turn to e229 immediately. If not, put a tick there now and read on.",
+      "You dump the head of Amcha One-Eye on the guildmaster's desk. He stares at it in horror for a moment and then a look of joy crosses his features. 'At last! We are rid of that scourge of commerce! Well done, well done indeed!'",
+      "Cross Amcha's head off your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve – you gain one point for one ability of your choice (for example, +1 Combat).",
+      "When you are ready, you return to the city. 'Come back anytime,' yells the guildmaster as you go. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e404",
+    "title": "A Fellow Cultist",
+    "desc": [
+      "One of the cultists of Badogor the Unspoken is feigning distress in the hope of luring a sacrificial victim for dinner. He sits up when he recognizes you as a member of the cult, and says, rather disconsolately, 'Ah, hallo friend. We were hoping for a big banquet tonight.'",
+      "Two more cultists step from the shadows, holding a net. 'Oh well, perhaps another will come along,' one of them says optimistically.",
+      "They treat you as one of their own – even giving you a share of the cult's recent income. You get 20 💎. 'May you never speak his name,' they intone in parting.",
+      "You return to the city centre. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e405",
+    "title": "The Merchants' Guild of Yellowport",
+    "desc": [
+      "The merchants' guild of Yellowport is a large building of granite, plushly decorated inside to show off its wealth. Here you can bank your money for safe-keeping – or invest it in guild enterprises in the hope of making a profit. You hear that the guildmaster is looking for adventurers."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e122", "Visit the guildmaster"],
+          ["e046", "Make an investment"],
+          ["e355", "Check on investments"],
+          [
+            "e605",
+            "Deposit or withdraw money (note that you are in Yellowport)"
+          ],
+          ["e010", "Return to the town centre"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e406",
+    "title": "The Book of the Seven Sages",
+    "desc": [
+      "You know that the Book of the Seven Sages that Pyletes wanted you to get lies within the mound. If you don't want to go for it now, you can leave by turning to e492. Otherwise, you wait until nightfall, then creep towards the mound.",
+      "Make a Thievery roll at Difficulty 9."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e449", "Successful Thievery roll"],
+          ["e139", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e407",
+    "title": "Escaping the Palace",
+    "desc": [
+      "You hide in the kitchen pantry, and then, disguised as a kitchen scullion, sneak out unnoticed. The skill and daring of your exploit will be forever remembered! Long live the rightful king!",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e408",
+    "title": "You Decline the Mer-folk",
+    "desc": [
+      "You decline. They look at you inscrutably, and then sink beneath the waves with the body of their companion.",
+      "Turn to e507."
+    ]
+  },
+  {
+    "tag": "e409",
+    "title": "Becoming an Initiate of Nagil",
+    "desc": [
+      "Becoming an initiate of Nagil gives you the benefit of paying less for services the temple can offer. You cannot do this if you are already an initiate of another temple. To become an initiate you have to pass a priestly exam.",
+      "If you want to take the exam, make a Sanctity roll at Difficulty 10 unless there is a tick in the above box, in which case it is at Difficulty 15.",
+      "If you succeed, you become an initiate – write Nagil in the God box on your Adventure Sheet and turn to e071.",
+      "If you fail, put a tick in the box (unless one is already there) and turn to e100."
+    ]
+  },
+  {
+    "tag": "e410",
+    "title": "The Tree is Unconvinced",
+    "desc": [
+      "'Oh, what a load of rotten leaves!' exclaims the tree. 'Anyone can see you're as bad as the next human. In fact, I'd say you're probably a... a lumberjack! Now, get lost!'"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e678", "Leave the forest"],
+          ["e570", "Attack the tree"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e411",
+    "title": "The Golden Net of the Twin Gods",
+    "desc": [
+      "The high priest tells you that the golden net of the twin gods has been stolen. The repulsive ones have taken it to their palace beneath the sea in the Sunken City of Ziusudra. The repulsive ones worship the fish-god Oannes, who struggles with Alvir and Valmir for control of the sea.",
+      "'We must have that golden net, or the repulsive ones will use it against us. If you return it to us, we will reward you,' says the high priest. 'The Sunken City lies under the coastal waters off the Shadar Tor.'",
+      "If you take the mission, gain the codeword Anchor. When you are finished, turn to e220."
+    ]
+  },
+  {
+    "tag": "e412",
+    "title": "The Road Between Yellowport and Trefoille",
+    "desc": [
+      "You are on the cobbled road between Yellowport and Trefoille. You meet a few merchants and pilgrims, but all in all it is an uneventful journey."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e010", "Head for Yellowport"],
+          ["e250", "Head for Trefoille"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e413",
+    "title": "Faith Breaks the Spell",
+    "desc": [
+      "You are so devout that the king's spell cannot affect you for more than a few seconds. The queen, recognizing your faith in the gods, thanks you for entertaining them.",
+      "You wake up in the cabin aboard your ship. You are musing about the strange nature of your dream when you realize that you have something in your hand. It is a silver flute (Charisma +2). While you have the flute, it adds 2 to your Charisma. Note that it is worth 500 💎, and you can sell it at any market if you like.",
+      "Turn to e507."
+    ]
+  },
+  {
+    "tag": "e414",
+    "title": "Haylie Reunited",
+    "desc": [
+      "Haylie runs into her mother's arms for a tearful reunion. Lynn, the mother, gives you a suit of chain mail (Defence +3) and a sword (an ordinary weapon).",
+      "'These have been in the family for generations – it's all I have to give,' she says.",
+      "Fourze is hauled off to the local magistrate for judgment – he will probably be sold into slavery.",
+      "Gain the codeword Attar and turn to e427."
+    ]
+  },
+  {
+    "tag": "e415",
+    "title": "Death by Thirst",
+    "desc": [
+      "You cannot continue. You sink to your knees, gasping for water and pass out. Death is not long in coming. It is all over, unless you have a resurrection deal."
+    ]
+  },
+  {
+    "tag": "e416",
+    "title": "Into the Violet Ocean",
+    "desc": [
+      "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
+      "If your Rank is 4 or more, you can take the ship south west – turn to paragraph e077 in Over the Blood-Dark Sea, or head south east – turn to paragraph e066 in Over the Blood-Dark Sea.",
+      "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn back to e559.",
+      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 12 to convince the crew to follow you. If you succeed, you can take the ship south west – turn to e077 in Over the Blood-Dark Sea, or south east – turn to e066 in Over the Blood-Dark Sea. If you fail, turn back to e559."
+    ]
+  },
+  {
+    "tag": "e417",
+    "title": "The Black Dragon Knight Defeated",
+    "desc": [
+      "The other knights are amazed by your skill, and they seem quite pleased that the Black Dragon Knight is dead. 'He was an evil man,' says the Green Dragon Knight.",
+      "You take the black dragon shield – note it on your Adventure Sheet. As you watch, the rest of your opponent's body dissolves into a foul-smelling smoke, armour and all.",
+      "Lose the codeword Axe. You leave the castle. Turn to e276."
+    ]
+  },
+  {
+    "tag": "e418",
+    "title": "The Man with the Velvet Eyepatch",
+    "desc": [
+      "You have heard that the man with the velvet eyepatch should be in Caran Baru. If you want to search for him now, turn to e117. If not, turn to e400 and choose from the options there."
+    ]
+  },
+  {
+    "tag": "e419",
+    "title": "The Ghoul's Trail",
+    "desc": [
+      "The trail of gruesome murders and tales of terror leads you to an old cemetery in a near-deserted part of the old quarter. It is early morning, a few hours before dawn, so you haven't much time before the ghoul goes into hiding.",
+      "At the gates of the cemetery, you find a small girl, hunched over, sobbing. When she sees you, she backs away, terrified.",
+      "Make a Charisma roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e553", "Successful Charisma roll"],
+          ["e045", "Failed Charisma roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e420",
+    "title": "Coastal Waters of Marlock City",
+    "desc": [
+      "Your ship is sailing in the coastal waters beside Marlock City. You notice an unusual number of Sokaran warships patrolling the area.",
+      "'The pirates are getting bolder and bolder – that's why the navy's out in force,' says the first mate."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e119", "Sail west (Cities of Gold and Glory)"],
+          ["e142", "Sail into Marlock City"],
+          ["e120", "Sail east along the coast"],
+          ["e502", "Sail south into the Violet Ocean"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e421",
+    "title": "The Storm Demons Repelled",
+    "desc": [
+      "The storm demons shrink back with a wailing, mournful cry, like wind in the trees. The power of your faith is enough to repel them. You work free one of the stakes holding down Sul Veneris.",
+      "Turn to e365."
+    ]
+  },
+  {
+    "tag": "e422",
+    "title": "The Gob-gobbler's Bandits Defeated",
+    "desc": [
+      "The bandits are dead. The man in the suit surrenders. It is Fourze, the master of the market. He terrified people with the monster disguise, and used a large pair of bellows full of gas to put his victims to sleep. Then he sold them to a slaver from Caran Baru, for work in the slave mines. You find Haylie, and several other villagers in the cellar of an old farm nearby.",
+      "'Don't hurt me,' begs Fourze, 'I'm only trying to make a few Shards!' 'What! By selling your own people into slavery!' says one of the villagers, giving him a good kick.",
+      "You lead them back to Venefax. Turn to e414."
+    ]
+  },
+  {
+    "tag": "e423",
+    "title": "Ratmen Defeated in the Tunnels",
+    "desc": [
+      "The ratmen lie defeated at your feet. You find 15 💎 on the bodies, and a note which says: 'Parti! Kitchuns. Tonite. Rank and file rats only – no offsirs and no king allowed!'",
+      "The rest of the cavern is bare, so you press on down the tunnels ahead. After a while you come to a cleaner area of the sewers, a part of the old city now buried under Yellowport. It dates from the period when all of Harkuna was ruled by the Masked Ones of Uttaku, before the people overthrew them.",
+      "You come to two rotten wooden doors. Names have been scratched on to them by some half-literate ratman. One says 'Thrown Rum'; the other says 'Kitchuns'. You can hear gravelly rat voices from behind both doors."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e572", "Enter the 'kitchuns'"],
+          ["e202", "Enter the 'thrown rum'"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e424",
+    "title": "Voyage to Copper Island",
+    "desc": [
+      "The ship's captain says, 'I'll take you but you should be warned – it's a dangerous place we're travelling to. You'd better be sure you can handle it – if you're not at least a master of your profession, I'd advise against. It's up to you, though.'",
+      "You must have Over the Blood-Dark Sea to travel to Copper Island. If you still want to go, cross off 30 💎 and turn to e099 in that book. If you decide not to go, turn back to e142 if you are in Marlock City or e555 if you are in Yellowport."
+    ]
+  },
+  {
+    "tag": "e425",
+    "title": "Lauria Leads the Way",
+    "desc": [
+      "The woman tells you her name is Lauria. She leads you stealthily through winding cobblestoned streets to a town house standing at the back of a small tree-lined square.",
+      "A yellowish fog is descending with the coming of night. Lauria waits until it is thick enough to shroud your activities from any stray passersby, then jemmies a downstairs window. Within seconds the two of you are inside.",
+      "'You've got the easy job,' she says. 'Stay down here and keep watch. The stuff we're after is upstairs.' She bounds silently up to the next floor."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e534", "Stay on watch"],
+          ["e270", "Search the ground floor"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e426",
+    "title": "Oliphard's Request",
+    "desc": [
+      "'Ah, I see that you are a student of the arcane arts,' says Oliphard the Wizardly. 'There is something I need – if you can get it for me I will teach you how to advance as a mage. It was Vayss the Sea Dragon who turned me into powder. He stole my magic chest in which I store all my magical equipment. Without it, I am virtually powerless. Meet me in Trefoille when you have it.'",
+      "'Where is Vayss?' you ask. 'Why, in the Lake of the Sea Dragon, of course,' he replies.",
+      "Record the codeword Avenge. As he leaves, Oliphard gives you an amulet of protection. Note it on your Adventure Sheet. Now turn to e378."
+    ]
+  },
+  {
+    "tag": "e427",
+    "title": "Venefax",
+    "desc": [
+      "If you have the codeword Attar, turn to e578 immediately. If not, read on.",
+      "Venefax is a strange-looking village. It looks like a single gigantic building. All the houses are joined together to form a jumbled mass, and none of the houses have doors – the only way in is through holes in the rooftop. Ladders lead up to the roof, which in effect forms a network of streets that the inhabitants travel across to get to certain buildings.",
+      "'We had to build it that way, for defence,' says a passing farmer. 'You see, the scorpion men from the south cannot climb, so they can't get inside the town!'"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e152", "Visit the market"],
+          ["e497", "Visit the Scorpion's Sting Tavern"],
+          ["e338", "Visit the village healer"],
+          ["e063", "Chat to villagers on the rooftop"],
+          ["e492", "Go south into Scorpion Bight"],
+          ["e087", "Take the road north to Blessed Springs"],
+          ["e621", "South west on the road to Yellowport"],
+          ["e278", "North into open countryside"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e428",
+    "title": "Charging King Skabb",
+    "desc": [
+      "With a martial cry you draw your weapon and charge. You manage to cut down two of the ratmen before they can react. The remaining two officers draw their swords while King Skabb ducks down behind his throne. You must fight them both at once, as if they were one opponent. If you have some rat poison, you can smear it on your weapon blade to add 3 to your dice rolls. Cross the rat poison off your Adventure Sheet after use.",
+      "If you win, turn to e145. If you lose, turn to e308."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Two Ratmen", "8", "11", "12"]]
+      }
+    ]
+  },
+  {
+    "tag": "e429",
+    "title": "The Pirate Captain's Ghost",
+    "desc": [
+      "The gloomy wreck is filled with coral-encrusted skeletons of its drowned crew. You find the captain's cabin. Inside, a figure still sits in a chair, a chest of gems at its feet. With a thrill of horror, you realize it is a ghost, an undead remnant of a pirate captain, steeped in evil, its nacreous, fish-gnawed flesh still pulsing with a kind of half-life."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e089", "Swim straight in and grab the chest"],
+          ["e363", "Try to steal it without being seen"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e430",
+    "title": "Waters Around Scorpion Bight",
+    "desc": [
+      "You are sailing in the waters around Scorpion Bight. 'I wouldn't want to put into land in these parts,' says your navigator. 'The scorpion men'll take all we've got, and our lives too, given half a chance!'",
+      "Roll two dice:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e586", "2–4", "Storm"],
+          ["e085", "5–7", "An uneventful voyage"],
+          ["e056", "8–9", "A ship of bizarre design"],
+          ["e264", "10–12", "A floating island"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e431",
+    "title": "Oliphard's Doors of Teleportation",
+    "desc": [
+      "You notice that Oliphard has erected his pavilion over a verdigris trapdoor set into the floor. 'Ah, you have the key, I see!' says Oliphard. 'Please, be my guest – use the door.'",
+      "You open it up and climb some short stairs into a square chamber with three doors. 'They are doors of teleportation – step through and you will be taken to whatever land is displayed!' says Oliphard.",
+      "The first door leads to a teeming city of merchants – Metriciens in Golnir. Turn to paragraph e048 in Cities of Gold and Glory if you enter this door.",
+      "The second door leads to a huge mountain – Sky Mountain in the Great Steppes, far to the north. Turn to paragraph e185 in The Plains of Howling Darkness if you enter this door.",
+      "The third door leads to Dweomer, the City of Sorcerers, on Sorcerers' Isle. Turn to paragraph e100 in Over the Blood-Dark Sea if you open this door.",
+      "If you don't want to step through any of the doors, turn to e656 and choose again."
+    ]
+  },
+  {
+    "tag": "e432",
+    "title": "Talanexor the Fireweaver",
+    "desc": [
+      "The militiamen are down. The tall gentleman watches you like a snake with its eyes on a mongoose. You have no time to bother with him now.",
+      "'We'll meet again, perhaps,' he says in a voice like slithering murder. 'Remember my name: Talanexor the Fireweaver.'",
+      "'Remember my name,' you call back as you lope off, 'Lauria the Housebreaker.'",
+      "Let the conniving vixen get into trouble. She nearly played you for her patsy, after all. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e433",
+    "title": "Rescuing the Scholar",
+    "desc": [
+      "You rush in, taking the ruffians by surprise. A couple of good buffets around the head, and they run off. The scholar lies groaning on the ground."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e172", "Help him up"],
+          ["e379", "Rob him"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e434",
+    "title": "Your Town House in Yellowport",
+    "desc": [
+      "You can leave possessions and money here to save having to carry them around with you. You can also rest here safely and recover any Stamina points you have lost. Record in the box anything you wish to leave.",
+      "Each time you return, roll two dice:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["2–10", "Your possessions are safe"],
+          ["11", "A thief. All the money you left here has gone"],
+          [
+            "12",
+            "Earthquake! Lose all possessions you left here and the town house (erase the tick at e100)"
+          ]
+        ]
+      }
+    ],
+    "note": ["When you are ready, turn to e100."]
+  },
+  {
+    "tag": "e435",
+    "title": "Becoming an Initiate of Tyrnai",
+    "desc": [
+      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a Combat score of at least 6. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
+      "If you choose to become an initiate (and meet the qualification) write Tyrnai in the God box on your Adventure Sheet.",
+      "Turn to e526."
+    ]
+  },
+  {
+    "tag": "e436",
+    "title": "Washed Up Near the Trading Post",
+    "desc": [
+      "You find yourself washed up on a rocky shore, battered and cold, but lucky to be alive. You haul yourself up the beach on to land. Fortunately for you, you are near the Trading Post on the Isle of Druids.",
+      "Turn to e195."
+    ]
+  },
+  {
+    "tag": "e437",
+    "title": "Becoming an Initiate of Sig",
+    "desc": [
+      "Becoming an initiate of Sig gives you the benefit of paying less for blessings and other services. Also, you can add 1 to your Thievery score, as Sig will watch over your pilfering activities and keep you safe from the law. It costs 50 💎 to become an initiate. You cannot become an initiate if you are already an initiate of any other temple.",
+      "If you choose to become an initiate, write Sig in the God box on your Adventure Sheet and cross off 50 💎.",
+      "Turn to e235."
+    ]
+  },
+  {
+    "tag": "e438",
+    "title": "The Climb Too Arduous",
+    "desc": [
+      "The climb is too arduous for you. The air becomes too thin to breathe, and you cannot find the footholds you need to pull yourself up. You are forced to abandon the attempt and climb back down.",
+      "Turn to e244."
+    ]
+  },
+  {
+    "tag": "e439",
+    "title": "Coastal Waters of Yellowport",
+    "desc": ["Your ship is sailing in the coastal waters beside Yellowport."],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e555", "Sail into Yellowport Harbour"],
+          ["e430", "Sail north east towards Scorpion Bight"],
+          ["e120", "Sail south west along the coast"],
+          ["e366", "Sail south into the Violet Ocean"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e440",
+    "title": "Becoming an Initiate of Elnir",
+    "desc": [
+      "Becoming an initiate of Elnir gives you the benefit of paying less for blessings and other services the temple can offer. It costs 60 💎 to become an initiate. You cannot become an initiate of Elnir if you are already an initiate of another temple.",
+      "If you choose to become an initiate, write Elnir in the God box on your Adventure Sheet and then cross off 60 💎.",
+      "Turn to e568."
+    ]
+  },
+  {
+    "tag": "e441",
+    "title": "On the Battlements",
+    "desc": [
+      "You clamber up on to the battlements of the Temple of Tyrnai with relative ease and manoeuvre yourself into a position overlooking the golem guards at the gate. Now you have to reach down without being noticed.",
+      "Make a Thievery roll at Difficulty 11."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e022", "Successful Thievery roll"],
+          ["e168", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e442",
+    "title": "Yellowport by Night",
+    "desc": [
+      "You set out to explore the city of Yellowport at night, unwholesome though it is with its reeking air and dusty ochre streets."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e021", "Head for the rough part of the town"],
+          ["e178", "Go to the wealthy area"],
+          ["e265", "Explore the merchants' storehouses"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e443",
+    "title": "A Major Sea Battle",
+    "desc": [
+      "You are witness to a major sea battle, involving at least 40 warships, between the Sokaran navy and a pirate fleet. Arrows fill the air, and smoking fireballs are launched from catapults mounted on some of the ships. The shrieks of the dying carry across the waves. You decide it would be better not to get involved in such a conflict.",
+      "Turn to e420."
+    ]
+  },
+  {
+    "tag": "e444",
+    "title": "Attempting to Outrun the Galley",
+    "desc": [
+      "You try to make a run for it. Roll two dice and add your Rank. Subtract 1 from the total if you have a poor crew. Add 1 if you have a good crew or add 2 if you have an excellent crew."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e051", "1–7", "The galley overtakes you"],
+          ["e402", "8+", "You outrun them"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e445",
+    "title": "Inside the Temple of Tyrnai",
+    "desc": [
+      "You climb up, and squeeze through an open window into a long hall. Thin wires are stretched across the room, but you are an able enough rogue to crawl through without touching any of them and setting off possible traps or alarms.",
+      "Inside the temple, it is cool and dark, filled with an unearthly stillness. Suddenly, the temple doors are flung open, and two figures lumber into the room. You realize with a thrill of horror that the bull-headed iron statues outside the gates have come to life. They are golems, set here to guard the temple."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e349", "Run for your life"],
+          ["e569", "Fight them"]
+        ]
+      }
+    ]
+  }
+]
