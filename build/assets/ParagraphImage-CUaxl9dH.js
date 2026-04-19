@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t=e(),n=({tag:e,title:n})=>(0,t.jsx)(`img`,{src:`/images/${e}.png`,alt:n,style:{float:`right`,width:`120px`,height:`120px`,objectFit:`cover`,border:`1px solid #000`,margin:`0 0 10px 10px`}});export{n as t};

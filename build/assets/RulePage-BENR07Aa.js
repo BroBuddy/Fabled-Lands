@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";import{t}from"./Card-DfmWyPoo.js";import{t as n}from"./TagList-DJZGiXNm.js";import{t as r}from"./RuleService-BCo9cEt2.js";var i=e();function a(){let{getRuleData:e}=r();return(0,i.jsx)(t,{title:`Rules`,children:(0,i.jsx)(n,{tags:e()})})}export{a as default};

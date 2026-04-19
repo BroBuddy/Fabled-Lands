@@ -1,0 +1,1347 @@
+[
+  {
+    "tag": "e301",
+    "title": "Passage to the Isle of Druids",
+    "desc": [
+      "A barque, heading for the Isle of Druids to buy furs, is prepared to take you. Cross off 15 💎. The journey, across the Sea of Whispers, is uneventful, and you dock at the Trading Post on the island a week or so later.",
+      "Turn to e195."
+    ]
+  },
+  {
+    "tag": "e302",
+    "title": "Exploring Yellowport",
+    "desc": ["You can explore:"],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e093", "The poor quarter"],
+          ["e587", "The harbour area"],
+          ["e277", "The area around the palace"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e303",
+    "title": "Trapping the Ghoul with Salt and Iron",
+    "desc": [
+      "Cross the salt and iron filings from your Adventure Sheet. As fast as you can, you lay out a line of powder in front of you. The ghoul gives a moaning wail and shrinks back, unable to cross the line of salt and iron filings. Quickly you run around the ghoul, encircling it with the powder. The creature lunges for you but it cannot cross the line – you keep it at bay at every turn. Soon it is completely trapped.",
+      "Casually, you sit on a tombstone and wait for sunrise. When it comes, the ghoul is burnt to a crisp. You take the rotting, charred head and make your way back into town.",
+      "Note you have a ghoul's head and turn to e100."
+    ]
+  },
+  {
+    "tag": "e304",
+    "title": "The Man with the Eyepatch",
+    "desc": [
+      "He spots you before you can get the jump on him. 'Stinking assassin!' he yells, drawing his sword. You must fight him.",
+      "If you win, turn to e092. If you lose, he kills you, and your adventuring days are over, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Man with eyepatch", "5", "8", "12"]]
+      }
+    ]
+  },
+  {
+    "tag": "e305",
+    "title": "Attempting to Steal the Chain Mail",
+    "desc": [
+      "If there is a tick in the box, turn to e367 immediately. If not, put a tick there now, and read on.",
+      "Make a Magic roll at Difficulty 11."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e609", "Successful Magic roll"],
+          ["e528", "Failed Magic roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e306",
+    "title": "The Enchanted Pebbles",
+    "desc": [
+      "Something doesn't feel right about the pearls. You realize a minor enchantment has been put on them – they are in fact tiny pebbles, made to look like pearls. You squeeze them in the palm of your hand, and they revert to their natural state.",
+      "'By the twin gods!' exclaims the young man. 'Look at that! They were pebbles all along!'",
+      "You stare at him for a long while, fingering your weapon. The Sea Gypsy shifts uneasily from foot to foot, coughing nervously, and hands you another bag of pearls. This time you are sure they are real. Note the bag of pearls on your Adventure Sheet.",
+      "You take your leave and resume your journey. Turn to e085."
+    ]
+  },
+  {
+    "tag": "e307",
+    "title": "Lost in the Music",
+    "desc": [
+      "It feels like you are playing the flute for an eternity. But at last they tire of your music...",
+      "You wake up with a scream. You realize you are not aboard your ship! You find out that you are in the temple of Alvir and Valmir in Yellowport. A priest tells you that your crew brought you here three months ago because they could not wake you from your sleep.",
+      "Your ship and crew are long gone now – note that you no longer own a ship. The priests, however, have been looking after all your possessions. Among them is a silver flute (Charisma +2). While you have the flute, it adds 2 to your Charisma. Note that it is worth 500 💎 and that you can sell it at any market if you like.",
+      "You leave the temple. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e308",
+    "title": "Beaten by the Ratmen",
+    "desc": [
+      "The ratmen beat you into unconsciousness, and then toss you down an underground sewer outlet. You are washed up on the beaches outside Yellowport, where you come to. You have 1 ❤️ left, and the ratmen have taken all the items and money that you were carrying. Cross them off your Adventure Sheet.",
+      "Groggily, you make your way back into the city. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e309",
+    "title": "Crossing the Pentacle",
+    "desc": [
+      "As you move closer to the sarcophagus, your foot crosses the edge of the pentacle by a few millimetres – it is enough. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts from the stone coffin! The smoke hurtles towards you, like a miniature tornado.",
+      "You must fight the tomb guardian. If you have a weapon with a Combat bonus of +1 or greater, turn to e043. Otherwise, turn to e260."
+    ]
+  },
+  {
+    "tag": "e310",
+    "title": "The Village of High Therys",
+    "desc": [
+      "If there is a tick in the box, turn to e614 immediately. If not, read on.",
+      "The Stinking River has cut its way through the high ground here. On the edge of the chasm that overlooks the river lies the village of High Therys.",
+      "The locals are behaving very oddly. You watch the villagers lay out a fine feast on the village green. A pig is set roasting on a spit, loaves of freshly baked bread are piled beside bowls overflowing with fruits, butter and cheese. Lastly, the richest merchants of the village bring coffers full of silver which they set beside the table. To your amazement, instead of sitting down to dine, the villagers then scurry home and start closing the shutters on their windows.",
+      "Turn to e283."
+    ]
+  },
+  {
+    "tag": "e311",
+    "title": "Refusing the Sokaran Inspection",
+    "desc": [
+      "He narrows his eyes angrily at your refusal. If your ship is a galleon and you have a good or excellent crew, turn to e335 immediately. If not, read on.",
+      "'In that case, I have no choice but to seize your ship!' More of his men swarm on to your ship, and a battle ensues.",
+      "Roll three dice if you are a Warrior, or two dice if you belong to any other profession. Add your Rank to this roll. If the crew is poor quality, subtract 2 from the total. If the crew is good, add 2; if it is excellent, add 3. (see table below)"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e680", "0–4", "Calamity. You are killed"],
+          ["e153", "5–9", "Crushing defeat. Lose 1–6 ❤️"],
+          ["e242", "10–13", "A draw"],
+          ["e062", "14+", "Outright victory"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e312",
+    "title": "Coastal Waters of Nerech",
+    "desc": [
+      "'Nerech's a dangerous place – even its coastal waters, Cap'n,' says the first mate. 'The crew won't follow you there if they don't think you're good enough to lead them!'",
+      "If your Rank is 4 or more, turn to paragraph e050 in The Plains of Howling Darkness.",
+      "If your Rank is less than 4, the first mate advises you against making the ocean journey. If you take his advice, turn to e507.",
+      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e050", "Successful Charisma roll"],
+          ["e507", "Failed Charisma roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e313",
+    "title": "The Ordeal of the Silver Daggers",
+    "desc": [
+      "You stand against the wall as the high priestess draws back her arm, and hurls a stream of daggers at you. Roll two dice. If the total is higher than your Defence, a dagger hits you and you lose 1–6 ❤️ (roll a die to see how many). If the two dice score less than or equal to your Defence, the daggers all miss.",
+      "Either way, if you survive then you are free to leave. Delete Lacuna from the God box on your Adventure Sheet and turn to e400."
+    ]
+  },
+  {
+    "tag": "e314",
+    "title": "Runes Mean Nothing",
+    "desc": ["The runes mean nothing to you."],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e097", "Go down to the beach"],
+          ["e602", "Take the road to Trefoille"],
+          ["e166", "Take the road to Marlock City"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e315",
+    "title": "The Gorlock's Lair",
+    "desc": [
+      "With the gorlock out of the way, you are free to investigate its lair. Inside the cave, you find 500 💎, a mace and a silver nugget.",
+      "Turn to e510."
+    ]
+  },
+  {
+    "tag": "e316",
+    "title": "The Temple of Elnir",
+    "desc": [
+      "The temple of Elnir is an imposing edifice of grey stone, inlaid with yellow marbling. Elnir is the god of the sky and of kingship. He is the ruler of the gods.",
+      "'His dreams are the clouds before a storm,' says a passing priest."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e291", "Become an initiate of Elnir"],
+          ["e143", "Renounce his worship"],
+          ["e388", "Seek a blessing"],
+          ["e010", "Leave the temple"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e317",
+    "title": "The Familiar Craft",
+    "desc": [
+      "It is the same craft you got the magic spear from, with the silver-skinned demon inside – still dead you presume. You examine it again, but there is nothing else of interest on board. The figure still lies there unmoving.",
+      "You sail on. Turn to e085."
+    ]
+  },
+  {
+    "tag": "e318",
+    "title": "The Scorpion Man",
+    "desc": [
+      "A scorpion man scuttles out of the brush to confront you. It resembles a huge scorpion, but with a human head and torso. It holds a sword and shield in its human arms. The creature's eyes blaze with an unearthly yellow light, and it scrabbles towards you with frightening speed, whipping its sting up and around at you. You must fight it.",
+      "If you win, turn to e657. If you lose, you are finished, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Scorpion Man", "3", "6", "8"]]
+      }
+    ]
+  },
+  {
+    "tag": "e319",
+    "title": "The Willow Staff Delivered",
+    "desc": [
+      "You give the willow staff to the Oak Druid of the City of Trees. Cross the willow staff off your Adventure Sheet.",
+      "'Ah, thank you,' the druid intones, going on, 'a willow staff, eh? I see.'",
+      "As a reward, the druid lets you train with the City of Trees' best hunters and trackers. Gain 1 Rank, and roll one die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "When you are ready, you leave the City of Trees and return to the Trading Post. Turn to e195."
+    ]
+  },
+  {
+    "tag": "e320",
+    "title": "Prisoners of the Cult",
+    "desc": [
+      "You learn from their conversations that they are from the jungles of distant Ankon-Konu, the Feathered Lands, and that they have come here to find new sacrifices for their god, and new members for their cult. The chef pronounces the cauldron is ready, and they remove the net that holds you."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e204", "Fight"],
+          ["e101", "Shout 'Badogor!' repeatedly"],
+          ["e061", "Join their cult"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e321",
+    "title": "The Black Dragon Knight",
+    "desc": [
+      "The Black Dragon Knight comes out to meet you. His armour is of black steel, and you think you can see glowing red eyes through the slits in his full-face helm. You must fight him.",
+      "If you win, turn to e417. If you lose, you are dead, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Black Dragon Knight", "5", "9", "11"]]
+      }
+    ]
+  },
+  {
+    "tag": "e322",
+    "title": "Recognized Undersea",
+    "desc": [
+      "The repulsive one recognizes you from your last undersea trip!",
+      "Turn to e238."
+    ]
+  },
+  {
+    "tag": "e323",
+    "title": "The Gorlock's Lair on the Hill",
+    "desc": [
+      "A few locals are discussing recent events – it seems some hideous beast has made its lair in a cave on the hill that overlooks the village.",
+      "'It's a gorlock,' says a farmer. 'And it's amassed quite a bit of treasure by all accounts – lifted from its victims. A brave adventurer like yourself could get rich if you killed it. You'd be doing us a favour as well.'",
+      "You ask what a gorlock looks like, but no one knows. 'Nobody's come back to tell the tale!' says the innkeeper.",
+      "You leave the tavern. Turn to e510."
+    ]
+  },
+  {
+    "tag": "e324",
+    "title": "Storm at Sea",
+    "desc": [
+      "Heavy black clouds race towards you across the sky, whipping the waves into a frenzy. The crew mutter among themselves fearfully. If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm. Cross off the blessing and turn to e559.",
+      "Otherwise the storm hits with full fury. Roll one die if your ship is a barque, two dice if it is a brigantine, or three dice if a galleon. Add 1 to the roll if you have a good crew; add 2 if you have an excellent crew."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e607", "1–3", "Ship sinks"],
+          ["e083", "4–5", "The mast splits"],
+          ["e559", "6–20", "You weather the storm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e325",
+    "title": "Ship Lost to the Deep",
+    "desc": [
+      "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off your Adventure Sheet. Your only thought now is to save yourself.",
+      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one die and, if you can survive that, turn to e173."
+    ]
+  },
+  {
+    "tag": "e326",
+    "title": "Unmasking Old Megan",
+    "desc": [
+      "You follow the footprints to the mill, where you see an old lady and two men brushing flour off their clothes. 'Another successful year's haunting!' laughs the woman.",
+      "Quietly you creep back and tell the villagers what you have discovered. Brimming with outrage, they go straight to the mill and seize the three miscreants.",
+      "'Old Megan!' cries one of the villagers when he sees who is the ringleader of the three. 'So, you've been masquerading as a ghost for these seven years, eh? Well, tomorrow we'll take you to the gallows and then you can play the part for real.'",
+      "Turn to e671."
+    ]
+  },
+  {
+    "tag": "e327",
+    "title": "Secret Cache in Yellowport",
+    "desc": [
+      "You have already cleaned the ratmen out of the tunnels below the city but the old well will make a good cache for equipment and money that you don't want to carry with you. It has an advantage over a town house – there is no risk of burglary or fire. You may also rest here as long as you like, restoring any lost Stamina points.",
+      "Note 'Secret cache, Yellowport – The War-Torn Kingdom e327' on your Adventure Sheet so that you can come here whenever you are in Yellowport.",
+      "To go back to the city above, turn to e010."
+    ]
+  },
+  {
+    "tag": "e328",
+    "title": "Searching for the Ghoul",
+    "desc": [
+      "You are not sure where to start looking for the ghoul, so you wander around, looking for stories, strange murders – anything that might put you on its trail.",
+      "Make a Scouting roll at Difficulty 12."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e419", "Successful Scouting roll"],
+          ["e360", "Failed Scouting roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e329",
+    "title": "No Sign of the Black Dragon Knight",
+    "desc": [
+      "'Still haven't found him?' he says. 'Did you try the Castle of the Dragon Knights to the west of the Bronze Hills?' As he turns and leaves, he says, 'When you have better tidings, I will return here.'",
+      "You follow him, but he is nowhere to be seen. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e330",
+    "title": "Through the Archway to Wishport",
+    "desc": [
+      "You must have Cities of Gold and Glory before you can travel to Wishport. Turn back to e192 and choose again if you do not have this book. Otherwise, read on.",
+      "You step through the archway. Immediately the symbols on the stone begin to glow with red-hot energy; your hair stands on end and your body tingles. A crackling nimbus of blue-white force engulfs you, the sky darkens and rumbles, thunder and lightning crash and leap across the heavens. Suddenly, your vision fades, and everything goes black.",
+      "When your sight returns, moments later, you find yourself at the gates of Wishport. You join the throng of merchants and peasants making their way into the city. Turn to e217 in Cities of Gold and Glory."
+    ]
+  },
+  {
+    "tag": "e331",
+    "title": "The Book of the Seven Sages",
+    "desc": [
+      "If there is a tick in the box, turn to e627 immediately. If not, put a tick there now and read on.",
+      "You fall into conversation with Pyletes, a kindly old scholar-priest of Molhern, the God of Knowledge.",
+      "'Many years ago, the Book of the Seven Sages was stolen from us,' he croaks. 'News suggests that the scorpion men are in possession of it. I need a young adventurer like yourself to travel to Scorpion Bight and return the book to me. In return I can show you how to improve the skill of your choice.'",
+      "If you take up the quest, gain the codeword Artefact. Now turn back to e010."
+    ]
+  },
+  {
+    "tag": "e332",
+    "title": "The Trading Post Quayside",
+    "desc": [
+      "The quayside at the Trading Post is a simple affair, without the harbour facilities or the shipwrights of the larger ports. There are no ships available to buy here, but if you already own a ship, you can buy and sell cargo. (see table below)",
+      "Prices are for single Cargo Units. Fill in your current cargo on the Ship's Manifest.",
+      "You can buy a one-way passage to Yellowport from here at a cost of 15 💎 – turn to e074.",
+      "If you own a ship and wish to set sail, turn to e155. If not, turn to e195."
+    ],
+    "tables": [
+      {
+        "cols": ["Cargo", "Buy", "Sell"],
+        "rows": [
+          ["Furs", "135 💎", "130 💎"],
+          ["Grain", "220 💎", "210 💎"],
+          ["Metals", "600 💎", "570 💎"],
+          ["Minerals", "400 💎", "310 💎"],
+          ["Spices", "900 💎", "820 💎"],
+          ["Textiles", "325 💎", "285 💎"],
+          ["Timber", "120 💎", "100 💎"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e333",
+    "title": "East Bank of the River Grimm",
+    "desc": ["You are on the east bank of the River Grimm.", "Roll one die:"],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          [
+            "1–2",
+            "A water sprite curses you – lose a Blessing, if you have one"
+          ],
+          ["3–4", "Nothing happens"],
+          ["5–6", "Catch a smoulder fish while fishing"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e099", "Cross to the west bank (Cities of Gold and Glory)"],
+          ["e047", "Head east into the Forest of Larun"],
+          ["e123", "Follow the river north"],
+          ["e099", "Follow the river south"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e334",
+    "title": "Renouncing the Worship of Lacuna",
+    "desc": [
+      "To renounce the worship of Lacuna, you must pay 40 💎 in compensation to the shrine.",
+      "'If you forsake the love of the goddess, you will never survive the rigours of the wilderness,' warns the priestess.",
+      "If you still want to renounce the worship of Lacuna, cross off the 40 💎 and delete Lacuna from the God box on your Adventure Sheet.",
+      "When you are finished, turn to e195."
+    ]
+  },
+  {
+    "tag": "e335",
+    "title": "The Captain Backs Down",
+    "desc": [
+      "The captain eyes your crew and your marines. They are a tough-looking lot, seasoned sailors and veterans of quite a few battles at sea.",
+      "'Bah!' he exclaims, 'It's not worth the trouble. I'll let it pass this time.'",
+      "With that, he returns to his ship and departs. Turn to e439."
+    ]
+  },
+  {
+    "tag": "e336",
+    "title": "Bluffing Your Way In",
+    "desc": [
+      "You step in, saying, 'I have a message for King Skabb...' The ratmen stare at you in amazement.",
+      "'A human! Get it!' screams Skabb.",
+      "The four ratmen charge toward you with a roar, wielding swords, before you can say anything more. Soon they have been joined by many others and you have little choice but to turn and flee for your life! Desperately, you race down the sewer tunnels, with an army of ratmen in hot pursuit."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e079", "Lose them in the tunnels"],
+          ["e296", "Try some magic"],
+          ["e127", "Hide"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e337",
+    "title": "The Sea Centaur in the Net",
+    "desc": [
+      "If there is a tick in the box, turn to e037 immediately. If not, put a tick there now and read on.",
+      "The crew have been using a net to catch fish. This time they have caught a sea centaur, a strange-looking creature, with a top half like a man, and a bottom half like a sea horse. It struggles feebly, clutching at the net with webbed fingers, trying to saw it apart with a long, serrated dagger made of some sea shell.",
+      "'We'll have to kill it, Cap'n – they're terrible bad luck to have on board,' says the first mate. One of the sailors is already readying his cutlass."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e522", "Give the order to kill it"],
+          ["e604", "Spare it"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e338",
+    "title": "The Healer of Venefax",
+    "desc": [
+      "You climb down the ladder into a house with herbs and plants hanging on the walls, and shelves lined with pots, pans and bottles of all sorts. The healer, an old woman, can cure you of poison but is unable to cure disease, lift curses or heal wounds. It will cost you 25 💎 to get cured, if you are poisoned. If you pay, you can restore all of your affected abilities to normal.",
+      "When you are ready, turn back to e427."
+    ]
+  },
+  {
+    "tag": "e339",
+    "title": "Ashes from a Sorceress's House",
+    "desc": [
+      "You find a burned-out house in the poor quarter where a trader has set up a stall, selling ash and debris. The merchant, a weaselly-looking old woman, is screeching, 'Ashes, ashes from the house of a sorceress! Fifteen Shards a packet!'",
+      "If you want to buy some, cross off 15 💎 and note the ashes on your Adventure Sheet. When you are ready, you head back to the centre of the town. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e340",
+    "title": "Climbing to Devil's Peak",
+    "desc": ["Make a Scouting or Thievery roll at Difficulty 10."],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e239", "Successful Scouting or Thievery roll"],
+          ["e034", "Failed Scouting or Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e341",
+    "title": "Rumours at the Blue Griffon",
+    "desc": [
+      "You hear an interesting story about one of Baroness Ravayne's knights, in Golnir. Apparently he is plotting against her!",
+      "'Intrigue and treachery in the court of the baroness...' mutters a man before his voice fades to a whisper.",
+      "You leave the tavern. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e342",
+    "title": "The Alchemist's Shop",
+    "desc": [
+      "The alchemist's shop is lined with potions, jars of exotic substances, herbs, and so on. Alembics and beakers bubble and boil, full of strangely-coloured liquids. The alchemist, a tall, gangly fellow with a beak of a nose, sells potions. You can buy as many as you can afford – each one costs 50 💎. (see table below)",
+      "A potion can be used just before an ability roll or a fight to add 1 to the relevant ability for that one roll or fight only. Each potion can be used only once.",
+      "The alchemist can make you a special potion for 250 💎, but he needs an ink sac. If you pay the money, and have an ink sac (cross it off your Adventure Sheet) he will make you a potion of restoration. It can be used only once to heal all lost Stamina points, cure poison and disease.",
+      "Turn to e510."
+    ],
+    "tables": [
+      {
+        "cols": ["Potion", "Effect", "Cost"],
+        "rows": [
+          ["Potion of strength", "Combat +1", "50 💎"],
+          ["Potion of comeliness", "Charisma +1", "50 💎"],
+          ["Potion of intellect", "Magic +1", "50 💎"],
+          ["Potion of godliness", "Sanctity +1", "50 💎"],
+          ["Potion of stealth", "Thievery +1", "50 💎"],
+          ["Potion of nature", "Scouting +1", "50 💎"],
+          [
+            "Potion of restoration (needs ink sac)",
+            "Heals all Stamina, cures poison and disease",
+            "250 💎"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e343",
+    "title": "Becoming an Initiate of Alvir and Valmir",
+    "desc": [
+      "Becoming an initiate of Alvir and Valmir gives you the benefit of paying less for blessings and other services the temple can offer. It costs 40 💎 to become an initiate. You cannot become an initiate of Alvir and Valmir if you are an initiate of another temple.",
+      "If you choose to become an initiate, write Alvir and Valmir in the God box on your Adventure Sheet and cross off the 40 💎.",
+      "Turn to e154."
+    ]
+  },
+  {
+    "tag": "e344",
+    "title": "Slaying the Governor",
+    "desc": [
+      "You must make either a Combat or a Magic roll at Difficulty 14 to slay him. If you fail the roll, turn to e161 immediately. If you are successful, read on.",
+      "You cut him down, or enchant him so that he obeys your every command and falls on his own sword. Note the codeword Assassin.",
+      "Hurriedly, you flee the palace. Turn to e216."
+    ]
+  },
+  {
+    "tag": "e345",
+    "title": "A Wrecked Ship",
+    "desc": [
+      "A ship, impaled on some rocks, is breaking up. Nothing remains save for rotten timbers. However, a little bottle is bobbing in the waves. Inside, a message reads, 'Never sail at night through rocky waters.'",
+      "You sail on. Turn to e209."
+    ]
+  },
+  {
+    "tag": "e346",
+    "title": "Ship Lost to the Deep",
+    "desc": [
+      "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off your Adventure Sheet. Your only thought now is to save yourself.",
+      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one die roll and, if you can survive that, turn to e453."
+    ]
+  },
+  {
+    "tag": "e347",
+    "title": "A Congested Road",
+    "desc": [
+      "The road is nearly blocked by wagons and supply convoys. A troop of soldiers forces its way through the throng – the men bang heads indiscriminately to clear people out of the way.",
+      "Roll a die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "Banged on the head! Lose 1 ❤️"],
+          ["3–4", "Nothing happens"],
+          ["5–6", "Mistaken for a beggar – receive 10 💎 from a passing priest"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e400", "North to Caran Baru"],
+          ["e474", "East into the Coldbleak Mountains"],
+          ["e387", "South along the road"],
+          ["e047", "West into the Forest of Larun"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e348",
+    "title": "Paralysing the Creatures with Seaweed Sap",
+    "desc": [
+      "You remember what the fishermen say – the root of a certain seaweed, when crushed, gives off a cloud of toxic fluid. This sap is harmless to humans but is known to paralyse marine creatures for a short while. Fortunately, the seaweed grows in abundance here. You swim down with a handful of the roots, squeezing its sap into the waters. The hideous creatures shoot towards you, but are paralysed the instant they enter the cloud of reddish fluid that billows around you.",
+      "You take the golden net (note it on your Adventure Sheet) and swim back to the Shadar Tor as fast as you can."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e602", "Take the road to Trefoille"],
+          ["e166", "Take the road to Marlock City"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e349",
+    "title": "Escaping into the Backstreets",
+    "desc": [
+      "You are too fast to get caught, and run off into the shadowy backstreets of Caran Baru. Cursing your luck, you consider your next move.",
+      "Turn to e400."
+    ]
+  },
+  {
+    "tag": "e350",
+    "title": "Resurrected at the Temple of Nagil",
+    "desc": [
+      "You are restored to life at the Temple of Nagil in Marlock City. Your Stamina is back to normal score. The possessions and cash you were carrying at the time of your death are lost – cross them off your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.",
+      "'Nagil has taken you from the barge of souls that sails to the lands of the dead, and returned you to us,' declares the high priest.",
+      "You leave the temple. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e351",
+    "title": "Lauria in the Mines",
+    "desc": [
+      "One day, a new slave is brought in to work beside you. Much to your astonishment, it is Lauria, the thief who left you in the lurch when you burgled a wizard's house in Yellowport.",
+      "'Sorry about the last time,' she says, 'Business – you know. Now's my chance to make it up to you.'",
+      "She explains that she has discovered an escape route. This time, she promises to set up a diversion while you make for a tunnel where a cave-in has left an opening to the outside. Lauria says she will meet you later."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e662", "Go along with her plan"],
+          ["e565", "Escape on your own"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e352",
+    "title": "A Botched Disguise Spell",
+    "desc": [
+      "You mutter an enchantment that is intended to give you the appearance of a ratman but you get some of the intricate syllables wrong, and take on the appearance of a particularly wealthy merchant! At the sight of you, the ratmen redouble their efforts, and you are overwhelmed by sheer numbers.",
+      "Turn to e308."
+    ]
+  },
+  {
+    "tag": "e353",
+    "title": "Recognized as a Traitor",
+    "desc": [
+      "The guard recognizes you, and shouts at the top of his lungs, 'It's the stinking traitor who killed Nergan. Get him!'",
+      "Several archers pop up from behind the rocks overhead and start shooting at you. An arrow embeds itself in your shoulder. Lose 3 ❤️. If you still live, you realize you made a bad mistake in coming back here, and you run for your life. As you climb down, you are shot at again.",
+      "Roll a die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "You are hit twice, lose 6 ❤️"],
+          ["3–4", "Hit once, lose 3 ❤️"],
+          ["5–6", "Missed completely, no wounds"]
+        ]
+      }
+    ],
+    "note": [
+      "After that, if you are still alive, you make it back to the foothills of the mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e354",
+    "title": "The Curse Lifted",
+    "desc": [
+      "You throw, muttering a prayer for forgiveness to the gods. The weapon soars through the air. It turns, and catches the sunlight, sparkling like a flashing star, before sinking beneath the water with barely a splash. No ripples appear. Your heart feels uplifted, and the curse is no more!",
+      "Delete the curse and its effects, and lose the codeword Appease. Turn to e378."
+    ]
+  },
+  {
+    "tag": "e355",
+    "title": "Investment Returns",
+    "desc": [
+      "To find out how well your investments have done, roll two dice. Add 1 to the dice roll if you are an initiate of the Three Fortunes. Also add 1 if you have the codeword Almanac, add 2 if you have the codeword Brush, and add 3 if you have the codeword Eldritch."
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["2–4", "Lose entire sum invested"],
+          ["5–6", "Loss of 50%"],
+          ["7–8", "Loss of 10%"],
+          ["9–10", "Investment remains unchanged"],
+          ["11–12", "Profit of 10%"],
+          ["13–14", "Profit of 50%"],
+          ["15–16", "Double initial investment"],
+          ["17+", "Triple initial investment"]
+        ]
+      }
+    ],
+    "note": [
+      "Now turn to e046, where you can withdraw or leave the sum written in the box there after adjusting it according to the result rolled."
+    ]
+  },
+  {
+    "tag": "e356",
+    "title": "The Willow Druid's Sacred Grove",
+    "desc": [
+      "You are pious enough to be allowed to enter the sacred grove. You step in and knock on the door. A kindly old druid opens the door and greets you.",
+      "You hand him the oak staff (cross it from your Adventure Sheet). 'Thank you!' says the druid, 'An oak staff, eh! That's an interesting message, to be sure.'",
+      "He hands you 50 💎 as payment and a willow staff, saying, 'Please take this staff to the Oak Druid in the City of Trees, on the Isle of Druids – I'm sure he'll reward you, too. Good day, and thanks again!'",
+      "With that he shuts the door. You head back into the forest. Turn to e047."
+    ]
+  },
+  {
+    "tag": "e357",
+    "title": "The Ghostly Feast",
+    "desc": [
+      "The moon begins to rise, making the ghosts seem to glow. They sit hunched over their feast like vultures, occasionally stirring their hands in the pile of silver coins and tittering eerily."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e023", "Confront them"],
+          ["e541", "Stay hidden and follow when they leave"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e358",
+    "title": "The City of Trees",
+    "desc": [
+      "'Welcome to the City of the Trees,' says a passing woman, dressed in the garb of a druid. The city has been built amid the branches of several mighty oaks. Ladders run up and down the trees to houses that perch like nests in the branches. You are not allowed into any houses, but the druids allow you to barter at the market.",
+      "Items with no purchase price are not available locally."
+    ],
+    "tables": [
+      {
+        "cols": ["Armour", "Buy", "Sell"],
+        "rows": [
+          ["Leather (Defence +1)", "50 💎", "45 💎"],
+          ["Ring mail (Defence +2)", "–", "90 💎"]
+        ]
+      },
+      {
+        "cols": ["Weapons", " Buy", "Sell"],
+        "rows": [
+          ["No Combat bonus", "50 💎", "40 💎"],
+          ["Combat bonus +1", "250 💎", "200 💎"]
+        ]
+      },
+      {
+        "cols": ["Magical Equipment", "Buy", "Sell"],
+        "rows": [
+          ["Amber wand (Magic +1)", "500 💎", "300 💎"],
+          ["Ebony wand (Magic +2)", "1000 💎", "800 💎"],
+          ["Cobalt wand (Magic +3)", "–", "1600 💎"]
+        ]
+      },
+      {
+        "cols": ["Other Items", "Buy", " Sell"],
+        "rows": [
+          ["Mandolin (Charisma +1)", "–", "270 💎"],
+          ["Silver holy symbol (Sanctity +2)", "800 💎", "750 💎"],
+          ["Gold compass (Scouting +2)", "900 💎", "800 💎"],
+          ["Rope", "50 💎", "45 💎"],
+          ["Lantern", "100 💎", "90 💎"],
+          ["Silver nugget", "–", "150 💎"]
+        ]
+      }
+    ],
+    "note": [
+      "When you are finished, if you are a Wayfarer by profession, turn to e645. Otherwise you leave the City of Trees. Turn to e678."
+    ]
+  },
+  {
+    "tag": "e359",
+    "title": "The Wandering Tinker",
+    "desc": [
+      "A wandering tinker accosts you, selling lanterns for 50 💎 each. You can buy no more than three.",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e360",
+    "title": "The Ghoul Already Destroyed",
+    "desc": [
+      "You have no luck in tracking down the ghoul. The next day, you hear a rumour doing the rounds in the taverns. A ghoul was found and destroyed by an adventuring priestess of Tyrnai – apparently, the temple of Nagil rewarded her handsomely. Looks like you were pipped at the post.",
+      "Turn to e100."
+    ]
+  },
+  {
+    "tag": "e361",
+    "title": "Ambushed in the Alley",
+    "desc": [
+      "If there is a tick in the box, turn to e055 immediately. If not, put a tick there now, and read on.",
+      "You find a huddled, moaning figure on the ground. As you approach, a net is thrown over you from behind. You glimpse a face painted with white bone dust and big red circles around the eyes just before a terrific blow on the back of your head slams you into unconsciousness.",
+      "Turn to e508."
+    ]
+  },
+  {
+    "tag": "e362",
+    "title": "Dragged to the Dragon's Lair",
+    "desc": [
+      "The sea dragon dives deep to the bottom of the lake. You are pulled along at a terrific rate through the murky waters. You think your lungs are about to burst when at last the creature surges upwards, breaking the surface.",
+      "You find yourself in a cave inside a rocky island, somewhere on the surface of the lake. A hole in the roof lets in a shaft of bright sunlight, that reflects off the water, casting dappled yellow light all over the walls.",
+      "Part of the cave is dry ground, heaped with the dragon's treasure hoard – sparkling coins, swords, armour, and the like. You notice a rocky ledge, lined with a number of bottles, full of yellow dust.",
+      "The dragon pulls itself on top of its hoard – you have a few seconds to try to hide. Make a Thievery roll at a Difficulty of 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e016", "Successful Thievery roll"],
+          ["e274", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e363",
+    "title": "Transformed into a Sea Centaur",
+    "desc": [
+      "You collapse a rotting beam, just inside the cabin. The roof falls in, and a cloud of debris fills the water, obscuring you completely. You grab the gems, but it is not long before the magic of the sea centaurs takes you over. You live on for a hundred years, as a sea centaur. Your adventure ends here.",
+      "You can, however, start afresh with a new character. First make sure to erase all ticks, codewords, and Adventure Sheet details in all your Fabled Lands books. You can begin at e001 in any of the books of the series."
+    ]
+  },
+  {
+    "tag": "e364",
+    "title": "The Violet Ocean",
+    "desc": [
+      "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
+      "If your Rank is 4 or more, turn to paragraph e066 in Over the Blood-Dark Sea.",
+      "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn to e085.",
+      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e066", "Successful Charisma roll"],
+          ["e085", "Failed Charisma roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e365",
+    "title": "Sul Veneris Freed",
+    "desc": [
+      "Sul Veneris wakes up the moment you remove the stake. He rips the other stakes out of the ground, and soars into the air, with a shout like a clap of thunder. He swings his hammer around his head, and bolts of lightning leap forth to strike the storm demons.",
+      "As he rises into the clouds in pursuit of the demons, a bolt of lightning streaks from his hand and strikes you full force! You are thrown backwards but to your amazement you are unhurt. In fact, you feel empowered by the blast. Gain 3 ❤️ permanently.",
+      "You have freed Sul Veneris, the Lord of Thunder. Record the codeword Aloft before climbing down to the bottom. Turn to e658."
+    ]
+  },
+  {
+    "tag": "e366",
+    "title": "The Violet Ocean",
+    "desc": [
+      "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
+      "If your Rank is 4 or more, turn to paragraph e066 in Over the Blood-Dark Sea.",
+      "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn to e439.",
+      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 11 to convince the crew to follow you."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e066", "Successful Charisma roll"],
+          ["e439", "Failed Charisma roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e367",
+    "title": "Security Doubled at the Temple",
+    "desc": [
+      "You have attempted to steal the chain mail before. This time, security has been doubled with warrior priests of Tyrnai in abundance. Inside the temple, there are two more of the bull-headed iron golem guards, and you realize there is no way you can succeed.",
+      "You head back to the city centre. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e368",
+    "title": "Becoming an Initiate of Maka",
+    "desc": [
+      "Becoming an initiate of Maka gives you the benefit of paying less for blessings and other services the temple can offer. It costs 50 💎 to become an initiate. You cannot become an initiate of Maka if you are already an initiate of another temple.",
+      "If you choose to become an initiate, write Maka in the God box on your Adventure Sheet and remember to cross off the 50 💎.",
+      "Once you have finished here, turn to e141."
+    ]
+  },
+  {
+    "tag": "e369",
+    "title": "The Shrine of Lacuna at the Trading Post",
+    "desc": [
+      "If you have a boar's tusk, turn to e612. If not, read on.",
+      "The priestess, dressed in ceremonial leather armour and carrying a silver bow, recognizes you and welcomes you. She offers you the usual services."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e618", "Become an initiate of Lacuna"],
+          ["e334", "Renounce the worship of Lacuna"],
+          ["e052", "Seek a blessing"],
+          ["e195", "Leave the temple"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e370",
+    "title": "Defeated in the Tournament",
+    "desc": [
+      "You come round, back to your Stamina score before the fight started. You lose the weapon and armour you were using – cross them off your Adventure Sheet. The Dragon Knights compliment you on your bravery.",
+      "'Until the next time!' says your recent opponent.",
+      "You take your leave, somewhat bruised. Turn to e276."
+    ]
+  },
+  {
+    "tag": "e371",
+    "title": "The Gob-gobbler Unmasked",
+    "desc": [
+      "With a war cry, you leap to the attack. Your first blow rips away a great chunk of its body!",
+      "Suddenly, a voice pipes up from inside the Gob-gobbler. 'Help, help, lads, this one's a real fighter!' You realize the Gob-gobbler is a man disguised as a monster. But then two thugs – bandits, by the look of them – run out of the woods to attack you. You must fight them one at a time.",
+      "If you win, turn to e422. If you lose, you are dead, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [
+          ["First bandit", "3", "4", "6"],
+          ["Second bandit", "2", "3", "7"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e372",
+    "title": "Voyage to Yellowport",
+    "desc": [
+      "Cross off the 10 💎. A sleek yacht takes you on a trouble-free journey to Yellowport.",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e373",
+    "title": "The Blessing of Tyrnai",
+    "desc": [
+      "If you are an initiate it costs only 10 💎 to purchase Tyrnai's blessing. A non-initiate must pay 25 💎. Cross off the money and mark Combat in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to try again when you make a failed Combat roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one Combat blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
+      "When you are finished, turn to e526."
+    ]
+  },
+  {
+    "tag": "e374",
+    "title": "The Cursed Path",
+    "desc": [
+      "You sense that sorcery is afoot. You make a few magical divinations which tell you that the path is cursed: it will sour the water supply of anyone that travels upon it. However, you can tell that the curse affects only the path. There is just enough room to squeeze your way up beside it, hugging the rock face. You find your water returns to a state that is drinkable.",
+      "Eventually, the path leads to a bubbling well of springwater in the rocks, just at the opening of a cave. You refill your canteen, then explore the cave. Turn to e232."
+    ]
+  },
+  {
+    "tag": "e375",
+    "title": "Alone with the Provost Marshal",
+    "desc": [
+      "You tell the provost you have important news, best heard by him alone. He takes you to a side chamber without his guards.",
+      "If you want to attempt to slay the provost marshal, turn to e344. Otherwise, you tell him some old news and he throws you out – turn to e010."
+    ]
+  },
+  {
+    "tag": "e376",
+    "title": "Recaptured and Executed",
+    "desc": [
+      "You manage to slip out of your chains, and sneak off into the tunnels. You make it to the outside, but a troop of guards and a pack of dogs finally track you down. The fate of all escaped slaves is death – you are executed. Your adventuring days are over, unless you have a resurrection deal."
+    ]
+  },
+  {
+    "tag": "e377",
+    "title": "The Road Between Marlock City and Trefoille",
+    "desc": [
+      "The road between Marlock City and Trefoille is well maintained with regular guard posts. The Sokarans are nothing if not efficient.",
+      "Roll a die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "Bad omen – lose one Blessing"],
+          ["3–4", "Uneventful journey"],
+          ["5–6", "Find a sword (ordinary weapon)"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e250", "To Trefoille"],
+          ["e100", "To Marlock City"],
+          ["e175", "North into the Curstmoor"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e378",
+    "title": "The Pool at Blessed Springs",
+    "desc": [
+      "You find a wide pool of bubbling, electric blue water. It gives off a strong invigorating scent, like crushed pine leaves.",
+      "If you have the codeword Appease, turn to e593 immediately. If not, but you have a vial of yellow dust, turn to e556. Otherwise, you can bathe in the waters – turn to e598, or leave – turn to e510."
+    ]
+  },
+  {
+    "tag": "e379",
+    "title": "Robbing the Scholar",
+    "desc": [
+      "The scholar is in no condition to resist now that your work has been done for you by the ruffians. You take his purse. Inside you find 100 💎. Happy with a good bit of banditry, you decide to call it a night.",
+      "Turn to e100."
+    ]
+  },
+  {
+    "tag": "e380",
+    "title": "Rewarded by the Temple of Sig",
+    "desc": [
+      "'By the Larcenous One!' exclaims the high priest joyfully. 'You are indeed an accomplished rogue.'",
+      "Erase the golden chain mail of Tyrnai from your Adventure Sheet. The high priest teaches you secret knowledge of Sig, the God of Deception. You get a 300 💎 reward and you go up 1 Rank. Roll one die – the result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "If you are under Tyrnai's curse, turn to e564. Otherwise, turn to e100."
+    ]
+  },
+  {
+    "tag": "e381",
+    "title": "Caught in a Vice",
+    "desc": [
+      "You dart down a side tunnel but are horrified to meet several ratmen coming to meet you while your pursuers close in behind. You are caught in a vice and, though you fight with desperate bravery, you are overcome.",
+      "Turn to e308."
+    ]
+  },
+  {
+    "tag": "e382",
+    "title": "The Fisherman's Tale",
+    "desc": [
+      "'Fishing?' you ask, 'Surely nothing can live in these poisonous waters.'",
+      "The fisherman shows you a bright yellow fish with grey stripes, saying, 'Only the smoulder fish has adapted to the sulphur – it feeds on the local seaweed. Mind you the smoulder fish is totally inedible.'",
+      "'Why hunt it then?' 'Well, each fish is worth quite a bit to sorcerers and the like. We have a standing quota to fill each month for the magical colleges at Dweomer. The sulphur-laden organs burn in a particular way – a very useful ingredient in certain magics, I am told.'",
+      "'And where does all this sulphur come from?' 'Scholars say there is an underground volcanic vent. Others believe it is the breath of the sea dragon. Personally, I always drop a silver nugget into the waters once a month to appease the dragon, for his favourite metal is silver.'",
+      "Turn to e135."
+    ]
+  },
+  {
+    "tag": "e383",
+    "title": "Following Fourze",
+    "desc": [
+      "After a while Fourze circles around, heading across country. Make a Scouting roll at Difficulty 9."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e585", "Successful Scouting roll"],
+          ["e263", "Failed Scouting roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e384",
+    "title": "The Amulet of King Skabb",
+    "desc": [
+      "Guildmaster Vernon is pleased to see you. You hand him the copper amulet and he exclaims joyfully, 'The amulet of King Skabb! Well done, indeed!'",
+      "Cross the copper amulet off your Adventure Sheet. You are given 450 💎 as a reward.",
+      "Note the codeword Acid and turn to e010."
+    ]
+  },
+  {
+    "tag": "e385",
+    "title": "The King is Slain",
+    "desc": [
+      "The king is taken totally by surprise, and you cut him down. He falls dead at your feet. 'Long live General Marlock,' you mutter under your breath.",
+      "You take the king's royal ring as proof of your act. Note it on your Adventure Sheet and get the codeword Ark.",
+      "Although you manage to talk your way out of the stockade, the body is discovered as you are heading down the mountain path. Vengeful soldiers set off in pursuit.",
+      "Make a Scouting or a Thievery roll (your choice) at Difficulty 9."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e167", "Successful Scouting or Thievery roll"],
+          ["e230", "Failed Scouting or Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e386",
+    "title": "Lauria's Betrayal",
+    "desc": [
+      "There is no sign of Lauria, but you do find an open trunk and a window with a knotted rope dangling from it. So – she found the treasure and then made her escape, leaving you behind to face the music. You allow yourself a tight-lipped smile as you hear her voice echoing leadenly from far off in the fog: 'There's a thief at Master Talanexor's house! Quick!'",
+      "You'll settle the score with Lauria at a future date. For now, you just have time to escape before a patrol arrives. Gain the codeword Ashen and turn to e010."
+    ]
+  },
+  {
+    "tag": "e387",
+    "title": "The Weary Pilgrim Tavern",
+    "desc": [
+      "You are on a road between Caran Baru and Trefoille. You come to the Weary Pilgrim Tavern, a waystation between the cities. The tavern costs you 1 💎 a day. Each day you spend here you can recover 1 ❤️ if injured, up to the limit of your normal unwounded Stamina score.",
+      "If you want to spend 3 💎 buying drinks all round so you can glean some rumours, turn to e666. To leave, you can go:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e558", "South"],
+          ["e347", "North"],
+          ["e047", "West into the Forest of Larun"],
+          ["e135", "East to the lake"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e388",
+    "title": "The Blessing of Elnir",
+    "desc": [
+      "If you are an initiate it costs only 10 💎 to purchase Elnir's blessing. A non-initiate must pay 25 💎. Cross off the money and mark Charisma in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to try again when you make a failed Charisma roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one Charisma blessing at any one time. Once it is used up, you can return to any branch of the temple of Elnir to buy a new one.",
+      "Turn to e316."
+    ]
+  },
+  {
+    "tag": "e389",
+    "title": "Fighting the Ker'ilk",
+    "desc": [
+      "Driving one of the creatures back with your sword, you leap on to the forecastle shouting, 'To me, men!' They rally around you, organizing themselves into a fighting unit and a battle ensues. You must fight one ker'ilk.",
+      "If you win, turn to e519. If you lose, you end up as food for ker'ilk young – unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Ker'ilk", "4", "9", "8"]]
+      }
+    ]
+  },
+  {
+    "tag": "e390",
+    "title": "The Ghost Horses Pass",
+    "desc": [
+      "The horses rush past you, whinnying and neighing, bellowing at the twilight sky. Soon they disappear from your sight. You make camp, and the next day continue your journey."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e560", "Go north across country"],
+          ["e558", "Head east to the road"],
+          ["e250", "Go to Trefoille"],
+          ["e100", "Go to Marlock City"],
+          ["e099", "Head west towards the River Grimm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e391",
+    "title": "The Tree Steps Aside",
+    "desc": [
+      "Get the codeword Apple.",
+      "'Umm, well, I suppose I could let one such as you through,' says the tree thoughtfully. Then it uproots itself with a great tearing sound, and shuffles out of the way. 'There you go!' says the tree, 'You may pass.'",
+      "You walk through the thorn bush gate. Beyond, you find several huge oak trees whose branches are so big that they are able to support the homes of many people.",
+      "Turn to e358."
+    ]
+  },
+  {
+    "tag": "e392",
+    "title": "The Azure Prince Restored",
+    "desc": [
+      "You pass your hands over the mad beggar, mumbling a prayer to the gods.",
+      "The beggar cries out, 'A cloud has been lifted from my mind! The curse is dispelled! I remember all!'",
+      "His name, he tells you, is Akradai, the Azure Prince of the Horde of the Thundering Skies, nomads of the steppes. 'I was cursed with madness by Shazir of the Ruby Citadel but now you have cured me!' he says. 'I am forever in your debt!' He leaves, with a parting cry, 'Seek me on the steppes and I shall reward you.'",
+      "Gain the codeword Azure. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e393",
+    "title": "The Thug Attacks",
+    "desc": [
+      "You hear a sound behind you. You spin around just as another man, a beefy, disreputable-looking thug, comes for you with a long dagger. 'Get him!' yells the man with the eyepatch. You must fight.",
+      "If you lose, you are dead, unless you have a resurrection deal. If you win, turn to e476."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Thug", "3", "6", "13"]]
+      }
+    ]
+  },
+  {
+    "tag": "e394",
+    "title": "Helping the Pirates",
+    "desc": [
+      "When you and your crew join the fray, the battle is short-lived. The Sokarans are overpowered and taken as slaves by the pirates.",
+      "The pirate captain, Verin Crookback, is a short, bull-chested man. He walks like a hunchback, because of a crippling wound he took to the shoulder blade, many years ago. He thanks you for your help and rewards you with a share of the booty of the Sokaran war ships – only 50 💎. He also hands you a silver medallion.",
+      "'If you ever go to the Kingdom o' the Reavers,' he says, 'flash this about – one of the lads'll recognize it. Villains, the lot of them, but they'll honour one who carries the medallion. Someone will bring you to me – I'll help you, if you need it.'",
+      "The pirates take their leave, and you sail on. Turn to e420."
+    ]
+  },
+  {
+    "tag": "e395",
+    "title": "Escaping the Temple Pursuit",
+    "desc": [
+      "You make it out of the temple with your pursuers close behind. However, you manage to lose them amid the alleys of Caran Baru, hiding inside a barrel of rotting food – garbage from the army barracks. You emerge stinking, but safe.",
+      "Turn to e400."
+    ]
+  },
+  {
+    "tag": "e396",
+    "title": "The Market Square of Marlock City",
+    "desc": [
+      "The market square in Marlock City is huge. Armed guards stand around the edge to enforce General Marlock's will. Merchants and traders from all over Harkuna hawk their goods in a dozen languages.",
+      "Items with no purchase price listed are not available locally. The general has imposed a sales tax on all trade; the tax has been included in all the prices listed.",
+      "To return to the city centre, turn to e100."
+    ],
+    "tables": [
+      {
+        "cols": ["Armour", "Buy", "Sell"],
+        "rows": [
+          ["Leather (Defence +1)", "70 💎", "25 💎"],
+          ["Ring mail (Defence +2)", "120 💎", "70 💎"],
+          ["Chain mail (Defence +3)", "220 💎", "160 💎"],
+          ["Splint armour (Defence +4)", "420 💎", "340 💎"],
+          ["Plate armour (Defence +5)", "–", "700 💎"],
+          ["Heavy plate (Defence +6)", "–", "1420 💎"]
+        ]
+      },
+      {
+        "cols": ["Weapons", "Buy", "Sell"],
+        "rows": [
+          ["No Combat bonus", "70 💎", "20 💎"],
+          ["Combat bonus +1", "270 💎", "180 💎"],
+          ["Combat bonus +2", "–", "380 💎"],
+          ["Combat bonus +3", "–", "780 💎"]
+        ]
+      },
+      {
+        "cols": ["Magical Equipment", "Buy", "Sell"],
+        "rows": [
+          ["Amber wand (Magic +1)", "520 💎", "380 💎"],
+          ["Ebony wand (Magic +2)", "–", "780 💎"],
+          ["Cobalt wand (Magic +3)", "–", "1580 💎"]
+        ]
+      },
+      {
+        "cols": ["Other Items", "Buy", "Sell"],
+        "rows": [
+          ["Mandolin (Charisma +1)", "300 💎", "250 💎"],
+          ["Lockpicks (Thievery +1)", "300 💎", "250 💎"],
+          ["Holy symbol (Sanctity +1)", "220 💎", "80 💎"],
+          ["Compass (Scouting +1)", "520 💎", "430 💎"],
+          ["Rope", "70 💎", "25 💎"],
+          ["Lantern", "120 💎", "70 💎"],
+          ["Climbing gear", "120 💎", "70 💎"],
+          ["Bag of pearls", "–", "80 💎"],
+          ["Rat poison", "80 💎", "30 💎"],
+          ["Silver nugget", "–", "190 💎"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e397",
+    "title": "Storm-tossed and Lost",
+    "desc": [
+      "Your ship is thrown about like flotsam and jetsam. When the storm subsides, you take stock. Much has been swept overboard – you lose 1 Cargo Unit, if you had any, of your choice. Also, the ship has been swept way off course and the mate has no idea where you are. 'We're lost at sea, Cap'n!' he moans.",
+      "Turn to e090."
+    ]
+  },
+  {
+    "tag": "e398",
+    "title": "The Cave on the Hill",
+    "desc": [
+      "If there is a tick in the box, turn to e225 immediately. If not, put a tick there now, and read on.",
+      "You make your way up the hill. After a while, you spot a cave set into the hillside, a little further up. Judging by the human bones dumped near the entrance, this is the lair of a dangerous beast. Fresh tracks, of some large, two-legged, three-toed creature, lead from the cave into some nearby trees. It seems it is not home at the moment.",
+      "If you have the codeword Apache, turn to e463 immediately. If not, make a Magic or Scouting roll (your choice) at Difficulty 11."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e577", "Successful Scouting or Magic roll"],
+          ["e486", "Failed Scouting or Magic roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e399",
+    "title": "Assassinating Nergan Corin",
+    "desc": [
+      "You were asked by the Governor of Yellowport to assassinate Nergan Corin. It is a good time to make the attempt. If you want to have a go, make a Combat or a Thievery roll at Difficulty 12. If you succeed, turn to e385. If you fail, turn to e581.",
+      "If you would rather join the rebels and kill the governor instead, record the codeword Ambuscade. If you join the rebels, when you are ready, the king wishes you well, and you are led out of the stockade and back down to the foothills of the Coldbleak Mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e400",
+    "title": "Caran Baru",
+    "desc": [
+      "Caran Baru is a medium-sized town that acts as a way-station between the citadel to the north and the rich towns of the south. It is a garrison town; many supplies, arms, and soldiers move through Caran Baru on the north-south trail. Shops, temples, traders and the like have sprung up here to serve the needs of the military. There is also a sizeable mining community, for the mines of Sokara lie in the Bronze Hills just outside town, and a slave market where poor unfortunates, sold into slavery, are bought for work in the mines.",
+      "You can buy a town house in Caran Baru for 200 💎. Owning a town house gives you a place to rest and to store equipment. If you buy one, tick the box by the town house option.",
+      "If you have the codeword Barnacle, turn to e418 immediately. Otherwise, pick from the following options."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e215", "Visit the marketplace"],
+          ["e112", "Visit the merchants' guild"],
+          ["e473", "Visit the slave market"],
+          ["e282", "Visit the temple of Tyrnai"],
+          ["e615", "Visit the temple of Lacuna"],
+          ["e086", "Visit the temple of the Three Fortunes"],
+          ["e177", "Visit your town house 🏠 (if box ticked)"],
+          ["e184", "Visit the Blue Griffon Tavern"],
+          ["e201", "Follow the road north to the citadel"],
+          ["e110", "Go west into the Bronze Hills"],
+          ["e060", "Travel north east into the country"],
+          ["e458", "Take the east road to Fort Mereth"],
+          ["e474", "Head south east into the mountains"],
+          ["e347", "Take the south road"]
+        ]
+      }
+    ]
+  }
+]

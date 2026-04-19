@@ -561,7 +561,7 @@
         ]
       },
       {
-        "cols": ["Cargo", "To Buy", "To Sell"],
+        "cols": ["Cargo", "Buy", "Sell"],
         "rows": [
           ["Furs", "190 💎", "180 💎"],
           ["Grain", "190 💎", "180 💎"],
