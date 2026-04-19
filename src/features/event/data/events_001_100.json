@@ -65,8 +65,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e652", "Successful SCOUTING roll"],
-          ["e529", "Failed SCOUTING roll"]
+          ["e652", "✅ SCOUTING successful"],
+          ["e529", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -266,8 +266,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e626", "Successful SANCTITY roll"],
-          ["e268", "Failed SANCTITY roll"]
+          ["e626", "✅ SANCTITY successful"],
+          ["e268", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -339,14 +339,15 @@
     "tag": "e022",
     "title": "Golem chamber",
     "desc": [
-      "You reach down and deftly pull out the ceramic plug. A gush of foul-smelling emerald green liquid spills on to the floor, and the golem twitches once before collapsing. The other golem is coming to life, however. You’ll have to be quick to get it in time!"
+      "You reach down and deftly pull out the ceramic plug. A gush of foul-smelling emerald green liquid spills on to the floor, and the golem twitches once before collapsing. The other golem is coming to life, however. You’ll have to be quick to get it in time!",
+      "Make a COMBAT roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e539", "Successful COMBAT roll (Difficulty 9)"],
-          ["e647", "Failed COMBAT roll"]
+          ["e539", "✅ COMBAT successful"],
+          ["e647", "❌ COMBAT failed"]
         ]
       }
     ]
@@ -371,14 +372,15 @@
     "tag": "e024",
     "title": "King subdual",
     "desc": [
-      "You will need to subdue the king and his henchmen with aspell.Make a MAGIC roll at Difficulty 12."
+      "You will need to subdue the king and his henchmen with aspell.",
+      "Make a MAGIC roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e644", "Successful MAGIC roll (Difficulty 12)"],
-          ["e208", "Failed MAGIC roll"]
+          ["e644", "✅ MAGIC successful"],
+          ["e208", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -587,14 +589,15 @@
     "tag": "e039",
     "title": "Wreck exploration",
     "desc": [
-      "You and some of your crew clamber aboard the wreck. You find some dead sailors amid the wreckage. Their bodies are curiously bloated."
+      "You and some of your crew clamber aboard the wreck. You find some dead sailors amid the wreckage. Their bodies are curiously bloated.",
+      "Make a SCOUTING roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e194", "Successful SCOUTING roll (Difficulty 9)"],
-          ["e465", "Failed SCOUTING roll (Difficulty 9)"]
+          ["e194", "✅ SCOUTING successful"],
+          ["e465", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -1076,10 +1079,10 @@
     "desc": ["Make a SCOUTING roll at Difficulty 10."],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e524", "Successful SCOUTING roll"],
-          ["e415", "Failed SCOUTING roll"]
+          ["e524", "✅ SCOUTING successful"],
+          ["e415", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -1092,10 +1095,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e224", "Successful SCOUTING roll"],
-          ["e003", "Failed SCOUTING roll"]
+          ["e224", "✅ SCOUTING successful"],
+          ["e003", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -1261,8 +1264,8 @@
       {
         "cols": ["Ref", "Option"],
         "rows": [
-          ["e633", "Successful SCOUTING roll"],
-          ["e004", "Failed SCOUTING roll"]
+          ["e633", "✅ SCOUTING successful"],
+          ["e004", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -1310,10 +1313,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e509", "Successful THIEVERY roll"],
-          ["e228", "Failed THIEVERY roll"]
+          ["e509", "✅ THIEVERY successful"],
+          ["e228", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -1360,10 +1363,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e584", "Successful SANCTITY roll"],
-          ["e159", "Failed SANCTITY roll"]
+          ["e584", "✅ SANCTITY successful"],
+          ["e159", "❌ SANCTITY failed"]
         ]
       }
     ]

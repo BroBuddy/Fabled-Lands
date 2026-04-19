@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-4J44a5Iv.js";import{t}from"./Card-eZc5cjxP.js";var n=e();function r(){return(0,n.jsx)(t,{title:`Sokara`,children:(0,n.jsx)(`img`,{src:`/images/map_sokara.png`,alt:`Sokara`})})}export{r as default};

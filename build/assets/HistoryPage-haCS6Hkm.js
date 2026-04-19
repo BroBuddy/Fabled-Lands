@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-DAs1UGHr.js";import{t}from"./Card-DfmWyPoo.js";import{t as n}from"./TagList-C21GRXFL.js";var r=e();function i(){let e=JSON.parse(localStorage.getItem(`fabled-lands`)||`[]`);return(0,r.jsxs)(t,{title:`History`,children:[e.length===0&&(0,r.jsx)(`p`,{children:`No history yet.`}),(0,r.jsx)(n,{tags:e})]})}export{i as default};

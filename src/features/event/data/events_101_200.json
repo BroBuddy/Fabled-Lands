@@ -56,10 +56,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e306", "Successful MAGIC roll"],
-          ["e489", "Failed MAGIC roll"]
+          ["e306", "✅ MAGIC successful"],
+          ["e489", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -81,10 +81,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e132", "Successful CHARISMA roll"],
-          ["e457", "Failed CHARISMA roll"]
+          ["e132", "✅ CHARISMA successful"],
+          ["e457", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -193,10 +193,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e149", "Successful CHARISMA roll"],
-          ["e468", "Failed CHARISMA roll"]
+          ["e149", "✅ CHARISMA successful"],
+          ["e468", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -219,10 +219,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e588", "Successful COMBAT roll"],
-          ["e096", "Failed COMBAT roll"]
+          ["e588", "✅ COMBAT successful"],
+          ["e096", "❌ COMBAT failed"]
         ]
       }
     ]
@@ -336,8 +336,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e421", "Successful SANCTITY roll"],
-          ["e210", "Failed SANCTITY roll"]
+          ["e421", "✅ SANCTITY successful"],
+          ["e210", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -350,8 +350,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e269", "Successful THIEVERY roll"],
-          ["e183", "Failed THIEVERY roll"]
+          ["e269", "✅ THIEVERY successful"],
+          ["e183", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -406,8 +406,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e413", "Successful SANCTITY roll"],
-          ["e307", "Failed SANCTITY roll"]
+          ["e413", "✅ SANCTITY successful"],
+          ["e307", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -597,8 +597,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e223", "Successful SANCTITY roll"],
-          ["e289", "Failed SANCTITY roll"]
+          ["e223", "✅ SANCTITY successful"],
+          ["e289", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -814,8 +814,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e674", "Successful MAGIC roll"],
-          ["e309", "Failed MAGIC roll"]
+          ["e674", "✅ MAGIC successful"],
+          ["e309", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -840,8 +840,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e509", "Successful THIEVERY roll"],
-          ["e228", "Failed THIEVERY roll"]
+          ["e509", "✅ THIEVERY successful"],
+          ["e228", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -867,8 +867,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e247", "Successful SCOUTING/THIEVERY roll"],
-          ["e042", "Failed SCOUTING/THIEVERY roll"]
+          ["e247", "✅ SCOUTING/THIEVERY successful"],
+          ["e042", "❌ SCOUTING/THIEVERY failed"]
         ]
       }
     ]
@@ -1059,8 +1059,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e635", "Successful THIEVERY roll"],
-          ["e198", "Failed THIEVERY roll"]
+          ["e635", "✅ THIEVERY successful"],
+          ["e198", "❌ THIEVERY failed"]
         ]
       }
     ]
