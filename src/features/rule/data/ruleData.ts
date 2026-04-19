@@ -99,7 +99,7 @@ const ruleData: Rule[] = [
     tag: "r006",
     title: "Possessions",
     desc: [
-      "You can carry up to 12 possessions on your person., All characters begin with 16 💎 in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (Defence +1), map.",
+      "You can carry up to 12 possessions on your person., All characters begin with 16 💎 in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (🛡️ +1), map.",
       "Possessions are always marked in bold text, like this: gold compass. Anything marked in this way is an item which can be picked up and added to your list of possessions.",
       "Remember that you are limited to carrying a total of 12 items, so if you get more than this you'll have to cross something off your Adventure Sheet or find somewhere to store extra items. You can carry unlimited sums of money.",
     ],
@@ -122,7 +122,7 @@ const ruleData: Rule[] = [
     ],
     note: [
       "Example: You are a 3rd Rank character with a COMBAT score of 4, and you have to fight a goblin (COMBAT 5, Defence 7, Stamina 6). The fight begins with your attack (you always get first blow unless told otherwise). Suppose you roll 8 on two dice. Adding your COMBAT gives a total of 12. This is 5 more than the goblin's Defence, so it loses 5 Stamina.",
-      "The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (Defence +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.",
+      "The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (🛡️ +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.",
     ],
   },
   {
@@ -262,7 +262,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [["🗡️ Spear"], ["🧥 Leather jerkin (Defence +1)"], ["🗺️ Map"]],
+        rows: [["🗡️ Spear"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },
@@ -298,11 +298,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [
-          ["🗡️ Battle-axe"],
-          ["🧥 Leather jerkin (Defence +1)"],
-          ["🗺️ Map"],
-        ],
+        rows: [["🗡️ Battle-axe"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },
@@ -338,7 +334,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [["🗡️ Staff"], ["🧥 Leather jerkin (Defence +1)"], ["🗺️ Map"]],
+        rows: [["🗡️ Staff"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },
@@ -374,7 +370,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [["🗡️ Sword"], ["🧥 Leather jerkin (Defence +1)"], ["🗺️ Map"]],
+        rows: [["🗡️ Sword"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },
@@ -410,7 +406,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [["🗡️ Mace"], ["🧥 Leather jerkin (Defence +1)"], ["🗺️ Map"]],
+        rows: [["🗡️ Mace"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },
@@ -446,7 +442,7 @@ const ruleData: Rule[] = [
       },
       {
         cols: ["Possessions"],
-        rows: [["🗡️ Sword"], ["🧥 Leather jerkin (Defence +1)"], ["🗺️ Map"]],
+        rows: [["🗡️ Sword"], ["🧥 Leather jerkin (🛡️ +1)"], ["🗺️ Map"]],
       },
     ],
   },

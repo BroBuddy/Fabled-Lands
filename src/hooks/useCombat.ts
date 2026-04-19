@@ -96,19 +96,11 @@ export function useCombat() {
     }, 1000);
   }
 
-  const hitAdvantage = attacker.combat - defender.defence;
-  const counterAdvantage = defender.combat - attacker.defence;
-
-  const baseChance = 50 + (hitAdvantage - counterAdvantage) * 5;
-  const staminaBonus = (attacker.stamina - defender.stamina) * 2;
-  const chance = clamp(baseChance + staminaBonus, 5, 95);
-
   return {
     attacker,
     defender,
     log,
     fighting,
-    chance,
     syncAttacker,
     syncDefender,
     simulateFight,

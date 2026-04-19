@@ -17,11 +17,13 @@ function GamePage() {
             virtually unlimited adventures in the Fabled Lands. All you need is
             two dice, an eraser, and a pencil.
           </p>
+
           <p>
             If you have already played other books in the series, you may
             already know your <Link to="/event/e001">entry point</Link>. Turn to
             that section.
           </p>
+
           <p>
             If this is your first Fabled Lands book, read the{" "}
             <Link to="/rule">rules</Link> before starting at section 1 of The

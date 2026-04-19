@@ -1,1 +1,455 @@
-var e=[{tag:`r001`,title:`Quick Rules`,desc:[`To use an ability (⚔️ COMBAT, 🗝️ THIEVERY, and so on), roll two dice and add your score in the ability.`,`To succeed, you must roll higher than the Difficulty of the task.`,`Example: You want to calm down an angry innkeeper. This requires a 🎭 CHARISMA roll at Difficulty 10.`,`If you have a 🎭 CHARISMA score of 6, you need to roll 5 or more on 2d6 to succeed.`,`Fighting involves a series of ⚔️ COMBAT rolls. The Difficulty is equal to the opponent’s Defence score.`,`Your Defence score equals your Rank plus armour bonus plus ⚔️ COMBAT score.`,`The amount you beat the Difficulty by is the number of Stamina points the opponent loses.`,`That’s all you need to know for basic play. For detailed rules, consult Adventuring in the Fabled Lands 1 document.`]},{tag:`r002`,title:`Abilities`,desc:[`You have six abilities. Your initial score in each ability ranges from 1 (low ability) to 6 (high ability). The lowest possible score for an ability is 1 – you can never go below that.`],tables:[{cols:[`#`,`Ability`,`Description`],rows:[[`🎭`,`CHARISMA`,`The knack of befriending people`],[`⚔️`,`COMBAT`,`The skill of fighting`],[`🔮`,`MAGIC`,`The art of casting spells`],[`✨`,`SANCTITY`,`The gift of divine power and wisdom`],[`🧭`,`SCOUTING`,`Techniques of tracking and wilderness lore`],[`🗝️`,`THIEVERY`,`Talent for stealth and lockpicking`]]}]},{tag:`r003`,title:`Professions`,desc:[`Not all adventurers are good at everything.`,`Everyone has strengths and weaknesses.`,`Your choice of profession determines your initial scores in the six abilities.`,`Starting Ability Scores by Profession:`],tables:[{cols:[`#`,`🎭`,`⚔️`,`🔮`,`✨`,`🧭`,`🗝️`],rows:[[`Priest`,`4`,`2`,`3`,`6`,`4`,`2`],[`Mage`,`2`,`2`,`6`,`1`,`5`,`3`],[`Rogue`,`5`,`4`,`4`,`1`,`2`,`6`],[`Troubadour`,`6`,`3`,`4`,`3`,`2`,`4`],[`Warrior`,`3`,`6`,`2`,`4`,`3`,`2`],[`Wayfarer`,`2`,`5`,`2`,`3`,`6`,`4`]]}],note:[`Fill in the Adventure Sheet included in the Adventure Pack 1 with your choice of profession and the ability scores given for that profession.`]},{tag:`r004`,title:`Stamina`,desc:[`Stamina is lost when you get hurt. Keep track of your Stamina score throughout your travels and adventures. You must guard against your Stamina score dropping to zero, because if it does you are dead.`,`Lost Stamina can be recovered by various means, but your Stamina cannot go above its initial score until you advance in Rank.`,`You start with 9 Stamina points. Record your Stamina in pencil on the Adventure Sheet.`]},{tag:`r005`,title:`Rank`,desc:[`You start at 1st Rank, so note this on the Adventure Sheet now. By completing quests and overcoming enemies, you have the chance to go up in Rank.`,`You will be told during the course of your adventures when you are entitled to advance in Rank. Characters of higher Rank are tougher, luckier and generally better able to deal with trouble.`],tables:[{cols:[`Rank`,`Title`],rows:[[`1st`,`Outcast`],[`2nd`,`Commoner`],[`3rd`,`Guildmember`],[`4th`,`Master / Mistress`],[`5th`,`Gentleman / Lady`],[`6th`,`Baron / Baroness`],[`7th`,`Count / Countess`],[`8th`,`Earl / Viscountess`],[`9th`,`Marquis / Marchioness`],[`10th`,`Duke / Duchess`]]}]},{tag:`r006`,title:`Possessions`,desc:[`You can carry up to 12 possessions on your person., All characters begin with 16 💎 in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (Defence +1), map.`,`Possessions are always marked in bold text, like this: gold compass. Anything marked in this way is an item which can be picked up and added to your list of possessions.`,`Remember that you are limited to carrying a total of 12 items, so if you get more than this you'll have to cross something off your Adventure Sheet or find somewhere to store extra items. You can carry unlimited sums of money.`]},{tag:`r007`,title:`Defence`,desc:[`Your Defence score is equal to your COMBAT score plus your Rank plus the bonus for the armour you're wearing (if any).`,`Every suit of armour you find will have a Defence bonus listed for it. The higher the bonus, the better the armour. You can carry several suits of armour if you wish – but because you can wear only one at a time, you only get the Defence bonus of the best armour you are carrying.`,`Write your Defence score on the Adventure Sheet now. To start with it is just your COMBAT score plus 2 (because you are 1st Rank and have +1 armour). Remember to update it if you get better armour or increase in Rank or COMBAT ability.`]},{tag:`r008`,title:`Fighting`,desc:[`When fighting an enemy, roll two dice and add your COMBAT score. You need to roll higher than the enemy's Defence. The amount you roll above the enemy's Defence is the number of Stamina he loses.`,`If the enemy is now down to zero Stamina then he is defeated. Otherwise he will strike back at you, using the same procedure. If you survive, you then get a chance to attack again, and the battle goes on until one of you is victorious.`],note:[`Example: You are a 3rd Rank character with a COMBAT score of 4, and you have to fight a goblin (COMBAT 5, Defence 7, Stamina 6). The fight begins with your attack (you always get first blow unless told otherwise). Suppose you roll 8 on two dice. Adding your COMBAT gives a total of 12. This is 5 more than the goblin's Defence, so it loses 5 Stamina.`,`The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (Defence +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.`]},{tag:`r009`,title:`Using Abilities`,desc:[`Fighting is often not the easiest or safest way to tackle a situation. When you get a chance to use one of your other abilities, you will be told the Difficulty of the task. You roll two dice and add your score in the ability, and to succeed in the task you must get higher than the Difficulty.`],note:[`Example: You are at the bottom of a cliff. You can use THIEVERY to climb it, and the climb is Difficulty 9. Suppose your THIEVERY score is 4. This means you must roll at least 6 on the dice to make the climb.`]},{tag:`r010`,title:`Codewords`,desc:[`There is a list of codewords included in the Adventure Pack 1. Sometimes you will be told you have acquired a codeword. When this happens, put a tick in the box next to that codeword. If you later lose the codeword, erase the tick.`,`The codewords are arranged alphabetically for each book in the series. In this book, for example, all codewords begin with A. This makes it easy to check if you picked up a codeword from a book you played previously. For instance, you might be asked if you have picked up a codeword in a book you have already adventured in. The letter of that codeword will tell you which book to check (i.e. if it begins with C, it is from Book 3: Over the Blood-Dark Sea).`]},{tag:`r011`,title:`Some Questions Answered`,tables:[{cols:[`Some Questions Answered`],rows:[[`How long will my adventures last?`],[`As long as you like! There are many plot strands to follow in the Fabled Lands. Explore wherever you want. Gain wealth, power and prestige. Make friends and foes. Just think of it as real life in a fantasy world. When you need to stop playing, make a note of the entry you are at and later you can just resume at that point.`],[`What happens if I'm killed?`],[`If you had the foresight to arrange a resurrection deal (you'll learn about them later), death might not be the end of your career. Otherwise, you can always start adventuring again with a new persona. If you do, you'll first have to erase all codewords, ticks and money recorded in the book.`],[`What do the maps show?`],[`Two of the black and white maps show the whole extent of the known Fabled Lands. The colour map shows the land of Sokara which is covered by this adventure – The War-Torn Kingdom. The last black and white map should not be looked at unless you are instructed to do so by a specific reference number in the adventure itself.`],[`Are some regions of the world more dangerous than others?`],[`Yes. Generally, the closer you are to civilization (the area of Sokara and Golnir covered in the first two books) the easier your adventures will be. Wait until you have reached higher Rank before exploring the wilder regions.`],[`Where can I travel in the Fabled Lands?`],[`Anywhere. If you journey to the edge of the map in this adventure, you will be guided to another adventure in the series. The War-Torn Kingdom deals with Sokara, Cities of Gold and Glory deals with Golnir, Over the Blood-Dark Sea deals with the southern seas and so on. For example, if you are enslaved by the Uttakin, you will be guided to The Court of Hidden Faces 321, which refers to entry 321 in Book 5.`],[`What if I don't have the next book?`],[`Just turn back. When you do get that book, you can always return and venture onwards.`],[`What should I do when travelling on from one book to the next?`],[`It's very simple. Make a note of the entry you'll be turning to in the new adventure. Then copy all the information from your Adventure Sheet and Ship's Manifest into the new adventure. Lastly, rub out the Adventure Sheet and Ship's Manifest data in the old adventure so they will be blank when you return there.`],[`What about codewords?`],[`Codewords report important events in your adventuring life. They 'remember' the places you've been and the people you've met. Do NOT rub out codewords when you are passing from one book to another.`],[`Are there any limits on abilities?`],[`Your abilities (COMBAT, etc) can increase up to a maximum of 12. They can never go lower than 1. If you are told to lose a point off an ability which is already at 1, it stays as it is.`],[`Are there any limits on Stamina?`],[`There is no upper limit. Stamina increases each time you go up in Rank. Wounds will reduce your current Stamina, but not your potential (unwounded) score. If Stamina ever goes to zero, you are killed.`],[`Does it matter what type of weapon I have?`],[`When you buy a weapon in a market, you can choose what type of weapon it is (i.e. a sword, spear, etc). The type of weapon is up to you. Price is not affected by the weapon's type, but only by whether it has a COMBAT bonus or not.`],[`Some items give ability bonuses. Are these cumulative?`],[`No. If you already have a set of lockpicks (THIEVERY +1) and then acquire a set of MAGIC lockpicks (THIEVERY +2), you don't get a +3 bonus, only +2. Count only the bonus given by your best item for each ability.`],[`Why do I keep going back to entries I've been to?`],[`Many entries describe locations such as a city or castle, so whenever you go back there, you go to the paragraph that corresponds to that place.`],[`How many blessings can I have?`],[`As many as you can get, but never more than one of the same type. You can't have several COMBAT blessings, for instance, but you could have one COMBAT, one THIEVERY and one CHARISMA blessing.`]]}]},{tag:`r012`,title:`Starting characters`,desc:[`You can create your own character, or pick one from the following – except for the last two listed.Transfer the details of the character you have chosen to the Adventure Sheet.`],tables:[{cols:[`Characters`],rows:[[`r012a`,`Liana the Swift`],[`r012b`,`Andriel the Hammer`],[`r012c`,`Chalor the Exiled One`],[`r012d`,`Marana Fireheart`],[`r012e`,`Ignatius the Devout`],[`r012f`,`Astariel Skysong`]]}]},{tag:`r012a`,title:`Liana the Swift`,image:!0,desc:[`Liana prefers to make her home in mountain grottos and woodland groves rather than in the squalid streets of cities. She has the agility of a gazelle, the cunning of a fox and the ferocity of an eagle.`,`She has heard of a City of Trees, deep within the forest of the Isle of Druids.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Wayfarer`],[`Stamina`,`9 ❤️`],[`Defence`,`7 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`2 🎭`],[`COMBAT`,`5 ⚔️`],[`MAGIC`,`2 🔮`],[`SANCTITY`,`3 ✨`],[`SCOUTING`,`6 🧭`],[`THIEVERY`,`4 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Spear`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]},{tag:`r012b`,title:`Andriel the Hammer`,image:!0,desc:[`Andriel seeks fame through adventure and the glory of battle. He left his homeland when an extended outbreak of peace made his skills redundant there.`,`He is blunt and outspoken, but scrupulously follows the warrior's code. He knows the merchants' guild in Yellowport needs assistance.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Warrior`],[` Stamina`,`9 ❤️`],[`Defence`,`8 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`3 🎭`],[`COMBAT`,`6 ⚔️`],[`MAGIC`,`2 🔮`],[`SANCTITY`,`4 ✨`],[`SCOUTING`,`3 🧭`],[`THIEVERY`,`2 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Battle-axe`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]},{tag:`r012c`,title:`Chalor the Exiled One`,image:!0,desc:[`Chalor is an outcast by choice, shunning his native land and the family who spurned him, driven by a burning desire for secret knowledge.`,`His goal is to become one of the mightiest wizards of the world, and nothing will stand in his way. For now, he is looking for the Gold Dust Tavern in Yellowport, where adventure awaits.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Mage`],[`Stamina`,`9 ❤️`],[`Defence`,`4 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`2 🎭`],[`COMBAT`,`2 ⚔️`],[`MAGIC`,`6 🔮`],[`SANCTITY`,`1 ✨`],[`SCOUTING`,`5 🧭`],[`THIEVERY`,`3 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Staff`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]},{tag:`r012d`,title:`Marana Fireheart`,image:!0,desc:[`Marana is a fiercely independent woman who grew up in the back streets of her home town. Forced to flee because she was too active in her chosen profession, she has come to new lands to seek her fortune.`,`Devious and resourceful, she can break in almost anywhere. She has heard that the temple of Sig in Marlock City needs the service of a rogue.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Rogue`],[`Stamina`,`9 ❤️`],[`Defence`,`6 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`5 🎭`],[`COMBAT`,`4 ⚔️`],[`MAGIC`,`4 🔮`],[`SANCTITY`,`1 ✨`],[`SCOUTING`,`2 🧭`],[`THIEVERY`,`6 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Sword`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]},{tag:`r012e`,title:`Ignatius the Devout`,image:!0,desc:[`Ignatius is a traveller whose desire is to learn all he can about the deities of the Fabled Lands. His strong beliefs give his sermons added zest, and he has enthralled many a crowd with his impassioned speeches.`,`He is looking for the House of Priests in Marlock City.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Priest`],[`Stamina`,`9 ❤️`],[`Defence`,`4 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`4 🎭`],[`COMBAT`,`2 ⚔️`],[`MAGIC`,`3 🔮`],[`SANCTITY`,`6 ✨`],[`SCOUTING`,`4 🧭`],[`THIEVERY`,`2 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Mace`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]},{tag:`r012f`,title:`Astariel Skysong`,image:!0,desc:[`Astariel has the wanderlust, and chafes if he has to remain in one place for any length of time. He enjoys the freedom of the open road and the thought that he never knows what adventures each new day will bring.`,`He lives by his wits and is a familiar figure at tavern firesides, where he regales travellers with his tales.`],tables:[{cols:[`Stat`,`Value`],rows:[[`Rank`,`1st`],[`Profession`,`Troubadour`],[`Stamina`,`9 ❤️`],[`Defence`,`5 🛡️`],[`Money`,`16 💎`]]},{cols:[`Ability`,`Score`],rows:[[`CHARISMA`,`6 🎭`],[`COMBAT`,`3 ⚔️`],[`MAGIC`,`4 🔮`],[`SANCTITY`,`3 ✨`],[`SCOUTING`,`2 🧭`],[`THIEVERY`,`4 🗝️`]]},{cols:[`Possessions`],rows:[[`🗡️ Sword`],[`🧥 Leather jerkin (Defence +1)`],[`🗺️ Map`]]}]}];function t(){return{getRuleData:()=>e?e.map(({tag:e,title:t})=>({tag:e,title:t})):[],getRuleDataByTag:t=>e.find(e=>e.tag===t)}}export{t};
+var e = [
+  {
+    tag: `r001`,
+    title: `Quick Rules`,
+    desc: [
+      `To use an ability (⚔️ COMBAT, 🗝️ THIEVERY, and so on), roll two dice and add your score in the ability.`,
+      `To succeed, you must roll higher than the Difficulty of the task.`,
+      `Example: You want to calm down an angry innkeeper. This requires a 🎭 CHARISMA roll at Difficulty 10.`,
+      `If you have a 🎭 CHARISMA score of 6, you need to roll 5 or more on 2d6 to succeed.`,
+      `Fighting involves a series of ⚔️ COMBAT rolls. The Difficulty is equal to the opponent’s Defence score.`,
+      `Your Defence score equals your Rank plus armour bonus plus ⚔️ COMBAT score.`,
+      `The amount you beat the Difficulty by is the number of Stamina points the opponent loses.`,
+      `That’s all you need to know for basic play. For detailed rules, consult Adventuring in the Fabled Lands 1 document.`,
+    ],
+  },
+  {
+    tag: `r002`,
+    title: `Abilities`,
+    desc: [
+      `You have six abilities. Your initial score in each ability ranges from 1 (low ability) to 6 (high ability). The lowest possible score for an ability is 1 – you can never go below that.`,
+    ],
+    tables: [
+      {
+        cols: [`#`, `Ability`, `Description`],
+        rows: [
+          [`🎭`, `CHARISMA`, `The knack of befriending people`],
+          [`⚔️`, `COMBAT`, `The skill of fighting`],
+          [`🔮`, `MAGIC`, `The art of casting spells`],
+          [`✨`, `SANCTITY`, `The gift of divine power and wisdom`],
+          [`🧭`, `SCOUTING`, `Techniques of tracking and wilderness lore`],
+          [`🗝️`, `THIEVERY`, `Talent for stealth and lockpicking`],
+        ],
+      },
+    ],
+  },
+  {
+    tag: `r003`,
+    title: `Professions`,
+    desc: [
+      `Not all adventurers are good at everything.`,
+      `Everyone has strengths and weaknesses.`,
+      `Your choice of profession determines your initial scores in the six abilities.`,
+      `Starting Ability Scores by Profession:`,
+    ],
+    tables: [
+      {
+        cols: [`#`, `🎭`, `⚔️`, `🔮`, `✨`, `🧭`, `🗝️`],
+        rows: [
+          [`Priest`, `4`, `2`, `3`, `6`, `4`, `2`],
+          [`Mage`, `2`, `2`, `6`, `1`, `5`, `3`],
+          [`Rogue`, `5`, `4`, `4`, `1`, `2`, `6`],
+          [`Troubadour`, `6`, `3`, `4`, `3`, `2`, `4`],
+          [`Warrior`, `3`, `6`, `2`, `4`, `3`, `2`],
+          [`Wayfarer`, `2`, `5`, `2`, `3`, `6`, `4`],
+        ],
+      },
+    ],
+    note: [
+      `Fill in the Adventure Sheet included in the Adventure Pack 1 with your choice of profession and the ability scores given for that profession.`,
+    ],
+  },
+  {
+    tag: `r004`,
+    title: `Stamina`,
+    desc: [
+      `Stamina is lost when you get hurt. Keep track of your Stamina score throughout your travels and adventures. You must guard against your Stamina score dropping to zero, because if it does you are dead.`,
+      `Lost Stamina can be recovered by various means, but your Stamina cannot go above its initial score until you advance in Rank.`,
+      `You start with 9 Stamina points. Record your Stamina in pencil on the Adventure Sheet.`,
+    ],
+  },
+  {
+    tag: `r005`,
+    title: `Rank`,
+    desc: [
+      `You start at 1st Rank, so note this on the Adventure Sheet now. By completing quests and overcoming enemies, you have the chance to go up in Rank.`,
+      `You will be told during the course of your adventures when you are entitled to advance in Rank. Characters of higher Rank are tougher, luckier and generally better able to deal with trouble.`,
+    ],
+    tables: [
+      {
+        cols: [`Rank`, `Title`],
+        rows: [
+          [`1st`, `Outcast`],
+          [`2nd`, `Commoner`],
+          [`3rd`, `Guildmember`],
+          [`4th`, `Master / Mistress`],
+          [`5th`, `Gentleman / Lady`],
+          [`6th`, `Baron / Baroness`],
+          [`7th`, `Count / Countess`],
+          [`8th`, `Earl / Viscountess`],
+          [`9th`, `Marquis / Marchioness`],
+          [`10th`, `Duke / Duchess`],
+        ],
+      },
+    ],
+  },
+  {
+    tag: `r006`,
+    title: `Possessions`,
+    desc: [
+      `You can carry up to 12 possessions on your person., All characters begin with 16 💎 in cash and the following possessions, which you can record on your Adventure Sheet: sword, leather jerkin (Defence +1), map.`,
+      `Possessions are always marked in bold text, like this: gold compass. Anything marked in this way is an item which can be picked up and added to your list of possessions.`,
+      `Remember that you are limited to carrying a total of 12 items, so if you get more than this you'll have to cross something off your Adventure Sheet or find somewhere to store extra items. You can carry unlimited sums of money.`,
+    ],
+  },
+  {
+    tag: `r007`,
+    title: `Defence`,
+    desc: [
+      `Your Defence score is equal to your COMBAT score plus your Rank plus the bonus for the armour you're wearing (if any).`,
+      `Every suit of armour you find will have a Defence bonus listed for it. The higher the bonus, the better the armour. You can carry several suits of armour if you wish – but because you can wear only one at a time, you only get the Defence bonus of the best armour you are carrying.`,
+      `Write your Defence score on the Adventure Sheet now. To start with it is just your COMBAT score plus 2 (because you are 1st Rank and have +1 armour). Remember to update it if you get better armour or increase in Rank or COMBAT ability.`,
+    ],
+  },
+  {
+    tag: `r008`,
+    title: `Fighting`,
+    desc: [
+      `When fighting an enemy, roll two dice and add your COMBAT score. You need to roll higher than the enemy's Defence. The amount you roll above the enemy's Defence is the number of Stamina he loses.`,
+      `If the enemy is now down to zero Stamina then he is defeated. Otherwise he will strike back at you, using the same procedure. If you survive, you then get a chance to attack again, and the battle goes on until one of you is victorious.`,
+    ],
+    note: [
+      `Example: You are a 3rd Rank character with a COMBAT score of 4, and you have to fight a goblin (COMBAT 5, Defence 7, Stamina 6). The fight begins with your attack (you always get first blow unless told otherwise). Suppose you roll 8 on two dice. Adding your COMBAT gives a total of 12. This is 5 more than the goblin's Defence, so it loses 5 Stamina.`,
+      `The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a chain mail tabard (Defence +3). Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.`,
+    ],
+  },
+  {
+    tag: `r009`,
+    title: `Using Abilities`,
+    desc: [
+      `Fighting is often not the easiest or safest way to tackle a situation. When you get a chance to use one of your other abilities, you will be told the Difficulty of the task. You roll two dice and add your score in the ability, and to succeed in the task you must get higher than the Difficulty.`,
+    ],
+    note: [
+      `Example: You are at the bottom of a cliff. You can use THIEVERY to climb it, and the climb is Difficulty 9. Suppose your THIEVERY score is 4. This means you must roll at least 6 on the dice to make the climb.`,
+    ],
+  },
+  {
+    tag: `r010`,
+    title: `Codewords`,
+    desc: [
+      `There is a list of codewords included in the Adventure Pack 1. Sometimes you will be told you have acquired a codeword. When this happens, put a tick in the box next to that codeword. If you later lose the codeword, erase the tick.`,
+      `The codewords are arranged alphabetically for each book in the series. In this book, for example, all codewords begin with A. This makes it easy to check if you picked up a codeword from a book you played previously. For instance, you might be asked if you have picked up a codeword in a book you have already adventured in. The letter of that codeword will tell you which book to check (i.e. if it begins with C, it is from Book 3: Over the Blood-Dark Sea).`,
+    ],
+  },
+  {
+    tag: `r011`,
+    title: `Some Questions Answered`,
+    tables: [
+      {
+        cols: [`Some Questions Answered`],
+        rows: [
+          [`How long will my adventures last?`],
+          [
+            `As long as you like! There are many plot strands to follow in the Fabled Lands. Explore wherever you want. Gain wealth, power and prestige. Make friends and foes. Just think of it as real life in a fantasy world. When you need to stop playing, make a note of the entry you are at and later you can just resume at that point.`,
+          ],
+          [`What happens if I'm killed?`],
+          [
+            `If you had the foresight to arrange a resurrection deal (you'll learn about them later), death might not be the end of your career. Otherwise, you can always start adventuring again with a new persona. If you do, you'll first have to erase all codewords, ticks and money recorded in the book.`,
+          ],
+          [`What do the maps show?`],
+          [
+            `Two of the black and white maps show the whole extent of the known Fabled Lands. The colour map shows the land of Sokara which is covered by this adventure – The War-Torn Kingdom. The last black and white map should not be looked at unless you are instructed to do so by a specific reference number in the adventure itself.`,
+          ],
+          [`Are some regions of the world more dangerous than others?`],
+          [
+            `Yes. Generally, the closer you are to civilization (the area of Sokara and Golnir covered in the first two books) the easier your adventures will be. Wait until you have reached higher Rank before exploring the wilder regions.`,
+          ],
+          [`Where can I travel in the Fabled Lands?`],
+          [
+            `Anywhere. If you journey to the edge of the map in this adventure, you will be guided to another adventure in the series. The War-Torn Kingdom deals with Sokara, Cities of Gold and Glory deals with Golnir, Over the Blood-Dark Sea deals with the southern seas and so on. For example, if you are enslaved by the Uttakin, you will be guided to The Court of Hidden Faces 321, which refers to entry 321 in Book 5.`,
+          ],
+          [`What if I don't have the next book?`],
+          [
+            `Just turn back. When you do get that book, you can always return and venture onwards.`,
+          ],
+          [`What should I do when travelling on from one book to the next?`],
+          [
+            `It's very simple. Make a note of the entry you'll be turning to in the new adventure. Then copy all the information from your Adventure Sheet and Ship's Manifest into the new adventure. Lastly, rub out the Adventure Sheet and Ship's Manifest data in the old adventure so they will be blank when you return there.`,
+          ],
+          [`What about codewords?`],
+          [
+            `Codewords report important events in your adventuring life. They 'remember' the places you've been and the people you've met. Do NOT rub out codewords when you are passing from one book to another.`,
+          ],
+          [`Are there any limits on abilities?`],
+          [
+            `Your abilities (COMBAT, etc) can increase up to a maximum of 12. They can never go lower than 1. If you are told to lose a point off an ability which is already at 1, it stays as it is.`,
+          ],
+          [`Are there any limits on Stamina?`],
+          [
+            `There is no upper limit. Stamina increases each time you go up in Rank. Wounds will reduce your current Stamina, but not your potential (unwounded) score. If Stamina ever goes to zero, you are killed.`,
+          ],
+          [`Does it matter what type of weapon I have?`],
+          [
+            `When you buy a weapon in a market, you can choose what type of weapon it is (i.e. a sword, spear, etc). The type of weapon is up to you. Price is not affected by the weapon's type, but only by whether it has a COMBAT bonus or not.`,
+          ],
+          [`Some items give ability bonuses. Are these cumulative?`],
+          [
+            `No. If you already have a set of lockpicks (THIEVERY +1) and then acquire a set of MAGIC lockpicks (THIEVERY +2), you don't get a +3 bonus, only +2. Count only the bonus given by your best item for each ability.`,
+          ],
+          [`Why do I keep going back to entries I've been to?`],
+          [
+            `Many entries describe locations such as a city or castle, so whenever you go back there, you go to the paragraph that corresponds to that place.`,
+          ],
+          [`How many blessings can I have?`],
+          [
+            `As many as you can get, but never more than one of the same type. You can't have several COMBAT blessings, for instance, but you could have one COMBAT, one THIEVERY and one CHARISMA blessing.`,
+          ],
+        ],
+      },
+    ],
+  },
+  {
+    tag: `r012`,
+    title: `Starting characters`,
+    desc: [
+      `You can create your own character, or pick one from the following – except for the last two listed.Transfer the details of the character you have chosen to the Adventure Sheet.`,
+    ],
+    tables: [
+      {
+        cols: [`Characters`],
+        rows: [
+          [`r012a`, `Liana the Swift`],
+          [`r012b`, `Andriel the Hammer`],
+          [`r012c`, `Chalor the Exiled One`],
+          [`r012d`, `Marana Fireheart`],
+          [`r012e`, `Ignatius the Devout`],
+          [`r012f`, `Astariel Skysong`],
+        ],
+      },
+    ],
+  },
+  {
+    tag: `r012a`,
+    title: `Liana the Swift`,
+    image: !0,
+    desc: [
+      `Liana prefers to make her home in mountain grottos and woodland groves rather than in the squalid streets of cities. She has the agility of a gazelle, the cunning of a fox and the ferocity of an eagle.`,
+      `She has heard of a City of Trees, deep within the forest of the Isle of Druids.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Wayfarer`],
+          [`Stamina`, `9 ❤️`],
+          [`Defence`, `7 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `2 🎭`],
+          [`COMBAT`, `5 ⚔️`],
+          [`MAGIC`, `2 🔮`],
+          [`SANCTITY`, `3 ✨`],
+          [`SCOUTING`, `6 🧭`],
+          [`THIEVERY`, `4 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Spear`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+  {
+    tag: `r012b`,
+    title: `Andriel the Hammer`,
+    image: !0,
+    desc: [
+      `Andriel seeks fame through adventure and the glory of battle. He left his homeland when an extended outbreak of peace made his skills redundant there.`,
+      `He is blunt and outspoken, but scrupulously follows the warrior's code. He knows the merchants' guild in Yellowport needs assistance.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Warrior`],
+          [` Stamina`, `9 ❤️`],
+          [`Defence`, `8 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `3 🎭`],
+          [`COMBAT`, `6 ⚔️`],
+          [`MAGIC`, `2 🔮`],
+          [`SANCTITY`, `4 ✨`],
+          [`SCOUTING`, `3 🧭`],
+          [`THIEVERY`, `2 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Battle-axe`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+  {
+    tag: `r012c`,
+    title: `Chalor the Exiled One`,
+    image: !0,
+    desc: [
+      `Chalor is an outcast by choice, shunning his native land and the family who spurned him, driven by a burning desire for secret knowledge.`,
+      `His goal is to become one of the mightiest wizards of the world, and nothing will stand in his way. For now, he is looking for the Gold Dust Tavern in Yellowport, where adventure awaits.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Mage`],
+          [`Stamina`, `9 ❤️`],
+          [`Defence`, `4 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `2 🎭`],
+          [`COMBAT`, `2 ⚔️`],
+          [`MAGIC`, `6 🔮`],
+          [`SANCTITY`, `1 ✨`],
+          [`SCOUTING`, `5 🧭`],
+          [`THIEVERY`, `3 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Staff`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+  {
+    tag: `r012d`,
+    title: `Marana Fireheart`,
+    image: !0,
+    desc: [
+      `Marana is a fiercely independent woman who grew up in the back streets of her home town. Forced to flee because she was too active in her chosen profession, she has come to new lands to seek her fortune.`,
+      `Devious and resourceful, she can break in almost anywhere. She has heard that the temple of Sig in Marlock City needs the service of a rogue.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Rogue`],
+          [`Stamina`, `9 ❤️`],
+          [`Defence`, `6 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `5 🎭`],
+          [`COMBAT`, `4 ⚔️`],
+          [`MAGIC`, `4 🔮`],
+          [`SANCTITY`, `1 ✨`],
+          [`SCOUTING`, `2 🧭`],
+          [`THIEVERY`, `6 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Sword`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+  {
+    tag: `r012e`,
+    title: `Ignatius the Devout`,
+    image: !0,
+    desc: [
+      `Ignatius is a traveller whose desire is to learn all he can about the deities of the Fabled Lands. His strong beliefs give his sermons added zest, and he has enthralled many a crowd with his impassioned speeches.`,
+      `He is looking for the House of Priests in Marlock City.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Priest`],
+          [`Stamina`, `9 ❤️`],
+          [`Defence`, `4 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `4 🎭`],
+          [`COMBAT`, `2 ⚔️`],
+          [`MAGIC`, `3 🔮`],
+          [`SANCTITY`, `6 ✨`],
+          [`SCOUTING`, `4 🧭`],
+          [`THIEVERY`, `2 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Mace`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+  {
+    tag: `r012f`,
+    title: `Astariel Skysong`,
+    image: !0,
+    desc: [
+      `Astariel has the wanderlust, and chafes if he has to remain in one place for any length of time. He enjoys the freedom of the open road and the thought that he never knows what adventures each new day will bring.`,
+      `He lives by his wits and is a familiar figure at tavern firesides, where he regales travellers with his tales.`,
+    ],
+    tables: [
+      {
+        cols: [`Stat`, `Value`],
+        rows: [
+          [`Rank`, `1st`],
+          [`Profession`, `Troubadour`],
+          [`Stamina`, `9 ❤️`],
+          [`Defence`, `5 🛡️`],
+          [`Money`, `16 💎`],
+        ],
+      },
+      {
+        cols: [`Ability`, `Score`],
+        rows: [
+          [`CHARISMA`, `6 🎭`],
+          [`COMBAT`, `3 ⚔️`],
+          [`MAGIC`, `4 🔮`],
+          [`SANCTITY`, `3 ✨`],
+          [`SCOUTING`, `2 🧭`],
+          [`THIEVERY`, `4 🗝️`],
+        ],
+      },
+      {
+        cols: [`Possessions`],
+        rows: [[`🗡️ Sword`], [`🧥 Leather jerkin (🛡️ +1)`], [`🗺️ Map`]],
+      },
+    ],
+  },
+];
+function t() {
+  return {
+    getRuleData: () =>
+      e ? e.map(({ tag: e, title: t }) => ({ tag: e, title: t })) : [],
+    getRuleDataByTag: (t) => e.find((e) => e.tag === t),
+  };
+}
+export { t };

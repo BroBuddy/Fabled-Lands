@@ -12,7 +12,7 @@ type Links = {
 const links: Links[] = [
   { to: "/", icon: <Castle /> },
   { to: "/codewords", icon: <Lock /> },
-  { to: "/combat", icon: <Swords /> },
+  { to: "/COMBAT", icon: <Swords /> },
   { to: "/history", icon: <History /> },
   { to: "/map", icon: <Map /> },
 ];

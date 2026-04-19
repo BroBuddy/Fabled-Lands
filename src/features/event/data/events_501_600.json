@@ -116,14 +116,14 @@
     "title": "The Chain Mail Taken Without Triggering the Trap",
     "desc": [
       "You spot a pressure pad at the base of the idol just in time – who knows what unpleasant trap that would have set off! Quickly, you remove the chain mail and sling it over your shoulder. Note the gold chain mail of Tyrnai on your Adventure Sheet – as it is gold, it is useless as actual armour.",
-      "The eyes of the jaguar-headed idol seem to turn to look at you. Make a Sanctity roll at Difficulty 10."
+      "The eyes of the jaguar-headed idol seem to turn to look at you. Make a SANCTITY roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e625", "Successful Sanctity roll"],
-          ["e279", "Failed Sanctity roll"]
+          ["e625", "Successful SANCTITY roll"],
+          ["e279", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -156,14 +156,14 @@
     "desc": [
       "Your arcane knowledge tells you much about the undead. Ghouls are known to eat the flesh of the dead as well as the living. They like to make their homes in crypts and graveyards and they never venture out during the day, as sunlight burns their pallid undead flesh. Also, they cannot abide a powder of salt and iron filings mixed together.",
       "You can purchase these ingredients for 15 💎 at many a market stall. If you make the purchase, note you have salt and iron filings on your Adventure Sheet.",
-      "When you are ready, you set off to search the cemeteries of Marlock City. Make a Scouting roll at Difficulty 9."
+      "When you are ready, you set off to search the cemeteries of Marlock City. Make a SCOUTING roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e419", "Successful Scouting roll"],
-          ["e360", "Failed Scouting roll"]
+          ["e419", "Successful SCOUTING roll"],
+          ["e360", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -206,13 +206,13 @@
   {
     "tag": "e515",
     "title": "Reading the Runes",
-    "desc": ["Make a Magic roll at Difficulty 11."],
+    "desc": ["Make a MAGIC roll at Difficulty 11."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e205", "Successful Magic roll"],
-          ["e314", "Failed Magic roll"]
+          ["e205", "Successful MAGIC roll"],
+          ["e314", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -415,14 +415,14 @@
     "tag": "e528",
     "title": "Sneaking into the Temple",
     "desc": [
-      "You attempt to sneak in through the back of the temple that night. Make a Thievery roll at Difficulty 11."
+      "You attempt to sneak in through the back of the temple that night. Make a THIEVERY roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e445", "Successful Thievery roll"],
-          ["e284", "Failed Thievery roll"]
+          ["e445", "Successful THIEVERY roll"],
+          ["e284", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -453,7 +453,7 @@
     "tag": "e532",
     "title": "The Scorpion Shaman Falls",
     "desc": [
-      "The scorpion men's shaman falls dead with an uncannily human cry. If you were wounded in that fight, you have been poisoned by the scorpion man's venom. Subtract 1 from your Combat, Thievery and Scouting abilities, as you are severely weakened (though no ability can drop to zero). Note that you are poisoned – you can restore your ratings to normal if you get cured. If you have some scorpion antidote, it will cure the poison immediately (cross off the antidote).",
+      "The scorpion men's shaman falls dead with an uncannily human cry. If you were wounded in that fight, you have been poisoned by the scorpion man's venom. Subtract 1 from your COMBAT, THIEVERY and SCOUTING abilities, as you are severely weakened (though no ability can drop to zero). Note that you are poisoned – you can restore your ratings to normal if you get cured. If you have some scorpion antidote, it will cure the poison immediately (cross off the antidote).",
       "A quick search reveals what you were looking for – the Book of the Seven Sages. Note it on your Adventure Sheet.",
       "You steal out of the mound unnoticed and make it safely back to the village of Venefax, to the north. Turn to e427."
     ]
@@ -505,14 +505,14 @@
     "tag": "e536",
     "title": "Climbing into the Mountains",
     "desc": [
-      "If you have some climbing gear, turn to e628. If not, make a Scouting roll at Difficulty 12."
+      "If you have some climbing gear, turn to e628. If not, make a SCOUTING roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e562", "Successful Scouting roll"],
-          ["e438", "Failed Scouting roll"]
+          ["e562", "Successful SCOUTING roll"],
+          ["e438", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -557,14 +557,14 @@
     "desc": [
       "You roll across the eaves of the gate and reach down to pull the plug on the other golem in one deft movement. It ceases to function before it can give the alarm. It is an easy matter to get into the temple from the roof.",
       "Inside, it is cool and dark, filled with an unearthly stillness. You reach forward to strip the armour off the idol of Tyrnai.",
-      "Make a Thievery roll at Difficulty 12."
+      "Make a THIEVERY roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e509", "Successful Thievery roll"],
-          ["e228", "Failed Thievery roll"]
+          ["e509", "Successful THIEVERY roll"],
+          ["e228", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -573,7 +573,7 @@
     "tag": "e540",
     "title": "Following the Ruffians",
     "desc": [
-      "Sure enough, when the scholar leaves, purse bulging with Shards, the two ruffians also leave. You follow at a slight distance. As you suspected, the ruffians wait for a suitable moment and then set about the scholar.",
+      "Sure enough, when the scholar leaves, purse bulging with 💎, the two ruffians also leave. You follow at a slight distance. As you suspected, the ruffians wait for a suitable moment and then set about the scholar.",
       "'Help, help! Thieves!' cries the scholar in a thin, reedy voice."
     ],
     "tables": [
@@ -591,14 +591,14 @@
     "title": "Following the Footprints",
     "desc": [
       "Burdened by the heavy chest full of coins, the three figures have left deep footprints in the grass.",
-      "Make a Scouting roll at a Difficulty of 10."
+      "Make a SCOUTING roll at a Difficulty of 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e326", "Successful Scouting roll"],
-          ["e245", "Failed Scouting roll"]
+          ["e326", "Successful SCOUTING roll"],
+          ["e245", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -609,7 +609,7 @@
     "desc": [
       "If there is a tick in the box, turn to e620 immediately. If not, put a tick there now, and read on.",
       "'By Tyrnai! It's the one who killed that pretender to the throne, Nergan Corin!' says one of them. They line up and give you a drunken salute, and then fall to slapping you on the back, and offering to buy you beers all night.",
-      "They also give you a present – a potion of strength (Combat +1). Note it on your Adventure Sheet. When used it will add 1 to your Combat rating, for one Combat roll, or one fight only, after which it will wear off.",
+      "They also give you a present – a potion of strength (COMBAT +1). Note it on your Adventure Sheet. When used it will add 1 to your COMBAT rating, for one COMBAT roll, or one fight only, after which it will wear off.",
       "Turn to e100."
     ]
   },
@@ -662,7 +662,7 @@
     "title": "Saving the Sorceress",
     "desc": [
       "With a heroic effort, you manage to get to the woman. Gathering her up, you run for the door, and stagger out into the cool night air, smoke and flame licking at your heels. The townsfolk give you a rousing cheer and the girl thanks you effusively for saving her mother.",
-      "Later, it transpires that the woman is actually a powerful sorceress whose experiments in fire magic went slightly wrong. Her name is Elissia the Traveller and she gives you a gift – a pale moonstone. Note moonstone of teleportation – The War-Torn Kingdom, e650 on your Adventure Sheet.",
+      "Later, it transpires that the woman is actually a powerful sorceress whose experiments in fire MAGIC went slightly wrong. Her name is Elissia the Traveller and she gives you a gift – a pale moonstone. Note moonstone of teleportation – The War-Torn Kingdom, e650 on your Adventure Sheet.",
       "Elissia tells you that you can use the moonstone by rubbing it, and you will be instantly teleported to the vicinity of the sunstone – which she carries on a necklace.",
       "'I will be here in Marlock City. Whenever you are desperate, at the end of your tether, or just want to get here fast, use the moonstone and you will appear beside me. I will do everything in my power to aid you, and then my debt to you will be repaid.'",
       "Whenever you want to use the moonstone, turn to e650 in this book. Now turn to e100."
@@ -694,7 +694,7 @@
             "Mistaken for a murderer! Forced to flee into the mountains – turn to e474"
           ],
           ["3–4", "Nothing happens"],
-          ["5–6", "Find some leather armour (Defence +1)"]
+          ["5–6", "Find some leather armour (🛡️ +1)"]
         ]
       },
       {
@@ -739,8 +739,8 @@
     "desc": [
       "A swaggering Sokaran captain marches on board with a complement of marines. 'I don't think you've paid your harbour duties,' he says.",
       "'Harbour duties! We're in the middle of the sea!' you exclaim angrily.",
-      "The captain smiles smugly at you. 'You'd better cough up 50 Shards, or I'll impound your ship and its cargo.' 'But that's no better than common piracy!' says your first mate, outraged.",
-      "'The duty will be 60 Shards now, for calling a captain in the Sokaran Imperial Navy a pirate!' he sneers. Several of his men burst into laughter.",
+      "The captain smiles smugly at you. 'You'd better cough up 50 💎, or I'll impound your ship and its cargo.' 'But that's no better than common piracy!' says your first mate, outraged.",
+      "'The duty will be 60 💎 now, for calling a captain in the Sokaran Imperial Navy a pirate!' he sneers. Several of his men burst into laughter.",
       "If you have the title Protector of Sokara, turn to e185. Otherwise, you can:"
     ],
     "tables": [
@@ -775,8 +775,8 @@
     "tag": "e554",
     "title": "King Skabb Defeated",
     "desc": [
-      "King Skabb's rusty iron crown shattered when he fell, so you take the copper amulet from around his neck. Note it on your Adventure Sheet. You also find a chest in the corner of the room but it is clearly booby-trapped. You can open it using magic, or your skills as a thief.",
-      "To pick the lock, make a Thievery roll at Difficulty 9. To use sorcery, make a Magic roll at Difficulty 9."
+      "King Skabb's rusty iron crown shattered when he fell, so you take the copper amulet from around his neck. Note it on your Adventure Sheet. You also find a chest in the corner of the room but it is clearly booby-trapped. You can open it using MAGIC, or your skills as a thief.",
+      "To pick the lock, make a THIEVERY roll at Difficulty 9. To use sorcery, make a MAGIC roll at Difficulty 9."
     ],
     "tables": [
       {
@@ -928,14 +928,14 @@
     "desc": [
       "After a gruelling climb of some hours, you are halfway up the side of a mountain, when you discover a thin, precarious path, leading up. You take a swig of water from your canteen and proceed up the path.",
       "After a while you have to stop to take more water. To your horror, your water supply has turned sour and undrinkable!",
-      "Make a Magic roll at Difficulty 10."
+      "Make a MAGIC roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e374", "Successful Magic roll"],
-          ["e643", "Failed Magic roll"]
+          ["e374", "Successful MAGIC roll"],
+          ["e643", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -945,7 +945,7 @@
     "title": "Renouncing the Worship of Sig",
     "desc": [
       "To renounce the worship of Sig, you must pay 50 💎 in compensation to the priesthood. 'Sig will no longer watch over you!' says a priest.",
-      "If you are certain you want to renounce Sig's worship, cross off the 50 💎, erase Sig from the God box on your Adventure Sheet, and lose 1 point of Thievery.",
+      "If you are certain you want to renounce Sig's worship, cross off the 50 💎, erase Sig from the God box on your Adventure Sheet, and lose 1 point of THIEVERY.",
       "'The dungeons are full of would-be rogues who renounced the faith!' yells a priest as you leave.",
       "Turn to e100."
     ]
@@ -954,20 +954,20 @@
     "tag": "e564",
     "title": "The Curse of Tyrnai",
     "desc": [
-      "You tell the high priest about the Curse of Tyrnai. 'Ah, I see. Well, you have to appease the god. You need a weapon (Combat +1), which you can buy in most markets, or acquire by some other means. Throw the weapon into the holy waters at the village of Blessed Springs, and ask for his forgiveness.'",
+      "You tell the high priest about the Curse of Tyrnai. 'Ah, I see. Well, you have to appease the god. You need a weapon (COMBAT +1), which you can buy in most markets, or acquire by some other means. Throw the weapon into the holy waters at the village of Blessed Springs, and ask for his forgiveness.'",
       "Acquire the codeword Appease and turn to e100."
     ]
   },
   {
     "tag": "e565",
     "title": "Escaping on Your Own",
-    "desc": ["Make a Thievery roll at Difficulty 10."],
+    "desc": ["Make a THIEVERY roll at Difficulty 10."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e654", "Successful Thievery roll"],
-          ["e376", "Failed Thievery roll"]
+          ["e654", "Successful THIEVERY roll"],
+          ["e376", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -1069,7 +1069,7 @@
         "cols": ["Ref", "Option"],
         "rows": [
           ["e079", "Lose them in the tunnels"],
-          ["e296", "Try some magic"],
+          ["e296", "Try some MAGIC"],
           ["e127", "Hide"]
         ]
       }
@@ -1091,7 +1091,7 @@
     "desc": [
       "'Ah, the saviour of the citadel. What can I do for you?' asks the general.",
       "He can arrange for you to be healed of all your wounds, cured of poison and disease (but his court sorcerer cannot lift a curse).",
-      "If you have no weapons or armour anywhere at all, he will give you an ordinary sword and a suit of chain mail (Defence +1). If you are completely out of money, with no Shards either banked or invested with the merchants' guild, or stored at a town house, he will give you 200 💎.",
+      "If you have no weapons or armour anywhere at all, he will give you an ordinary sword and a suit of chain mail (🛡️ +1). If you are completely out of money, with no 💎 either banked or invested with the merchants' guild, or stored at a town house, he will give you 200 💎.",
       "'Any time you are in real need, just come to me,' he adds.",
       "If you have a coded missive, turn to e677. Otherwise, turn to e100."
     ]
@@ -1134,7 +1134,7 @@
       {
         "cols": ["Ref", "Option"],
         "rows": [
-          ["e174", "Challenge the beast to combat"],
+          ["e174", "Challenge the beast to COMBAT"],
           ["e287", "Wait for it to leave the cave"]
         ]
       }
@@ -1294,14 +1294,14 @@
     "desc": [
       "From the cover of a hedge you wait until dusk. By now all the villagers are safely indoors with their shutters tightly barred.",
       "As the sky is turning from velvet indigo to the starlit blackness of night, you see three pale figures come loping across the green from the direction of the millpond. They must be the ghosts. Seeing the banquet, they utter gleeful cries and start to devour what has been set out for them.",
-      "Make a Magic roll at a Difficulty of 11."
+      "Make a MAGIC roll at a Difficulty of 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e231", "Successful Magic roll"],
-          ["e357", "Failed Magic roll"]
+          ["e231", "Successful MAGIC roll"],
+          ["e357", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -1316,14 +1316,14 @@
   },
   {
     "tag": "e592",
-    "title": "Trying Magic Undersea",
-    "desc": ["Make a Magic roll at Difficulty 11."],
+    "title": "Trying MAGIC Undersea",
+    "desc": ["Make a MAGIC roll at Difficulty 11."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e638", "Successful Magic roll"],
-          ["e111", "Failed Magic roll"]
+          ["e638", "Successful MAGIC roll"],
+          ["e111", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -1332,7 +1332,7 @@
     "tag": "e593",
     "title": "The Curse Must Be Lifted",
     "desc": [
-      "You are under a curse. You remember what you were told – to lift the curse, you have to throw a weapon (Combat +1) into the waters. If you have such a weapon and want to throw it away, turn to e354. If not, turn to e450."
+      "You are under a curse. You remember what you were told – to lift the curse, you have to throw a weapon (COMBAT +1) into the waters. If you have such a weapon and want to throw it away, turn to e354. If not, turn to e450."
     ]
   },
   {
@@ -1347,14 +1347,14 @@
     "tag": "e595",
     "title": "Sneaking Up on King Skabb",
     "desc": [
-      "You will have to sneak in around the hall to get behind the king. There are plenty of shadows to hide in but it will not be easy. Make a Thievery roll at Difficulty 11."
+      "You will have to sneak in around the hall to get behind the king. There are plenty of shadows to hide in but it will not be easy. Make a THIEVERY roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e608", "Successful Thievery roll"],
-          ["e475", "Failed Thievery roll"]
+          ["e608", "Successful THIEVERY roll"],
+          ["e475", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -1387,7 +1387,7 @@
     "title": "Delivering the Ghoul's Head",
     "desc": [
       "'You did it!' exclaims the warden happily, taking the ghoul's head and placing it in a jar. Cross it off your Adventure Sheet.",
-      "You can have a choice of reward: an amber wand (+1 Magic), 500 💎, or a free resurrection deal, if you do not have one already. You can choose only one of these three rewards.",
+      "You can have a choice of reward: an amber wand (+1 MAGIC), 500 💎, or a free resurrection deal, if you do not have one already. You can choose only one of these three rewards.",
       "To arrange resurrection, write 'Temple of Nagil – The War-Torn Kingdom e350)' in the Resurrection box on your Adventure Sheet. If you are later killed, turn to e350 in this book.",
       "Finally, if you are suffering from Ghoulbite disease, turn to e156. Otherwise, you return to town: turn to e100."
     ]

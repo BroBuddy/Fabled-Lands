@@ -9,7 +9,6 @@ function CombatPage() {
     defender,
     log,
     fighting,
-    chance,
     syncAttacker,
     syncDefender,
     simulateFight,
@@ -22,7 +21,7 @@ function CombatPage() {
 
   return (
     <>
-      <Card title="Combat">
+      <Card title="COMBAT">
         <CombatStats
           title="Attacker"
           stats={attacker}
@@ -38,15 +37,9 @@ function CombatPage() {
         />
 
         {log.length == 0 && (
-          <>
-            <p>
-              <strong>Chance: {chance}%</strong>
-            </p>
-
-            <button onClick={simulateFight} className="m-1">
-              Fight
-            </button>
-          </>
+          <button onClick={simulateFight} className="m-1">
+            Fight
+          </button>
         )}
       </Card>
 

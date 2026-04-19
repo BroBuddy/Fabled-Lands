@@ -20,6 +20,7 @@ function RuleDetail() {
             {rule.image && (
               <ParagraphImage tag={tag as string} title={rule.title} />
             )}
+
             {rule.desc.map((p, i) => (
               <p key={i}>{parseLinks(p)}</p>
             ))}

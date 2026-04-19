@@ -67,7 +67,7 @@
     "title": "The Book of Excellence",
     "desc": [
       "You thread your way carefully through the maze of magical symbols, until you reach the sarcophagus safely. Inside you find the mouldering bones of a long dead wizard, in whose skeletal hands you find the Book of Excellence.",
-      "As you scan the pages, you learn all sorts of new tricks – add one to the ability of your choice (such as Scouting or Combat) permanently. Once you have read it, the book disappears with a flash.",
+      "As you scan the pages, you learn all sorts of new tricks – add one to the ability of your choice (such as SCOUTING or COMBAT) permanently. Once you have read it, the book disappears with a flash.",
       "You thread your way out of the Tomb of the Wizard King, back into the Forest of Larun. Turn to e047."
     ]
   },
@@ -92,7 +92,7 @@
     "tag": "e609",
     "title": "Identifying the Golems' Weakness",
     "desc": [
-      "You recognize the two iron statues of bull-men that guard the temple. They are golems, creatures created by powerful sorcery. They will animate and attempt to kill any intruders that steal into the temple. Golems are almost impossible to defeat in combat, but they have one weakness – a ceramic plug, about the size of an apple, set into the backs of their heads. If the plug can be pulled out, the enchanted liquid that energizes the golem will pour out, and the creature will die.",
+      "You recognize the two iron statues of bull-men that guard the temple. They are golems, creatures created by powerful sorcery. They will animate and attempt to kill any intruders that steal into the temple. Golems are almost impossible to defeat in COMBAT, but they have one weakness – a ceramic plug, about the size of an apple, set into the backs of their heads. If the plug can be pulled out, the enchanted liquid that energizes the golem will pour out, and the creature will die.",
       "That night, you resolve to try to get on to the roof of the temple, hang down from the gables above the entrance, and pull the plugs on the golems, before going for the chain mail.",
       "Turn to e441."
     ]
@@ -124,7 +124,7 @@
     "desc": [
       "If there is a tick in the box, turn to e549 immediately. If not, put a tick there now, and read on.",
       "The priestess, who is wearing the skin of a wolf and is covered in red paint, welcomes you gleefully. 'At last, the tusk of a were-boar! Now the ceremony can go ahead.'",
-      "Cross the boar's tusk off your Adventure Sheet. The priestess rewards you with knowledge. Add 1 to your Scouting rating permanently.",
+      "Cross the boar's tusk off your Adventure Sheet. The priestess rewards you with knowledge. Add 1 to your SCOUTING rating permanently.",
       "Turn to e195."
     ]
   },
@@ -235,7 +235,7 @@
     "tag": "e620",
     "title": "Recognised and Left Alone",
     "desc": [
-      "Some local militiamen approach you with ill intent, presumably with a view to extorting a few Shards. They recognize you as a favourite of General Marlock, however, and leave you well alone, bowing and scraping to avoid your anger. Nothing else occurs this night.",
+      "Some local militiamen approach you with ill intent, presumably with a view to extorting a few 💎. They recognize you as a favourite of General Marlock, however, and leave you well alone, bowing and scraping to avoid your anger. Nothing else occurs this night.",
       "Turn to e100."
     ]
   },
@@ -259,10 +259,10 @@
   },
   {
     "tag": "e622",
-    "title": "Retrieving the Magic Chest",
+    "title": "Retrieving the MAGIC Chest",
     "desc": [
-      "The last time you were here, you had only a few minutes to grab some loot. Desperately, you search around for the magic chest that Oliphard the Wizardly wanted you to get for him. You find it – note the magic chest on your Adventure Sheet – but the sea dragon returns almost straight away, and you are forced to climb out of the hole in the roof without getting anything more, save for a pouch of 50 💎.",
-      "You crawl out on to the island in the middle of the lake and hitch a boat ride back to Cadmium. During the journey, you examine the magic chest, but it is guarded by great sorcery and is impossible to open.",
+      "The last time you were here, you had only a few minutes to grab some loot. Desperately, you search around for the MAGIC chest that Oliphard the Wizardly wanted you to get for him. You find it – note the MAGIC chest on your Adventure Sheet – but the sea dragon returns almost straight away, and you are forced to climb out of the hole in the roof without getting anything more, save for a pouch of 50 💎.",
+      "You crawl out on to the island in the middle of the lake and hitch a boat ride back to Cadmium. During the journey, you examine the MAGIC chest, but it is guarded by great sorcery and is impossible to open.",
       "Delete the codeword Avenge and turn to e135."
     ]
   },
@@ -313,7 +313,7 @@
     "title": "The Curse of Tyrnai",
     "desc": [
       "You realize that you have committed an act of sacrilege by stealing from the temple – you know in your heart that Tyrnai has cursed you.",
-      "You will never be a great fighter while you suffer the wrath of Tyrnai. Subtract 1 from your Combat ability until you can find a way of lifting the curse. Perhaps the priests of Sig in Marlock City can help you. Note that you are under 'Tyrnai's Curse, -1 Combat.'",
+      "You will never be a great fighter while you suffer the wrath of Tyrnai. Subtract 1 from your COMBAT ability until you can find a way of lifting the curse. Perhaps the priests of Sig in Marlock City can help you. Note that you are under 'Tyrnai's Curse, -1 COMBAT.'",
       "You sneak out of the temple. Turn to e400."
     ]
   },
@@ -322,7 +322,7 @@
     "title": "Repelling the Goblin-folk with Faith",
     "desc": [
       "You recite a devotional prayer to the gods, calling on your faith to aid you. The goblin-folk are repelled by your piety and purity of spirit. Even Gobrash finds the strength to get out from under you, and run off, such is your effect on them.",
-      "'Eeaurgh!' snarls the queen, recoiling, 'Please, your godliness is harmful to us. Here, take this and leave!' A jug of faery mead and an enchanted spear (Combat +2) are pushed towards you. Note them on your Adventure Sheet.",
+      "'Eeaurgh!' snarls the queen, recoiling, 'Please, your godliness is harmful to us. Here, take this and leave!' A jug of faery mead and an enchanted spear (COMBAT +2) are pushed towards you. Note them on your Adventure Sheet.",
       "The wall behind you shimmers and disappears – you step through, back into the cold, night air of the Curstmoor. You leave the faery mound far behind, and camp for the night. The next day, you resume your travels."
     ],
     "tables": [
@@ -352,14 +352,14 @@
     "desc": [
       "After a hard climb, you are halfway up the side of a mountain when you discover a thin, precarious path, leading up. The sun beats down, and you are sweating heavily. You take a swig of water from your canteen and proceed up the path.",
       "After a while you have to stop to take more water. To your horror, your water supply has turned sour and undrinkable!",
-      "Make a Magic roll at Difficulty 10."
+      "Make a MAGIC roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e374", "Successful Magic roll"],
-          ["e643", "Failed Magic roll"]
+          ["e374", "Successful MAGIC roll"],
+          ["e643", "Failed MAGIC roll"]
         ]
       }
     ]
@@ -417,13 +417,13 @@
   {
     "tag": "e632",
     "title": "Blessing the Mad Beggar",
-    "desc": ["Make a Sanctity roll at Difficulty 12."],
+    "desc": ["Make a SANCTITY roll at Difficulty 12."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e392", "Successful Sanctity roll"],
-          ["e125", "Failed Sanctity roll"]
+          ["e392", "Successful SANCTITY roll"],
+          ["e125", "Failed SANCTITY roll"]
         ]
       }
     ]
@@ -472,7 +472,7 @@
     "tag": "e636",
     "title": "Becoming an Initiate of Tyrnai in Caran Baru",
     "desc": [
-      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a Combat score of at least 6. Unlike other temples, there is no entry fee. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
+      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a COMBAT score of at least 6. Unlike other temples, there is no entry fee. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
       "If you choose to become an initiate (and meet the qualification) write Tyrnai in the God box on your Adventure Sheet.",
       "Once you have finished here, turn to e282."
     ]
@@ -482,7 +482,7 @@
     "title": "Escaping the Sea Dragon",
     "desc": [
       "Somehow you manage to evade the creature's jaws, and swim back to shore. Hauling yourself up on to the beach, you are assaulted by an angry villager.",
-      "'Where's my boat?' he cries, 'You've sunk it, haven't you? You city types don't know a thing! Well, you'll have to pay me back – fifty Shards at least!'",
+      "'Where's my boat?' he cries, 'You've sunk it, haven't you? You city types don't know a thing! Well, you'll have to pay me back – 50 💎 at least!'",
       "'Hah!' you reply, 'The cost of hiring it was more than its worth in any case. As far as I'm concerned, that boat was mine to do with as I liked!'",
       "The argument goes on all the way back to the village but eventually the fisherman gives up and storms off.",
       "Turn to e135."
@@ -612,9 +612,9 @@
     "title": "Looting the Dragon's Hoard",
     "desc": [
       "You remain quiet as a mouse, behind a pile of coins. After a long wait, the sea dragon slithers into the water, and swims out on some errand.",
-      "You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with magic. Note the magic chest on your Adventure Sheet. You can also choose up to three treasures from the following: enchanted sword (Combat +3), plate armour (Defence +5), ebony wand (Magic +2), 500 💎, magic mandolin (Charisma +2), gold compass (Scouting +2), magic lockpicks (Thievery +2), silver holy symbol (Sanctity +2).",
+      "You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with MAGIC. Note the MAGIC chest on your Adventure Sheet. You can also choose up to three treasures from the following: enchanted sword (COMBAT +3), plate armour (Defence +5), ebony wand (MAGIC +2), 500 💎, MAGIC mandolin (Charisma +2), gold compass (SCOUTING +2), MAGIC lockpicks (THIEVERY +2), silver holy symbol (SANCTITY +2).",
       "After you have taken the third treasure, you hear the sea dragon returning. Quickly you climb up through the hole in the roof on to an island in the middle of the lake. From there, you manage to get a lift on a passing boat, and make it safely to Cadmium village.",
-      "During the journey, you examine the magic chest, but it is guarded by great sorcery and is impossible to open.",
+      "During the journey, you examine the MAGIC chest, but it is guarded by great sorcery and is impossible to open.",
       "Delete the codeword Avenge and turn to e135."
     ]
   },
@@ -669,14 +669,14 @@
     "title": "Seeking the Sacred Grove",
     "desc": [
       "You are on a quest to take the oak staff to the Willow Druid who lives in a sacred grove somewhere in the forest. You wander around, looking for unusual tracks, strange creatures, anything that might lead you to a druid's den.",
-      "Make a Scouting roll at Difficulty 12."
+      "Make a SCOUTING roll at Difficulty 12."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e217", "Successful Scouting roll"],
-          ["e007", "Failed Scouting roll"]
+          ["e217", "Successful SCOUTING roll"],
+          ["e007", "Failed SCOUTING roll"]
         ]
       }
     ]
@@ -705,7 +705,7 @@
     "tag": "e656",
     "title": "Oliphard's Pavilion in Trefoille",
     "desc": [
-      "You find a large, red pavilion which has been erected over a ruin. Oliphard the Wizardly is inside. He greets you warmly. If you have a magic chest, turn to e672. If not, read on.",
+      "You find a large, red pavilion which has been erected over a ruin. Oliphard the Wizardly is inside. He greets you warmly. If you have a MAGIC chest, turn to e672. If not, read on.",
       "If you have a verdigris key, turn to e431. If not, read on.",
       "Oliphard can use his sorcery to teleport you instantly to certain places at a cost of 100 💎 a journey. If you want to be teleported, cross off the money and choose from the following destinations:"
     ],
@@ -736,7 +736,7 @@
     "title": "The Scorpion Man Falls",
     "desc": [
       "The creature falls dead. You can squeeze a little of its venom from its sting – if you do so, note the scorpion venom on your Adventure Sheet.",
-      "If you were wounded in the fight, you have been poisoned by the scorpion man's venom. Subtract 1 from your Combat, Thievery, and Scouting abilities, as you are severely weakened (although no ability can drop to zero). Note that you are poisoned – you can restore your abilities to normal if you get cured. If you have some scorpion antidote, it will cure the poison immediately – cross the antidote off your Adventure Sheet.",
+      "If you were wounded in the fight, you have been poisoned by the scorpion man's venom. Subtract 1 from your COMBAT, THIEVERY, and SCOUTING abilities, as you are severely weakened (although no ability can drop to zero). Note that you are poisoned – you can restore your abilities to normal if you get cured. If you have some scorpion antidote, it will cure the poison immediately – cross the antidote off your Adventure Sheet.",
       "You wander on until you come to a ridge. Down below, in a shallow valley, is a great mound of earth. Many burrows have been dug through it, and scorpion men are crawling in and out. This is the mound of the scorpion men – their home.",
       "If you have the codeword Artefact, turn to e406. If not, you realize that it would simply be too dangerous to venture down there. You head back towards Venefax. Turn to e492."
     ]
@@ -782,7 +782,7 @@
     "title": "The Wrong Line Crossed",
     "desc": [
       "With a thrill of horror, you realize you have missed your footing, crossing the wrong line by millimetres. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts out of the stone coffin! The column of smoke hurtles towards you, like a miniature tornado.",
-      "If you have a weapon with a Combat bonus of +1 or greater, turn to e043. If you have only an ordinary weapon or no weapon at all, turn to e260."
+      "If you have a weapon with a COMBAT bonus of +1 or greater, turn to e043. If you have only an ordinary weapon or no weapon at all, turn to e260."
     ]
   },
   {
@@ -847,7 +847,7 @@
     "desc": [
       "If there is a tick in the box, turn to e660 immediately. If not, put a tick there now and read on.",
       "You have rescued Alissia, the commander's daughter, from the manbeasts! They have a tearful, joyous reunion – all thanks to you!",
-      "The commander rewards you with combat training. Add one to your Combat ability permanently.",
+      "The commander rewards you with COMBAT training. Add one to your COMBAT ability permanently.",
       "When you are ready, you can leave:"
     ],
     "tables": [
@@ -930,9 +930,9 @@
   },
   {
     "tag": "e672",
-    "title": "The Magic Chest Returned",
+    "title": "The MAGIC Chest Returned",
     "desc": [
-      "'My chest!' yells Oliphard joyfully as you hand it over. Cross the magic chest off your Adventure Sheet.",
+      "'My chest!' yells Oliphard joyfully as you hand it over. Cross the MAGIC chest off your Adventure Sheet.",
       "Oliphard thanks you and teaches you how to be a better Mage. Gain 1 Rank and roll a die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
       "When you are ready, turn to e656."
     ]
@@ -978,14 +978,14 @@
     "desc": [
       "You realize from your magical studies that there is a safe path through the pentacle. If you step off the correct symbols, drawn on the ground, there is no telling what sorcerous trap you will set off.",
       "If you decide the whole thing is too dangerous and leave, turn to e047.",
-      "If you want to try the path to the sarcophagus, make a Thievery roll at Difficulty 9."
+      "If you want to try the path to the sarcophagus, make a THIEVERY roll at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e606", "Successful Thievery roll"],
-          ["e661", "Failed Thievery roll"]
+          ["e606", "Successful THIEVERY roll"],
+          ["e661", "Failed THIEVERY roll"]
         ]
       }
     ]
@@ -1024,14 +1024,14 @@
     "title": "Leaving the City of Trees",
     "desc": [
       "If you have the codeword Aspen, turn to e195. Otherwise read on.",
-      "The journey through the trees proves as difficult as when you first ventured into the Old Forest. Make a Scouting roll at Difficulty 10."
+      "The journey through the trees proves as difficult as when you first ventured into the Old Forest. Make a SCOUTING roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e679", "Successful Scouting roll"],
-          ["e036", "Failed Scouting roll"]
+          ["e679", "Successful SCOUTING roll"],
+          ["e036", "Failed SCOUTING roll"]
         ]
       }
     ]

@@ -16,6 +16,7 @@ export function parseLinks(text: string): React.ReactNode {
         </Link>
       );
     }
+
     if (/^[Rr]\d{3,4}[a-zA-Z]?$/.test(part)) {
       return (
         <Link key={i} to={`/rule/${part.toLowerCase()}`}>
@@ -23,6 +24,7 @@ export function parseLinks(text: string): React.ReactNode {
         </Link>
       );
     }
+
     return <Fragment key={i}>{part}</Fragment>;
   });
 }

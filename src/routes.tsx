@@ -24,7 +24,7 @@ const router = createBrowserRouter([
       { path: "/rule", element: <RulePage /> },
       { path: "/rule/:tag", element: <RuleDetailPage /> },
       { path: "/event/:tag", element: <EventDetailPage /> },
-      { path: "/combat", element: <CombatPage /> },
+      { path: "/COMBAT", element: <CombatPage /> },
       { path: "/codewords", element: <CodewordsPage /> },
       { path: "/history", element: <HistoryPage /> },
       { path: "/map", element: <MapPage /> },
