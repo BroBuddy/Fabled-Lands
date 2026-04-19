@@ -113,6 +113,7 @@
   {
     "tag": "e010",
     "title": "Yellowport",
+    "ticks": 4,
     "desc": [
       "If you have the codeword Assassin, turn to e050 immediately. If not, read on.",
       "If you have just arrived in Yellowport, tick the first empty box above (use a pencil). The boxes track how often you have visited the city. If this is your fourth visit, turn to e273.",
@@ -221,6 +222,7 @@
   {
     "tag": "e016",
     "title": "Sea dragon hoard",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e251 immediately. If not, put a tick there now and read on.",
       "If you have the codeword Avenge, turn to e648 immediately. Otherwise read on.",
@@ -283,6 +285,7 @@
   {
     "tag": "e019",
     "title": "Dragon Knights trial",
+    "ticks": 3,
     "desc": [
       "!!! Put a tick in an empty box. If all three boxes are now ticked, gain the codeword Anvil.",
       "The Dragon Knights are impressed with your ⚔️ skills.",
@@ -1267,6 +1270,7 @@
   {
     "tag": "e091",
     "title": "Gambler’s Den",
+    "ticks": 1,
     "desc": [
       "He smiles and takes you into the Gambler’s Den. It is a smoke-filled casino, full of all kinds of dubious characters, playing cards and dice. If you want to gamble, decide how much you want to bet, to a maximum of 20 💎, and roll two dice. Score 2: win five times your bet. Score 3-4: win twice your bet. Score 5-9: lose your bet. Score 10-11: win twice your bet. Score 12: win five times your bet.",
       "When you are ready to leave, put a tick in the box and turn to e109, unless the box is already ticked, in which case turn to e100."

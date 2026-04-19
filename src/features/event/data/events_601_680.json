@@ -100,6 +100,7 @@
   {
     "tag": "e610",
     "title": "The Special Night Sale",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, you find nothing of interest at the market – turn back to e400 immediately. Otherwise, put a tick in the box and read on.",
       "At nightfall, the market is kept open for a special sale. A cage with a steel floor is wheeled out. Inside is a dark, manlike shape. It seems to radiate shadows, for you can barely make it out.",
@@ -121,6 +122,7 @@
   {
     "tag": "e612",
     "title": "The Boar's Tusk Delivered",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e549 immediately. If not, put a tick there now, and read on.",
       "The priestess, who is wearing the skin of a wolf and is covered in red paint, welcomes you gleefully. 'At last, the tusk of a were-boar! Now the ceremony can go ahead.'",
@@ -216,6 +218,7 @@
   {
     "tag": "e619",
     "title": "A Blazing House",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e339 immediately. If not, put a tick there now, and read on.",
       "You come across a blazing house in the poorer area of town. A crowd has gathered, watching the flames impassively.",
@@ -464,6 +467,7 @@
   {
     "tag": "e635",
     "title": "The Mysterious Woman",
+    "ticks": 1,
     "desc": [
       "If the box above is empty, put a tick in it now and turn to e080. If it is already ticked, turn to e470."
     ]
@@ -576,6 +580,7 @@
   {
     "tag": "e645",
     "title": "The Oak Druid's Mission",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e248 immediately. If not, put a tick there now, and read on.",
       "You are brought before the druids' leader, the Oak Druid, a bearded fellow with earth and leaves all tangled up in his hair. He asks you to perform a service for them.",
@@ -621,6 +626,7 @@
   {
     "tag": "e649",
     "title": "Rewarded by the Chief Administrator",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e114 immediately. If not, put a tick there now, and read on.",
       "The chief administrator is overjoyed to see you. The priests already know you have been successful in freeing Sul Veneris, the Lord of Thunder, because their crystal ball shows them that the storm demons have been driven away.",
@@ -692,6 +698,7 @@
   {
     "tag": "e655",
     "title": "Grieve Marlock's Reward",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e574 immediately. If not, put a tick there now, and read on.",
       "The general greets you with a smile and embraces you, saying, 'You have served me beyond my expectations, my friend!'",
@@ -844,6 +851,7 @@
   {
     "tag": "e667",
     "title": "Alissia Rescued from the Manbeasts",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e660 immediately. If not, put a tick there now and read on.",
       "You have rescued Alissia, the commander's daughter, from the manbeasts! They have a tearful, joyous reunion – all thanks to you!",

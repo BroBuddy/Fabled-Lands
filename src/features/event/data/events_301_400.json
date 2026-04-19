@@ -48,6 +48,7 @@
   {
     "tag": "e305",
     "title": "Attempting to Steal the Chain Mail",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e367 immediately. If not, put a tick there now, and read on.",
       "Make a MAGIC roll at Difficulty 11."
@@ -101,6 +102,7 @@
   {
     "tag": "e310",
     "title": "The Village of High Therys",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e614 immediately. If not, read on.",
       "The Stinking River has cut its way through the high ground here. On the edge of the chasm that overlooks the river lies the village of High Therys.",
@@ -360,6 +362,7 @@
   {
     "tag": "e331",
     "title": "The Book of the Seven Sages",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e627 immediately. If not, put a tick there now and read on.",
       "You fall into conversation with Pyletes, a kindly old scholar-priest of Molhern, the God of Knowledge.",
@@ -459,6 +462,7 @@
   {
     "tag": "e337",
     "title": "The Sea Centaur in the Net",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e037 immediately. If not, put a tick there now and read on.",
       "The crew have been using a net to catch fish. This time they have caught a sea centaur, a strange-looking creature, with a top half like a man, and a bottom half like a sea horse. It struggles feebly, clutching at the net with webbed fingers, trying to saw it apart with a long, serrated dagger made of some sea shell.",
@@ -808,6 +812,7 @@
   {
     "tag": "e361",
     "title": "Ambushed in the Alley",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e055 immediately. If not, put a tick there now, and read on.",
       "You find a huddled, moaning figure on the ground. As you approach, a net is thrown over you from behind. You glimpse a face painted with white bone dust and big red circles around the eyes just before a terrific blow on the back of your head slams you into unconsciousness.",
@@ -1291,6 +1296,7 @@
   {
     "tag": "e398",
     "title": "The Cave on the Hill",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e225 immediately. If not, put a tick there now, and read on.",
       "You make your way up the hill. After a while, you spot a cave set into the hillside, a little further up. Judging by the human bones dumped near the entrance, this is the lair of a dangerous beast. Fresh tracks, of some large, two-legged, three-toed creature, lead from the cave into some nearby trees. It seems it is not home at the moment.",

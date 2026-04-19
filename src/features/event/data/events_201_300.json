@@ -90,6 +90,7 @@
   {
     "tag": "e207",
     "title": "Ship on the Starboard Bow",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e137 immediately. If not, put a tick there now, and read on.",
       "The look-out cries, 'Ship on the starboard bow!' You spot a crippled merchant ship, limping towards Marlock City. It looks like a trading vessel from the Feathered Lands."
@@ -441,6 +442,7 @@
   {
     "tag": "e232",
     "title": "Damor the Hermit",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e151 immediately. If not, put a tick there now, and read on.",
       "The interior of the cave is cool and refreshing, a paradise compared with the savage heat of your gruelling climb. You find a man, floating cross-legged in the middle of the air! He is dressed only in a loincloth, and is painfully thin. His face is shrouded in a great luxuriant growth of glossy black hair, a beard like no other you have ever seen.",
@@ -453,6 +455,7 @@
   {
     "tag": "e233",
     "title": "The Grizzled Swordsman",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e412. If not, put a tick there now, and read on.",
       "You are on the cobbled road between Yellowport and Trefoille. It is well-kept by the Sokaran military.",
@@ -867,6 +870,7 @@
   {
     "tag": "e264",
     "title": "The Floating Reed Island",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e131. If not, put a tick there now, and read on.",
       "A large island made of reeds and plants, which grow out of a massive floating bed of kelp, drifts aimlessly across the waters. As you draw near, you see that a number of people have made their home there. The inhabitants hail you and invite you ashore.",

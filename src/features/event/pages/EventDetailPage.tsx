@@ -23,7 +23,7 @@ const EventDetailPage = () => {
   return (
     <>
       {event.desc && event.desc?.length >= 1 && (
-        <Card title={event.tag}>
+        <Card title={event.tag} ticks={event.ticks}>
           <div style={{ display: "flow-root" }}>
             {event.image && (
               <ParagraphImage tag={tag as string} title={event.title} />

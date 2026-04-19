@@ -4,6 +4,7 @@ export interface Event {
   tag: string;
   title: string;
   image?: boolean;
+  ticks?: number;
   desc?: string[];
   note?: string[];
   tables?: TableType[];

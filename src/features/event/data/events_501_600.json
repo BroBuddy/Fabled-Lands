@@ -41,6 +41,7 @@
   {
     "tag": "e504",
     "title": "A Wrecked Ship Spotted",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e345 immediately. If not, put a tick there now, and read on.",
       "The lookout spots a ship, its back broken on some rocks near the shore. The vessel will not last long before it is washed away."
@@ -606,6 +607,7 @@
   {
     "tag": "e542",
     "title": "Celebrated by Drunken Soldiers",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e620 immediately. If not, put a tick there now, and read on.",
       "'By Tyrnai! It's the one who killed that pretender to the throne, Nergan Corin!' says one of them. They line up and give you a drunken salute, and then fall to slapping you on the back, and offering to buy you beers all night.",

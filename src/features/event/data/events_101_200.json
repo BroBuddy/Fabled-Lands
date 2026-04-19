@@ -177,6 +177,7 @@
   {
     "tag": "e116",
     "title": "Repulsive Ones",
+    "ticks": 1,
     "desc": [
       "Put a tick in the box. If there is one there already, turn to e322 immediately. Otherwise read on. You realize the creature is one of the legendary repulsive ones.",
       "It is swimming past you, intent on its own business, so you follow it, in the hope it will lead you to the sunken city of Ziusudra.",
@@ -802,6 +803,7 @@
   {
     "tag": "e160",
     "title": "The Tomb of the Wizard King",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e461 immediately. If not, put a tick there now, and read on.",
       "You learned the password 'Rebirth' in the library of Dweomer. 'My aren't we the wise one,' carps the door sarcastically. 'Still, a job's a job, eh?' it mutters.",
@@ -931,6 +933,7 @@
   {
     "tag": "e169",
     "title": "Pirates and Sokarans",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e443 immediately. If not, put a tick there now, and read on.",
       "You see a couple of Sokaran warships pursuing two other ships. Your first mate says, 'See the Red Pennants on them thar ships? They be pirates, running from the Sokarans!'"
@@ -1001,6 +1004,7 @@
   {
     "tag": "e175",
     "title": "The Ghost Horses of Curstmoor",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e673 immediately. If not, put a tick there now, and read on.",
       "You are trekking across the aptly named Curstmoor. A great rolling expanse of blasted heath stretches before you. Grey clouds hang over a mournful, dirty-water coloured plain, studded with rocky outcrops and low hills. A raven flutters to the ground nearby, eyeing you curiously. His brothers caw loudly into the echoing sky.",
@@ -1284,6 +1288,7 @@
     "tag": "e199",
     "title": "The Storm Demon",
     "image": true,
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e634 immediately. If not, put a tick there now, and read on.",
       "A strange, vaguely humanoid shape, flickering with energy, soars down to attack you. You must fight.",

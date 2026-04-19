@@ -19,6 +19,7 @@
   {
     "tag": "e403",
     "title": "Amcha's Head Delivered",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e229 immediately. If not, put a tick there now and read on.",
       "You dump the head of Amcha One-Eye on the guildmaster's desk. He stares at it in horror for a moment and then a look of joy crosses his features. 'At last! We are rid of that scourge of commerce! Well done, well done indeed!'",
@@ -94,6 +95,7 @@
   {
     "tag": "e409",
     "title": "Becoming an Initiate of Nagil",
+    "ticks": 1,
     "desc": [
       "Becoming an initiate of Nagil gives you the benefit of paying less for services the temple can offer. You cannot do this if you are already an initiate of another temple. To become an initiate you have to pass a priestly exam.",
       "If you want to take the exam, make a SANCTITY roll at Difficulty 10 unless there is a tick in the above box, in which case it is at Difficulty 15.",
@@ -571,6 +573,7 @@
   {
     "tag": "e446",
     "title": "The Quest for the Ghoul",
+    "ticks": 1,
     "desc": [
       "If there is a tick in this box, turn to e226 immediately. If not, put a tick there now and read on.",
       "You set out that night, on your quest. Make a MAGIC roll at Difficulty 10."
@@ -704,6 +707,7 @@
   {
     "tag": "e454",
     "title": "Thrown in the Dungeons",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e188. If not, put a tick there now and read on.",
       "You are thrown into a stinking prison cell. Your cell-mate, a half-dead old man with long white hair tells you his tale: 'The lair of the gorlock! A hideous beast that has backward-pointing feet – Krine and I, fleeing with our stolen treasure sought refuge in the cave near Blessed Springs. The tracks led us to believe it had just left its cave, but we didn't know about its feet – in fact it was at home. It took Krine but I managed to escape with my life, only to be taken by the militia. I will never live to see the treasure but you, forewarned, may defeat the gorlock and take the riches it guards...'",
@@ -957,6 +961,7 @@
   {
     "tag": "e473",
     "title": "The Slave Market",
+    "ticks": 1,
     "desc": [
       "The slave market is a large, canvas-covered square. The poor unfortunate slaves, people from all over Harkuna – from the Feathered Lands, Golnir, criminals of Sokara, nomads from the steppes – are paraded in chains on a dais. Merchants and nobles bid for the slaves they want. If there is a tick in the above box, turn to e610 immediately. If not, read on.",
       "An unusual sale has come up – a little, furry, bat-winged humanoid. It is one of the Mannekyn People from Sky Mountain in the north and it is going for 50 💎.",
@@ -1228,6 +1233,7 @@
   {
     "tag": "e496",
     "title": "The Strange Craft",
+    "ticks": 1,
     "desc": [
       "If there is a tick in the box, turn to e317 immediately. If not, put a tick there now, and read on.",
       "You manoeuvre your ship as close as possible, and then take a rowboat over to the craft. Climbing inside, you find yourself in a small cabin which is lit by wining red and green lights set into the walls. A figure lies sprawled beside an ornate couch. The figure, although manlike, appears to have silver skin, and a great big round head, with one black, glittering eye that seems to fill its whole face. Whatever it is appears to be dead.",
