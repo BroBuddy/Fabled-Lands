@@ -132,6 +132,7 @@
   {
     "tag": "e210",
     "title": "Fighting the Storm Demons",
+    "image": true,
     "desc": [
       "They fall back for a moment, but your invocation fails to take hold, and they close in. You must fight them one at a time.",
       "If you win, turn to e054. If you lose, you are tossed off the peak and end up as a messy paste on the ground below. That's the end of you, unless you have a resurrection deal."
@@ -517,6 +518,7 @@
   {
     "tag": "e238",
     "title": "The Repulsive One",
+    "image": true,
     "desc": [
       "The vile-looking creature shoots towards you with a terrifying predatory speed. You have no choice but to fight it.",
       "You must subtract 2 from your dice rolls for this fight, as you are unused to underwater COMBAT. If you win turn to e053. If you lose, your adventuring days are over, unless you have a resurrection deal."
@@ -639,6 +641,7 @@
   {
     "tag": "e247",
     "title": "Ambushing the Ambusher",
+    "image": true,
     "desc": [
       "The sound was the click of a secret door sliding open in the wall of the caverns. With a swift motion, you step up beside it, back to the wall. A figure emerges but you are able to ambush the ambusher – a deft blow to the back of the head sends the dark figure crashing to the ground.",
       "Another steps forth, however, shouting in a guttural voice. You realize that the figures are ratmen – manlike creatures that stand on two legs, but which have the tail and hairy features of a gigantic rat.",
@@ -1271,6 +1274,7 @@
   {
     "tag": "e297",
     "title": "The Dragon Knight Tournament",
+    "image": true,
     "desc": [
       "Decide which armour and weapon you will use in the fight. They will be the ones you are betting with.",
       "Roll a die and check the table below. The result is the knight you must fight.",

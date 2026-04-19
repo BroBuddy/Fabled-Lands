@@ -184,6 +184,7 @@
   {
     "tag": "e014",
     "title": "Backstab ambush",
+    "image": true,
     "desc": [
       "Someone stabs you in the back. Lose 5 Stamina points.",
       "If you still live, you spin around just as a beefy, disreputable-looking thug comes at you again with a long dagger.",
@@ -318,6 +319,7 @@
   {
     "tag": "e021",
     "title": "Thug encounter",
+    "image": true,
     "desc": [
       "While making your way through the back streets of the poor quarter you are set upon a knife-wielding thug, who is intent of relieving you of your purse. If you don’t want to fight him, you can try a CHARISMA rollat a Difficulty of 8 to try to talk your way out of this unpleasant situation. If you succeed, the thug leaves, confused by yourrhetoric (turn to 10 and choose again.) Otherwise, you must fight him.",
       "If you defeat him, you find 15 💎 on his body. If you are defeated, you are stunned into unconsciousness. You come round with 1 Stamina point, and he has robbed you of 50 💎 (or of all your money if you have less than 50 💎).",
@@ -622,6 +624,7 @@
   {
     "tag": "e042",
     "title": "Ambush of ratmen",
+    "image": true,
     "desc": [
       "Two hulking shapes appear out of the shadows as if from nowhere. They are hideous creatures – manlike, standing on two legs, but with the tail and hairy features of a gigantic rat. Their yellowing teeth snap at you as they lunge for you; the ratmen also wield wicked-looking shortswords in their hands. ‘Gut the human!’ yells one of them in a bestial voice. You must fight them, both at once, as if they were one opponent. If you have some rat poison, you can add 3 to your dice rolls. Cross the rat poison off the Adventure Sheet if you use it.",
       "If you win, turn to e423. If you lose, turn to e308."
@@ -636,6 +639,7 @@
   {
     "tag": "e043",
     "title": "Tomb guardian",
+    "image": true,
     "desc": [
       "You must fight. Luckily, your MAGIC weapon will be effective.",
       "If you win, turn to e490. If you lose, you are dead, unless you have a resurrection deal."
@@ -787,6 +791,7 @@
   {
     "tag": "e055",
     "title": "Cannibal cult ambush",
+    "image": true,
     "desc": [
       "You remember that this is a trap set up by the cannibal cultists of Badogor. While one pretends to be hurt, two others skulk in the shadows, waiting to ambush the curious. Forewarned you are able to take them by surprise. You cut one down in seconds and the figure on the ground runs off with a shriek of terror. The third cultist, however, turns to fight you.",
       "If you win, you find a bag of pearls on his body. Turn to e010."
@@ -850,6 +855,7 @@
   {
     "tag": "e060",
     "title": "Wild country encounter",
+    "image": true,
     "desc": [
       "You are crossing the wild country of north-east Sokara. Roll one die."
     ],
@@ -1110,6 +1116,7 @@
   {
     "tag": "e081",
     "title": "Golem Fight",
+    "image": true,
     "desc": ["This could be a tough fight."],
     "tables": [
       {
@@ -1204,6 +1211,7 @@
   {
     "tag": "e087",
     "title": "Road to Blessed Springs",
+    "image": true,
     "desc": [
       "You are on the road between Blessed Springs and Venefax. Pilgrims, the sick and injured travel this route to the holy waters of Blessed Springs to find salvation. Roll a die. Score 1 or 2: Attacked by a mad pilgrim. You must fight. If you win, you get his staff. Score 3 or 4: Nothing happens. Score 5 or 6: Blessed by a priest. Write Safety from Storms in the Blessings box on your Adventure Sheet."
     ],
@@ -1317,6 +1325,7 @@
   {
     "tag": "e096",
     "title": "Militia Fight",
+    "image": true,
     "desc": [
       "One of the militiamen kicks over a table, blocking your escape. You set your back to a corner of the room and grimly prepare to fight for your life. Fight them one at a time:"
     ],

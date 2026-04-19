@@ -35,6 +35,7 @@
   {
     "tag": "e105",
     "title": "Scorpion Shaman",
+    "image": true,
     "desc": [
       "You will have to fight it. If you win, turn to e532.",
       "If you lose, your adventures are over unless you have a resurrection dead."
@@ -246,6 +247,7 @@
   {
     "tag": "e121",
     "title": "Underwater COMBAT at the Repulsive Ones",
+    "image": true,
     "desc": [
       "You wait outside, hoping to take the repulsive ones singly as they emerge. You will have to fight the three of them, but you may do so one at a time.",
       "Subtract 1 from your dice rolls for every fight because you are unused to underwater COMBAT.",
@@ -603,6 +605,7 @@
   {
     "tag": "e145",
     "title": "King Skabb Attacks",
+    "image": true,
     "desc": [
       "King Skabb gives a cry of anger and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 to your COMBAT if you have some rat poison to put on your weapon. If you use the poison, cross it off your Adventure Sheet.",
       "If you lose, your adventuring career will be over, unless you have a resurrection deal. If you win, turn to e554."
@@ -983,6 +986,7 @@
   {
     "tag": "e174",
     "title": "The Gorlock",
+    "image": true,
     "desc": [
       "You advance, weapon at the ready. As you draw closer, something rushes out of the cave with a shrieking cry. It is the gorlock, a beast with legs like a bird, a body like a reptile, with two short forelimbs and a beaked, lizard-like head. Its two legs do indeed have backward-pointing feet. You'll have to fight.",
       "If you win, turn to e315. If you lose, your bones will join the others at the entrance of the cave, unless you have a resurrection deal."
@@ -1214,6 +1218,7 @@
   {
     "tag": "e194",
     "title": "The Ker'ilk Attack",
+    "image": true,
     "desc": [
       "You know what the strange swellings on the dead bodies mean. They have been injected with the eggs of the ker'ilk, hideous lobster-like beings of the deep. Soon the eggs will hatch, and the young will feed on the bodies of the sailors. You also know that the adults never stray far from their eggs, and warn your men that the ker'ilk are nearby.",
       "Your warning is timely – several horrific-looking creatures, like giant lobsters, all spines and pincers, surge out of the waters. Your men, however, are ready. A battle ensues – you must fight one of the creatures.",
@@ -1278,6 +1283,7 @@
   {
     "tag": "e199",
     "title": "The Storm Demon",
+    "image": true,
     "desc": [
       "If there is a tick in the box, turn to e634 immediately. If not, put a tick there now, and read on.",
       "A strange, vaguely humanoid shape, flickering with energy, soars down to attack you. You must fight.",
