@@ -14,7 +14,7 @@
       "'The Violet Ocean's a dangerous place, Cap'n,' says the first mate. 'The crew probably won't follow you there if they don't think you're good enough!'",
       "If your Rank is 4 or more, turn to paragraph e077 in Over the Blood-Dark Sea.",
       "If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, turn back to e420.",
-      "If you insist on making the trip, you need to make a Charisma roll at Difficulty 12 to convince the crew to follow you."
+      "If you insist on making the trip, you need to make a CHARISMA roll at Difficulty 12 to convince the crew to follow you."
     ],
     "tables": [
       {
@@ -352,8 +352,8 @@
       "Otherwise, you have to wait several hours to be seen by one of the provost marshal's aides, a certain Captain Royzer.",
       "If you have the codeword Artery, Royzer sends you in to see Marloes Marlock immediately – turn to e456.",
       "Otherwise, you will have to convince the captain it is worth his while to let you see the provost marshal. If you are a Warrior, Rogue or Troubadour, Royzer will let you in for the modest bribe of 5 💎 – turn to e191.",
-      "If you are a Wayfarer, Priest or Mage, you will have to convince the captain of your loyalty to Sokara first. Make a Charisma roll at Difficulty 9. If you are successful, you can then bribe him – pay 5 💎 and turn to e191.",
-      "If you fail your Charisma roll or do not wish to pay the bribe, Captain Royzer dismisses you rudely. Turn to e010."
+      "If you are a Wayfarer, Priest or Mage, you will have to convince the captain of your loyalty to Sokara first. Make a CHARISMA roll at Difficulty 9. If you are successful, you can then bribe him – pay 5 💎 and turn to e191.",
+      "If you fail your CHARISMA roll or do not wish to pay the bribe, Captain Royzer dismisses you rudely. Turn to e010."
     ]
   },
   {

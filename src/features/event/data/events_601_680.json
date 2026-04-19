@@ -617,7 +617,7 @@
     "title": "Looting the Dragon's Hoard",
     "desc": [
       "You remain quiet as a mouse, behind a pile of coins. After a long wait, the sea dragon slithers into the water, and swims out on some errand.",
-      "You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with MAGIC. Note the MAGIC chest on your Adventure Sheet. You can also choose up to three treasures from the following: enchanted sword (COMBAT +3), plate armour (Defence +5), ebony wand (MAGIC +2), 500 💎, MAGIC mandolin (Charisma +2), gold compass (SCOUTING +2), MAGIC lockpicks (THIEVERY +2), silver holy symbol (SANCTITY +2).",
+      "You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with MAGIC. Note the MAGIC chest on your Adventure Sheet. You can also choose up to three treasures from the following: enchanted sword (COMBAT +3), plate armour (Defence +5), ebony wand (MAGIC +2), 500 💎, MAGIC mandolin (CHARISMA +2), gold compass (SCOUTING +2), MAGIC lockpicks (THIEVERY +2), silver holy symbol (SANCTITY +2).",
       "After you have taken the third treasure, you hear the sea dragon returning. Quickly you climb up through the hole in the roof on to an island in the middle of the lake. From there, you manage to get a lift on a passing boat, and make it safely to Cadmium village.",
       "During the journey, you examine the MAGIC chest, but it is guarded by great sorcery and is impossible to open.",
       "Delete the codeword Avenge and turn to e135."
@@ -798,7 +798,7 @@
     "desc": [
       "That night, after Lauria has picked the locks on your chains, you head off for the tunnel rendezvous. You find there has been a cave-in, but the overseer and a troop of guards are waiting for you!",
       "Lauria steps out laughing. In return for her betraying you, the overseer has transferred her to work on the surface, from which she will be able to escape more easily. You have been stitched up again!",
-      "The overseer has you whipped for trying to escape and you are left with some nasty scars. Lose 1 point of Charisma permanently.",
+      "The overseer has you whipped for trying to escape and you are left with some nasty scars. Lose 1 point of CHARISMA permanently.",
       "Gain the codeword Anger, and lose the codeword Ashen.",
       "A few days later, you try another escape on your own. Turn to e565."
     ]
@@ -817,7 +817,7 @@
       "'That is fortunate – for you,' says the soldier. Several archers stand up from their hiding places behind the rocks overhead.",
       "Another soldier, a captain, comes up to you and introduces himself as Captain Vorkung. He is clearly one of the old aristocracy, the nobles loyal to the king and the old regime, before General Marlock and the army seized power and executed the old king. Vorkung tells you to leave the mountains.",
       "You have found a rebel base – men still loyal to Nergan Corin, the heir to the throne. Nergan went into hiding when General Marlock killed his father and took control of Sokara.",
-      "You can attempt to convince Captain Vorkung that you are on his side by making a Charisma roll at Difficulty 9. You can add 1 to your roll if you are a Warrior, Rogue, or Wayfarer. If you succeed, turn to e025. If you fail, turn to e179. Otherwise, you can climb down the mountains, turn to e474."
+      "You can attempt to convince Captain Vorkung that you are on his side by making a CHARISMA roll at Difficulty 9. You can add 1 to your roll if you are a Warrior, Rogue, or Wayfarer. If you succeed, turn to e025. If you fail, turn to e179. Otherwise, you can climb down the mountains, turn to e474."
     ]
   },
   {
