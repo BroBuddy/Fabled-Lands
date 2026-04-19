@@ -129,7 +129,7 @@ function CombatPage() {
     <>
       <div className="flex flex-row">
         <Card title="Player">
-          <div className="flex flex-col gap-8 mx-8">
+          <div className="flex flex-col gap-8 mx-6">
             <div className="flex flex-row gap-8">
               ⚔️{" "}
               <input
@@ -173,7 +173,7 @@ function CombatPage() {
         </Card>
 
         <Card title="Enemy">
-          <div className="flex flex-col gap-8 mx-8">
+          <div className="flex flex-col gap-8 mx-6">
             <div className="flex flex-row gap-8">
               ⚔️
               <input

@@ -66,7 +66,7 @@ function CodewordsPage() {
         {CODEWORDS.map((word: string) => (
           <label
             key={word}
-            className="flex w-14 mr-2 mb-2 gap-3 pointer"
+            className="flex w-14 mr-2 mb-2 gap-3 pointer text-md"
             onClick={() => toggleCodeword(word)}
           >
             {checked[word] ? <CheckSquare /> : <Square />}
