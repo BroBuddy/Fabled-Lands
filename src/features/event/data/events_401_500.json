@@ -22,7 +22,7 @@
     "desc": [
       "If there is a tick in the box, turn to e229 immediately. If not, put a tick there now and read on.",
       "You dump the head of Amcha One-Eye on the guildmaster's desk. He stares at it in horror for a moment and then a look of joy crosses his features. 'At last! We are rid of that scourge of commerce! Well done, well done indeed!'",
-      "Cross Amcha's head off your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve – you gain one point for one ability of your choice (for example, +1 COMBAT).",
+      "Cross Amcha's head off your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve – you gain one point for one ability of your choice (for example, +1 ⚔️).",
       "When you are ready, you return to the city. 'Come back anytime,' yells the guildmaster as you go. Turn to e100."
     ]
   },
@@ -155,7 +155,7 @@
     "tag": "e414",
     "title": "Haylie Reunited",
     "desc": [
-      "Haylie runs into her mother's arms for a tearful reunion. Lynn, the mother, gives you a suit of chain mail (Defence +3) and a sword (an ordinary weapon).",
+      "Haylie runs into her mother's arms for a tearful reunion. Lynn, the mother, gives you a suit of chain mail (🛡️ +3) and a sword (an ordinary weapon).",
       "'These have been in the family for generations – it's all I have to give,' she says.",
       "Fourze is hauled off to the local magistrate for judgment – he will probably be sold into slavery.",
       "Gain the codeword Attar and turn to e427."
@@ -307,7 +307,7 @@
     "desc": [
       "If you have the codeword Attar, turn to e578 immediately. If not, read on.",
       "Venefax is a strange-looking village. It looks like a single gigantic building. All the houses are joined together to form a jumbled mass, and none of the houses have doors – the only way in is through holes in the rooftop. Ladders lead up to the roof, which in effect forms a network of streets that the inhabitants travel across to get to certain buildings.",
-      "'We had to build it that way, for defence,' says a passing farmer. 'You see, the scorpion men from the south cannot climb, so they can't get inside the town!'"
+      "'We had to build it that way, for 🛡️,' says a passing farmer. 'You see, the scorpion men from the south cannot climb, so they can't get inside the town!'"
     ],
     "tables": [
       {
@@ -416,7 +416,7 @@
     "tag": "e434",
     "title": "Your Town House in Yellowport",
     "desc": [
-      "You can leave possessions and money here to save having to carry them around with you. You can also rest here safely and recover any Stamina points you have lost. Record in the box anything you wish to leave.",
+      "You can leave possessions and money here to save having to carry them around with you. You can also rest here safely and recover any ❤️ points you have lost. Record in the box anything you wish to leave.",
       "Each time you return, roll two dice:"
     ],
     "tables": [
@@ -438,7 +438,7 @@
     "tag": "e435",
     "title": "Becoming an Initiate of Tyrnai",
     "desc": [
-      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a COMBAT score of at least 6. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
+      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a ⚔️ score of at least 6. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
       "If you choose to become an initiate (and meet the qualification) write Tyrnai in the God box on your Adventure Sheet.",
       "Turn to e526."
     ]

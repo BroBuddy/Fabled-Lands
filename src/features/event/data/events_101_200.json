@@ -5,7 +5,7 @@
     "desc": [
       "You yell the name of their god again and again. The cultists clap their hands over their ears, hopping about in horror. ‘Aargh!’ howls the leader. ‘Stop your blaspheming, you heathen devil!’ In their confusion, you make it to your equipment. Now you can fight your way out.",
       "Make a COMBAT roll of Difficulty 13. If you fail, turn to e204.",
-      "If you succeed, you manage to fight your way to freedom with the loss of 4 Stamina points and head back to town, turn to e010."
+      "If you succeed, you manage to fight your way to freedom with the loss of 4 ❤️ points and head back to town, turn to e010."
     ]
   },
   {
@@ -68,7 +68,7 @@
     "tag": "e107",
     "title": "Tyrnai’s Blessing",
     "desc": [
-      "If you are an initiate it costs only 10 💎 to purchase Tyrnai’s blessing. A non-initiate must pay 25 💎. Cross off the money and mark COMBAT in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can only have one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
+      "If you are an initiate it costs only 10 💎 to purchase Tyrnai’s blessing. A non-initiate must pay 25 💎. Cross off the money and mark ⚔️ in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can only have one ⚔️ blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
       "When you are finished, turn to e282."
     ]
   },
@@ -162,7 +162,7 @@
     "tag": "e114",
     "title": "Grateful Administrator",
     "desc": [
-      "You are known as the priest who outwitted the storm demons to save Sul Veneris. You are shown in to see the chief administrator, who welcomes you freely. He can heal you of all lost Stamina points and cure you of a disease or poison free of charge. He cannot, however, lift a curse. ‘Whenever you need help, come to me!’ he says.",
+      "You are known as the priest who outwitted the storm demons to save Sul Veneris. You are shown in to see the chief administrator, who welcomes you freely. He can heal you of all lost ❤️ points and cure you of a disease or poison free of charge. He cannot, however, lift a curse. ‘Whenever you need help, come to me!’ he says.",
       "When you are ready, turn to e100."
     ]
   },
@@ -607,7 +607,7 @@
     "title": "King Skabb Attacks",
     "image": true,
     "desc": [
-      "King Skabb gives a cry of anger and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 to your COMBAT if you have some rat poison to put on your weapon. If you use the poison, cross it off your Adventure Sheet.",
+      "King Skabb gives a cry of anger and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 to your ⚔️ if you have some rat poison to put on your weapon. If you use the poison, cross it off your Adventure Sheet.",
       "If you lose, your adventuring career will be over, unless you have a resurrection deal. If you win, turn to e554."
     ],
     "tables": [
@@ -692,15 +692,15 @@
       {
         "cols": ["Armour", "Buy", "Sell"],
         "rows": [
-          ["Leather (Defence +1)", "50 💎", "45 💎"],
-          ["Ring mail (Defence +2)", "–", "90 💎"]
+          ["Leather (🛡️ +1)", "50 💎", "45 💎"],
+          ["Ring mail (🛡️ +2)", "–", "90 💎"]
         ]
       },
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["Without COMBAT bonus", "50 💎", "40 💎"],
-          ["COMBAT bonus +1", "–", "200 💎"]
+          ["Without ⚔️ bonus", "50 💎", "40 💎"],
+          ["⚔️ bonus +1", "–", "200 💎"]
         ]
       },
       {
@@ -770,7 +770,7 @@
     "tag": "e157",
     "title": "Beaten and Robbed",
     "desc": [
-      "You try to prove your loyalty to the new regime, but they don't believe a word of it. They beat you into unconsciousness and leave you lying in the gutter. They rob you of all the money you had, but leave your possessions untouched. You come round with only 3 Stamina points.",
+      "You try to prove your loyalty to the new regime, but they don't believe a word of it. They beat you into unconsciousness and leave you lying in the gutter. They rob you of all the money you had, but leave your possessions untouched. You come round with only 3 ❤️ points.",
       "Turn to e010."
     ]
   },
@@ -778,7 +778,7 @@
     "tag": "e158",
     "title": "The Three Rings Tavern",
     "desc": [
-      "The Three Rings Tavern is a comfortable inn near the city centre. The tavern costs you 1 Shard a day. Each day you spend here, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score."
+      "The Three Rings Tavern is a comfortable inn near the city centre. The tavern costs you 1 Shard a day. Each day you spend here, you can recover 1 ❤️ point if injured, up to the limit of your normal unwounded ❤️ score."
     ],
     "tables": [
       {
@@ -1094,7 +1094,7 @@
     "title": "Ship Lost to the Sea",
     "desc": [
       "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off your Adventure Sheet. Your only thought now is to save yourself.",
-      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one dice roll and, if you can survive that, turn to e591."
+      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose ❤️ points equal to the score of one dice roll and, if you can survive that, turn to e591."
     ]
   },
   {
@@ -1109,7 +1109,7 @@
     "tag": "e184",
     "title": "The Blue Griffon Tavern",
     "desc": [
-      "The Blue Griffon Tavern is frequented by soldiers and mercenaries. The tavern costs you 1 Shard a day. Each day you spend here, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.",
+      "The Blue Griffon Tavern is frequented by soldiers and mercenaries. The tavern costs you 1 Shard a day. Each day you spend here, you can recover 1 ❤️ point if injured, up to the limit of your normal unwounded ❤️ score.",
       "If you have the codeword Axe or if you have a black dragon shield and want to find Yanryt the Son, turn to e451.",
       "If not, but you want to spend a further 3 💎 buying drinks all round at the bar and listen for rumours, turn to e341.",
       "Or you can return to the town centre – turn to e400."
@@ -1256,7 +1256,7 @@
     "tag": "e196",
     "title": "Ghoulbite Infection",
     "desc": [
-      "If you were wounded by the ghoul you have been infected with a disease (Ghoulbite). Note that, until you can find a cure, you must subtract one from your SANCTITY, COMBAT and CHARISMA abilities (no ability can drop below one). If you were already suffering from Ghoulbite, there are no further effects.",
+      "If you were wounded by the ghoul you have been infected with a disease (Ghoulbite). Note that, until you can find a cure, you must subtract one from your SANCTITY, ⚔️ and CHARISMA abilities (no ability can drop below one). If you were already suffering from Ghoulbite, there are no further effects.",
       "In any case, you hack off the hideous head and leave. Note you have a ghoul's head and turn to e100."
     ]
   },

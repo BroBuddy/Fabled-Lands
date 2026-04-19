@@ -95,7 +95,7 @@
     "title": "Crossing the Pentacle",
     "desc": [
       "As you move closer to the sarcophagus, your foot crosses the edge of the pentacle by a few millimetres – it is enough. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts from the stone coffin! The smoke hurtles towards you, like a miniature tornado.",
-      "You must fight the tomb guardian. If you have a weapon with a COMBAT bonus of +1 or greater, turn to e043. Otherwise, turn to e260."
+      "You must fight the tomb guardian. If you have a weapon with a ⚔️ bonus of +1 or greater, turn to e043. Otherwise, turn to e260."
     ]
   },
   {
@@ -151,7 +151,7 @@
     "tag": "e313",
     "title": "The Ordeal of the Silver Daggers",
     "desc": [
-      "You stand against the wall as the high priestess draws back her arm, and hurls a stream of daggers at you. Roll two dice. If the total is higher than your Defence, a dagger hits you and you lose 1–6 ❤️ (roll a die to see how many). If the two dice score less than or equal to your Defence, the daggers all miss.",
+      "You stand against the wall as the high priestess draws back her arm, and hurls a stream of daggers at you. Roll two dice. If the total is higher than your 🛡️, a dagger hits you and you lose 1–6 ❤️ (roll a die to see how many). If the two dice score less than or equal to your 🛡️, the daggers all miss.",
       "Either way, if you survive then you are free to leave. Delete Lacuna from the God box on your Adventure Sheet and turn to e400."
     ]
   },
@@ -225,7 +225,7 @@
     "desc": [
       "You give the willow staff to the Oak Druid of the City of Trees. Cross the willow staff off your Adventure Sheet.",
       "'Ah, thank you,' the druid intones, going on, 'a willow staff, eh? I see.'",
-      "As a reward, the druid lets you train with the City of Trees' best hunters and trackers. Gain 1 Rank, and roll one die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "As a reward, the druid lets you train with the City of Trees' best hunters and trackers. Gain 1 Rank, and roll one die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your 🛡️ by 1 as a result of your gain in Rank.",
       "When you are ready, you leave the City of Trees and return to the Trading Post. Turn to e195."
     ]
   },
@@ -301,7 +301,7 @@
     "title": "Ship Lost to the Deep",
     "desc": [
       "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off your Adventure Sheet. Your only thought now is to save yourself.",
-      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one die and, if you can survive that, turn to e173."
+      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose ❤️ points equal to the score of one die and, if you can survive that, turn to e173."
     ]
   },
   {
@@ -318,7 +318,7 @@
     "tag": "e327",
     "title": "Secret Cache in Yellowport",
     "desc": [
-      "You have already cleaned the ratmen out of the tunnels below the city but the old well will make a good cache for equipment and money that you don't want to carry with you. It has an advantage over a town house – there is no risk of burglary or fire. You may also rest here as long as you like, restoring any lost Stamina points.",
+      "You have already cleaned the ratmen out of the tunnels below the city but the old well will make a good cache for equipment and money that you don't want to carry with you. It has an advantage over a town house – there is no risk of burglary or fire. You may also rest here as long as you like, restoring any lost ❤️ points.",
       "Note 'Secret cache, Yellowport – The War-Torn Kingdom e327' on your Adventure Sheet so that you can come here whenever you are in Yellowport.",
       "To go back to the city above, turn to e010."
     ]
@@ -519,14 +519,14 @@
     "desc": [
       "The alchemist's shop is lined with potions, jars of exotic substances, herbs, and so on. Alembics and beakers bubble and boil, full of strangely-coloured liquids. The alchemist, a tall, gangly fellow with a beak of a nose, sells potions. You can buy as many as you can afford – each one costs 50 💎. (see table below)",
       "A potion can be used just before an ability roll or a fight to add 1 to the relevant ability for that one roll or fight only. Each potion can be used only once.",
-      "The alchemist can make you a special potion for 250 💎, but he needs an ink sac. If you pay the money, and have an ink sac (cross it off your Adventure Sheet) he will make you a potion of restoration. It can be used only once to heal all lost Stamina points, cure poison and disease.",
+      "The alchemist can make you a special potion for 250 💎, but he needs an ink sac. If you pay the money, and have an ink sac (cross it off your Adventure Sheet) he will make you a potion of restoration. It can be used only once to heal all lost ❤️ points, cure poison and disease.",
       "Turn to e510."
     ],
     "tables": [
       {
         "cols": ["Potion", "Effect", "Cost"],
         "rows": [
-          ["Potion of strength", "COMBAT +1", "50 💎"],
+          ["Potion of strength", "⚔️ +1", "50 💎"],
           ["Potion of comeliness", "CHARISMA +1", "50 💎"],
           ["Potion of intellect", "MAGIC +1", "50 💎"],
           ["Potion of godliness", "SANCTITY +1", "50 💎"],
@@ -534,7 +534,7 @@
           ["Potion of nature", "SCOUTING +1", "50 💎"],
           [
             "Potion of restoration (needs ink sac)",
-            "Heals all Stamina, cures poison and disease",
+            "Heals all ❤️, cures poison and disease",
             "250 💎"
           ]
         ]
@@ -572,7 +572,7 @@
     "title": "Ship Lost to the Deep",
     "desc": [
       "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off your Adventure Sheet. Your only thought now is to save yourself.",
-      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one die roll and, if you can survive that, turn to e453."
+      "Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose ❤️ points equal to the score of one die roll and, if you can survive that, turn to e453."
     ]
   },
   {
@@ -631,7 +631,7 @@
     "tag": "e350",
     "title": "Resurrected at the Temple of Nagil",
     "desc": [
-      "You are restored to life at the Temple of Nagil in Marlock City. Your Stamina is back to normal score. The possessions and cash you were carrying at the time of your death are lost – cross them off your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.",
+      "You are restored to life at the Temple of Nagil in Marlock City. Your ❤️ is back to normal score. The possessions and cash you were carrying at the time of your death are lost – cross them off your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.",
       "'Nagil has taken you from the barge of souls that sails to the lands of the dead, and returned you to us,' declares the high priest.",
       "You leave the temple. Turn to e100."
     ]
@@ -754,15 +754,15 @@
       {
         "cols": ["Armour", "Buy", "Sell"],
         "rows": [
-          ["Leather (Defence +1)", "50 💎", "45 💎"],
-          ["Ring mail (Defence +2)", "–", "90 💎"]
+          ["Leather (🛡️ +1)", "50 💎", "45 💎"],
+          ["Ring mail (🛡️ +2)", "–", "90 💎"]
         ]
       },
       {
         "cols": ["Weapons", " Buy", "Sell"],
         "rows": [
-          ["No COMBAT bonus", "50 💎", "40 💎"],
-          ["COMBAT bonus +1", "250 💎", "200 💎"]
+          ["No ⚔️ bonus", "50 💎", "40 💎"],
+          ["⚔️ bonus +1", "250 💎", "200 💎"]
         ]
       },
       {
@@ -928,7 +928,7 @@
     "tag": "e370",
     "title": "Defeated in the Tournament",
     "desc": [
-      "You come round, back to your Stamina score before the fight started. You lose the weapon and armour you were using – cross them off your Adventure Sheet. The Dragon Knights compliment you on your bravery.",
+      "You come round, back to your ❤️ score before the fight started. You lose the weapon and armour you were using – cross them off your Adventure Sheet. The Dragon Knights compliment you on your bravery.",
       "'Until the next time!' says your recent opponent.",
       "You take your leave, somewhat bruised. Turn to e276."
     ]
@@ -963,8 +963,8 @@
     "tag": "e373",
     "title": "The Blessing of Tyrnai",
     "desc": [
-      "If you are an initiate it costs only 10 💎 to purchase Tyrnai's blessing. A non-initiate must pay 25 💎. Cross off the money and mark COMBAT in the Blessings box on your Adventure Sheet.",
-      "The blessing works by allowing you to try again when you make a failed COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
+      "If you are an initiate it costs only 10 💎 to purchase Tyrnai's blessing. A non-initiate must pay 25 💎. Cross off the money and mark ⚔️ in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to try again when you make a failed ⚔️ roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one ⚔️ blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.",
       "When you are finished, turn to e526."
     ]
   },
@@ -1038,7 +1038,7 @@
     "title": "Rewarded by the Temple of Sig",
     "desc": [
       "'By the Larcenous One!' exclaims the high priest joyfully. 'You are indeed an accomplished rogue.'",
-      "Erase the golden chain mail of Tyrnai from your Adventure Sheet. The high priest teaches you secret knowledge of Sig, the God of Deception. You get a 300 💎 reward and you go up 1 Rank. Roll one die – the result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "Erase the golden chain mail of Tyrnai from your Adventure Sheet. The high priest teaches you secret knowledge of Sig, the God of Deception. You get a 300 💎 reward and you go up 1 Rank. Roll one die – the result is the number of ❤️ points you gain permanently. Also, don't forget to increase your 🛡️ by 1 as a result of your gain in Rank.",
       "If you are under Tyrnai's curse, turn to e564. Otherwise, turn to e100."
     ]
   },
@@ -1238,21 +1238,21 @@
       {
         "cols": ["Armour", "Buy", "Sell"],
         "rows": [
-          ["Leather (Defence +1)", "70 💎", "25 💎"],
-          ["Ring mail (Defence +2)", "120 💎", "70 💎"],
-          ["Chain mail (Defence +3)", "220 💎", "160 💎"],
-          ["Splint armour (Defence +4)", "420 💎", "340 💎"],
-          ["Plate armour (Defence +5)", "–", "700 💎"],
-          ["Heavy plate (Defence +6)", "–", "1420 💎"]
+          ["Leather (🛡️ +1)", "70 💎", "25 💎"],
+          ["Ring mail (🛡️ +2)", "120 💎", "70 💎"],
+          ["Chain mail (🛡️ +3)", "220 💎", "160 💎"],
+          ["Splint armour (🛡️ +4)", "420 💎", "340 💎"],
+          ["Plate armour (🛡️ +5)", "–", "700 💎"],
+          ["Heavy plate (🛡️ +6)", "–", "1420 💎"]
         ]
       },
       {
         "cols": ["Weapons", "Buy", "Sell"],
         "rows": [
-          ["No COMBAT bonus", "70 💎", "20 💎"],
-          ["COMBAT bonus +1", "270 💎", "180 💎"],
-          ["COMBAT bonus +2", "–", "380 💎"],
-          ["COMBAT bonus +3", "–", "780 💎"]
+          ["No ⚔️ bonus", "70 💎", "20 💎"],
+          ["⚔️ bonus +1", "270 💎", "180 💎"],
+          ["⚔️ bonus +2", "–", "380 💎"],
+          ["⚔️ bonus +3", "–", "780 💎"]
         ]
       },
       {
