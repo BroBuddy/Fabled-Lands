@@ -57,8 +57,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e609", "Successful MAGIC roll"],
-          ["e528", "Failed MAGIC roll"]
+          ["e609", "✅ MAGIC successful"],
+          ["e528", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -143,8 +143,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e050", "Successful CHARISMA roll"],
-          ["e507", "Failed CHARISMA roll"]
+          ["e050", "✅ CHARISMA successful"],
+          ["e507", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -336,8 +336,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e419", "Successful SCOUTING roll"],
-          ["e360", "Failed SCOUTING roll"]
+          ["e419", "✅ SCOUTING successful"],
+          ["e360", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -497,13 +497,13 @@
   {
     "tag": "e340",
     "title": "Climbing to Devil's Peak",
-    "desc": ["Make a SCOUTING or THIEVERY roll at Difficulty 10."],
+    "desc": ["Make a SCOUTING/THIEVERY roll at Difficulty 10."],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e239", "Successful SCOUTING or THIEVERY roll"],
-          ["e034", "Failed SCOUTING or THIEVERY roll"]
+          ["e239", "✅ SCOUTING/THIEVERY successful"],
+          ["e034", "❌ SCOUTING/THIEVERY failed"]
         ]
       }
     ]
@@ -832,8 +832,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e016", "Successful THIEVERY roll"],
-          ["e274", "Failed THIEVERY roll"]
+          ["e016", "✅ THIEVERY successful"],
+          ["e274", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -859,8 +859,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e066", "Successful CHARISMA roll"],
-          ["e085", "Failed CHARISMA roll"]
+          ["e066", "✅ CHARISMA successful"],
+          ["e085", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -887,8 +887,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e066", "Successful CHARISMA roll"],
-          ["e439", "Failed CHARISMA roll"]
+          ["e066", "✅ CHARISMA successful"],
+          ["e439", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -1076,8 +1076,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e585", "Successful SCOUTING roll"],
-          ["e263", "Failed SCOUTING roll"]
+          ["e585", "✅ SCOUTING successful"],
+          ["e263", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -1098,14 +1098,14 @@
       "The king is taken totally by surprise, and you cut him down. He falls dead at your feet. 'Long live General Marlock,' you mutter under your breath.",
       "You take the king's royal ring as proof of your act. Note it on your Adventure Sheet and get the codeword Ark.",
       "Although you manage to talk your way out of the stockade, the body is discovered as you are heading down the mountain path. Vengeful soldiers set off in pursuit.",
-      "Make a SCOUTING or a THIEVERY roll (your choice) at Difficulty 9."
+      "Make a SCOUTING/THIEVERY roll (your choice) at Difficulty 9."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e167", "Successful SCOUTING or THIEVERY roll"],
-          ["e230", "Failed SCOUTING or THIEVERY roll"]
+          ["e167", "✅ SCOUTING/THIEVERY successful"],
+          ["e230", "❌ SCOUTING/THIEVERY failed"]
         ]
       }
     ]
@@ -1300,14 +1300,14 @@
     "desc": [
       "If there is a tick in the box, turn to e225 immediately. If not, put a tick there now, and read on.",
       "You make your way up the hill. After a while, you spot a cave set into the hillside, a little further up. Judging by the human bones dumped near the entrance, this is the lair of a dangerous beast. Fresh tracks, of some large, two-legged, three-toed creature, lead from the cave into some nearby trees. It seems it is not home at the moment.",
-      "If you have the codeword Apache, turn to e463 immediately. If not, make a MAGIC or SCOUTING roll (your choice) at Difficulty 11."
+      "If you have the codeword Apache, turn to e463 immediately. If not, make a SCOUTING/MAGIC roll (your choice) at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e577", "Successful SCOUTING or MAGIC roll"],
-          ["e486", "Failed SCOUTING or MAGIC roll"]
+          ["e577", "✅ SCOUTING/MAGIC successful"],
+          ["e486", "❌ SCOUTING/ MAGIC failed"]
         ]
       }
     ]

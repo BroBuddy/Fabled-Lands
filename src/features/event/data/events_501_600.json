@@ -20,8 +20,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e077", "Successful Charisma roll"],
-          ["e420", "Failed Charisma roll"]
+          ["e077", "✅ CHARISMA successful"],
+          ["e420", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -123,8 +123,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e625", "Successful SANCTITY roll"],
-          ["e279", "Failed SANCTITY roll"]
+          ["e625", "✅ SANCTITY successful"],
+          ["e279", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -163,8 +163,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e419", "Successful SCOUTING roll"],
-          ["e360", "Failed SCOUTING roll"]
+          ["e419", "✅ SCOUTING successful"],
+          ["e360", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -212,8 +212,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e205", "Successful MAGIC roll"],
-          ["e314", "Failed MAGIC roll"]
+          ["e205", "✅ MAGIC successful"],
+          ["e314", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -422,8 +422,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e445", "Successful THIEVERY roll"],
-          ["e284", "Failed THIEVERY roll"]
+          ["e445", "✅ THIEVERY successful"],
+          ["e284", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -512,8 +512,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e562", "Successful SCOUTING roll"],
-          ["e438", "Failed SCOUTING roll"]
+          ["e562", "✅ SCOUTING successful"],
+          ["e438", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -540,14 +540,14 @@
     "title": "Refusing to Pay Taxes",
     "desc": [
       "'Refusing to pay your taxes, eh!' says their leader. 'That's a crime for sure!'",
-      "They close in around you. You'll have to think fast. Make a Charisma roll at Difficulty 11."
+      "They close in around you. You'll have to think fast. Make a CHARISMA roll at Difficulty 11."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e018", "Successful Charisma roll"],
-          ["e157", "Failed Charisma roll"]
+          ["e018", "✅ CHARISMA successful"],
+          ["e157", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -564,8 +564,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e509", "Successful THIEVERY roll"],
-          ["e228", "Failed THIEVERY roll"]
+          ["e509", "✅ THIEVERY successful"],
+          ["e228", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -598,8 +598,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e326", "Successful SCOUTING roll"],
-          ["e245", "Failed SCOUTING roll"]
+          ["e326", "✅ SCOUTING successful"],
+          ["e245", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -782,10 +782,10 @@
     ],
     "tables": [
       {
-        "cols": ["Ref", "Option"],
+        "cols": ["Ref", "Result"],
         "rows": [
-          ["e006", "Successful roll"],
-          ["e064", "Failed roll"],
+          ["e006", "✅ successful"],
+          ["e064", "❌ failed"],
           ["e010", "Leave the chest and return to the surface"]
         ]
       }
@@ -936,8 +936,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e374", "Successful MAGIC roll"],
-          ["e643", "Failed MAGIC roll"]
+          ["e374", "✅ MAGIC successful"],
+          ["e643", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -968,8 +968,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e654", "Successful THIEVERY roll"],
-          ["e376", "Failed THIEVERY roll"]
+          ["e654", "✅ THIEVERY successful"],
+          ["e376", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -1302,8 +1302,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e231", "Successful MAGIC roll"],
-          ["e357", "Failed MAGIC roll"]
+          ["e231", "✅ MAGIC successful"],
+          ["e357", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -1324,8 +1324,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e638", "Successful MAGIC roll"],
-          ["e111", "Failed MAGIC roll"]
+          ["e638", "✅ MAGIC successful"],
+          ["e111", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -1355,8 +1355,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e608", "Successful THIEVERY roll"],
-          ["e475", "Failed THIEVERY roll"]
+          ["e608", "✅ THIEVERY successful"],
+          ["e475", "❌ THIEVERY failed"]
         ]
       }
     ]

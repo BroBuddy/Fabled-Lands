@@ -159,8 +159,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e058", "Successful THIEVERY roll"],
-          ["e304", "Failed THIEVERY roll"]
+          ["e058", "✅ THIEVERY successful"],
+          ["e304", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -269,8 +269,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e356", "Successful SANCTITY roll"],
-          ["e646", "Failed SANCTITY roll"]
+          ["e356", "✅ SANCTITY successful"],
+          ["e646", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -400,8 +400,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e625", "Successful SANCTITY roll"],
-          ["e279", "Failed SANCTITY roll"]
+          ["e625", "✅ SANCTITY successful"],
+          ["e279", "❌ SANCTITY failed"]
         ]
       }
     ]
@@ -512,8 +512,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e391", "Successful CHARISMA roll"],
-          ["e410", "Failed CHARISMA roll"]
+          ["e391", "✅ CHARISMA successful"],
+          ["e410", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -680,8 +680,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e050", "Successful CHARISMA roll"],
-          ["e209", "Failed CHARISMA roll"]
+          ["e050", "✅ CHARISMA successful"],
+          ["e209", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -751,8 +751,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e012", "Successful CHARISMA roll"],
-          ["e281", "Failed CHARISMA roll"]
+          ["e012", "✅ CHARISMA successful"],
+          ["e281", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -791,8 +791,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e630", "Successful SCOUTING roll"],
-          ["e036", "Failed SCOUTING roll"]
+          ["e630", "✅ SCOUTING successful"],
+          ["e036", "❌ SCOUTING failed"]
         ]
       }
     ]
@@ -905,8 +905,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e076", "Successful COMBAT roll"],
-          ["e498", "Failed COMBAT roll"]
+          ["e076", "✅ COMBAT successful"],
+          ["e498", "❌ COMBAT failed"]
         ]
       }
     ]
@@ -957,8 +957,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e059", "Successful THIEVERY roll"],
-          ["e243", "Failed THIEVERY roll"]
+          ["e059", "✅ THIEVERY successful"],
+          ["e243", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -1269,8 +1269,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e494", "Successful MAGIC roll"],
-          ["e352", "Failed MAGIC roll"]
+          ["e494", "✅ MAGIC successful"],
+          ["e352", "❌ MAGIC failed"]
         ]
       }
     ]

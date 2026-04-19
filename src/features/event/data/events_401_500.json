@@ -70,8 +70,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e449", "Successful THIEVERY roll"],
-          ["e139", "Failed THIEVERY roll"]
+          ["e449", "✅ THIEVERY successful"],
+          ["e139", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -208,8 +208,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e553", "Successful CHARISMA roll"],
-          ["e045", "Failed CHARISMA roll"]
+          ["e553", "✅ CHARISMA successful"],
+          ["e045", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -506,8 +506,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e022", "Successful THIEVERY roll"],
-          ["e168", "Failed THIEVERY roll"]
+          ["e022", "✅ THIEVERY successful"],
+          ["e168", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -582,8 +582,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e511", "Successful MAGIC roll"],
-          ["e328", "Failed MAGIC roll"]
+          ["e511", "✅ MAGIC successful"],
+          ["e328", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -618,8 +618,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e503", "Successful MAGIC roll"],
-          ["e105", "Failed MAGIC roll"]
+          ["e503", "✅ MAGIC successful"],
+          ["e105", "❌ MAGIC failed"]
         ]
       }
     ]
@@ -681,7 +681,7 @@
       {
         "cols": ["Other Items", "Buy", "Sell"],
         "rows": [
-          ["Mandolin (Charisma +1)", "300 💎", "270 💎"],
+          ["Mandolin (CHARISMA +1)", "300 💎", "270 💎"],
           ["Lockpicks (THIEVERY +1)", "–", "270 💎"],
           ["Holy symbol (SANCTITY +1)", "–", "100 💎"],
           ["Compass (SCOUTING +1)", "500 💎", "450 💎"],
@@ -853,14 +853,14 @@
     "title": "The Ker'ilk Attack",
     "desc": [
       "Several hideous creatures, which resemble giant lobsters, surge out of the water to attack you! You and your crew are taken by surprise, and things look bleak – some of your men are quickly killed, their bodies torn in two by powerful mandibles. The others begin to panic.",
-      "Make a Charisma roll at Difficulty 10."
+      "Make a CHARISMA roll at Difficulty 10."
     ],
     "tables": [
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e389", "Successful Charisma roll"],
-          ["e214", "Failed Charisma roll"]
+          ["e389", "✅ CHARISMA successful"],
+          ["e214", "❌ CHARISMA failed"]
         ]
       }
     ]
@@ -903,8 +903,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e393", "Successful THIEVERY roll"],
-          ["e014", "Failed THIEVERY roll"]
+          ["e393", "✅ THIEVERY successful"],
+          ["e014", "❌ THIEVERY failed"]
         ]
       }
     ]
@@ -1058,7 +1058,7 @@
     "title": "Damor's Teaching",
     "desc": [
       "'Well, tell you what – I'll teach you a few tricks, and then you can go away. What do you say?'",
-      "You've got nothing to lose so you accept. Damor was once a Troubadour, and he instructs you in its arts. Gain 1 Charisma point permanently. Afterwards, for a few hours, he lifts the curse that soured your water so you can make it down the mountain path safely.",
+      "You've got nothing to lose so you accept. Damor was once a Troubadour, and he instructs you in its arts. Gain 1 CHARISMA point permanently. Afterwards, for a few hours, he lifts the curse that soured your water so you can make it down the mountain path safely.",
       "Turn to e244."
     ]
   },
@@ -1136,8 +1136,8 @@
       {
         "cols": ["Ref", "Result"],
         "rows": [
-          ["e348", "Successful SCOUTING roll"],
-          ["e189", "Failed SCOUTING roll"]
+          ["e348", "✅ SCOUTING successful"],
+          ["e189", "❌ SCOUTING failed"]
         ]
       }
     ]
