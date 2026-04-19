@@ -1,0 +1,1055 @@
+[
+  {
+    "tag": "e601",
+    "title": "The Palace of Protector General Grieve Marlock",
+    "desc": [
+      "The palace, the home of Protector General Grieve Marlock, is an imposing building of astonishing luxury. You get as far as a huge reception area, manned by many guards and staffed by government officials.",
+      "If you have the title Protector of Sokara, turn to e669. If not, you are thrown out. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e602",
+    "title": "Road Between the Shadar Tor and Trefoille",
+    "desc": [
+      "You are travelling the road between the Shadar Tor and Trefoille. You pass a convoy of masons, carpenters and builders heading for Trefoille with an escort of Sokaran soldiers."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e250", "Go to Trefoille"],
+          ["e035", "Head for the Shadar Tor"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e603",
+    "title": "The Blessing of the Three Fortunes",
+    "desc": [
+      "If you are an initiate it costs only 20 💎 to purchase the Three Fortunes' blessing. A non-initiate must pay 80 💎. Cross off the money and mark Luck in the Blessings box on your Adventure Sheet.",
+      "The blessing works by allowing you to reroll any dice result once. When you use the blessing, cross it off your Adventure Sheet. You can have only one Luck blessing at any one time. Once it is used up, you can return to any branch of the temple of the Three Fortunes to buy a new one.",
+      "When you are finished here, turn to e086."
+    ]
+  },
+  {
+    "tag": "e604",
+    "title": "Sparing the Sea Centaur",
+    "desc": [
+      "The men mutter among themselves at your decision, but you insist. The sea centaur lies barely able to move on the deck. Nor does it speak.",
+      "That night, you see a strange glow rising up out of the depths. The sailors back away, muttering superstitiously, as several sea centaurs emerge from the waters, their spiny skins glittering with phosphorescent flashes of light.",
+      "One of the sea centaurs asks in a burbling voice, 'Where is our brother, whom you caught in your cruel nets, this day?' 'Why, here he is,' you say, indicating the half-conscious sea centaur on deck. 'Return him to us, we beg you,' one of them warbles. Your men, anxious to be rid of the creature, hand him down to his friends.",
+      "'We thank you, landwalkers,' says the leader. He gives you a conch of safety from storms x 3. When you blow it, it confers the blessing of Safety from Storms. It can be used three times only (each time you use it reduce the number of charges by one). When it is out of charges, it has become useless – cross it off your Adventure Sheet.",
+      "Turn to e507."
+    ]
+  },
+  {
+    "tag": "e605",
+    "title": "The Merchants' Guild Bank",
+    "desc": [
+      "You can bank money with the merchants' guild simply by writing the sum you wish to deposit in the box here. (Remember to cross it off your Adventure Sheet.) If you have banked any money with the guild in another book in the Fabled Lands series, add it now to this box and erase it from the other book.",
+      "To withdraw money from your account, simply transfer it from the box to your Adventure Sheet. The guild charges 10% on any withdrawals. (So if you withdrew 50 💎, for example, the guild would deduct 5 💎 as its cut. Round fractions in the guild's favour.)"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Location"],
+        "rows": [
+          ["e010", "In Yellowport"],
+          ["e100", "In Marlock City"],
+          ["e400", "In Caran Baru"],
+          ["e501", "If paying a ransom"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e606",
+    "title": "The Book of Excellence",
+    "desc": [
+      "You thread your way carefully through the maze of magical symbols, until you reach the sarcophagus safely. Inside you find the mouldering bones of a long dead wizard, in whose skeletal hands you find the Book of Excellence.",
+      "As you scan the pages, you learn all sorts of new tricks – add one to the ability of your choice (such as Scouting or Combat) permanently. Once you have read it, the book disappears with a flash.",
+      "You thread your way out of the Tomb of the Wizard King, back into the Forest of Larun. Turn to e047."
+    ]
+  },
+  {
+    "tag": "e607",
+    "title": "Ship Lost to the Storm",
+    "desc": [
+      "Your ship, crew and cargo are lost to the deep, dark sea. Cross them off the Ship's Manifest.",
+      "Your only thought now is to save yourself. Roll two dice. If the score is greater than your Rank, you are drowned – turn to e680. If the score is less than or equal to your Rank, you manage to find some driftwood and make it back to shore. Lose Stamina points equal to the score of one die roll and, if you can survive that, turn to e447."
+    ]
+  },
+  {
+    "tag": "e608",
+    "title": "Assassinating King Skabb",
+    "desc": [
+      "You inch your way slowly around the edge of the old temple. Suddenly, you burst out of the shadows and cut the king down, catching the ratmen by surprise.",
+      "At the sight of you standing over their dead king, the four remaining ratmen flee in terror. Without their king, they have no spirit for a fight.",
+      "Turn to e554."
+    ]
+  },
+  {
+    "tag": "e609",
+    "title": "Identifying the Golems' Weakness",
+    "desc": [
+      "You recognize the two iron statues of bull-men that guard the temple. They are golems, creatures created by powerful sorcery. They will animate and attempt to kill any intruders that steal into the temple. Golems are almost impossible to defeat in combat, but they have one weakness – a ceramic plug, about the size of an apple, set into the backs of their heads. If the plug can be pulled out, the enchanted liquid that energizes the golem will pour out, and the creature will die.",
+      "That night, you resolve to try to get on to the roof of the temple, hang down from the gables above the entrance, and pull the plugs on the golems, before going for the chain mail.",
+      "Turn to e441."
+    ]
+  },
+  {
+    "tag": "e610",
+    "title": "The Special Night Sale",
+    "desc": [
+      "If there is a tick in the box, you find nothing of interest at the market – turn back to e400 immediately. Otherwise, put a tick in the box and read on.",
+      "At nightfall, the market is kept open for a special sale. A cage with a steel floor is wheeled out. Inside is a dark, manlike shape. It seems to radiate shadows, for you can barely make it out.",
+      "The slaver says, 'A trau, ladies and gentlemen. Excellent miners, though they have to be chained with cold iron at all times.'",
+      "The price is 100 💎. To buy the trau, cross off the money and turn to e545. Otherwise, you leave the market, turn to e400."
+    ]
+  },
+  {
+    "tag": "e611",
+    "title": "The Castle of the Dragon Knights",
+    "desc": [
+      "If you have the codeword Anvil, turn to e130 immediately. If not, read on.",
+      "As you draw nearer, you see that the pennants all represent different coloured dragons – the red dragon, black dragon, green dragon and so on. Outside the gates, a jousting list has been set up, and a few warriors are trying their hand against some knights who have dragon symbols on their shields.",
+      "A knight, in full plate armour, rides up and says, 'Welcome to the Castle of the Dragon Knights. It is our custom to joust against all who would come here – for a wager, of course.'",
+      "He explains that you must bet the weapon and the suit of armour that you will use for the joust. If you lose, you forfeit the weapon and armour. If you win, you get the armour and weapon of the knight you defeat. Most of your potential opponents, you note, would be using a sword and plate armour.",
+      "If you have the codeword Axe, turn to e521 immediately. Otherwise, you can leave – turn to e276, or take the wager and joust – turn to e297. You must have a weapon and at least leather armour."
+    ]
+  },
+  {
+    "tag": "e612",
+    "title": "The Boar's Tusk Delivered",
+    "desc": [
+      "If there is a tick in the box, turn to e549 immediately. If not, put a tick there now, and read on.",
+      "The priestess, who is wearing the skin of a wolf and is covered in red paint, welcomes you gleefully. 'At last, the tusk of a were-boar! Now the ceremony can go ahead.'",
+      "Cross the boar's tusk off your Adventure Sheet. The priestess rewards you with knowledge. Add 1 to your Scouting rating permanently.",
+      "Turn to e195."
+    ]
+  },
+  {
+    "tag": "e613",
+    "title": "Storm off the Coast",
+    "desc": [
+      "Heavy black clouds race towards you across the sky, whipping the waves into a frenzy. The crew mutter amongst themselves fearfully. If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm. Cross off your blessing and turn to e439.",
+      "Otherwise the storm hits with full fury. Roll one die if your ship is a barque, two dice if it is a brigantine, or three dice if a galleon. Add 1 to the roll if you have a good crew; add 2 if the crew is excellent."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e485", "1–3", "Ship sinks"],
+          ["e070", "4–5", "The mast splits"],
+          ["e439", "6–20", "You weather the storm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e614",
+    "title": "High Therys After the Reckoning",
+    "desc": [
+      "The Stinking River has cut its way through the high ground here. On the edge of the chasm that overlooks the river lies the village of High Therys. Just outside of town, three bodies hang on a gallows, slowly rotting. Inside, the villagers are having a fete. They welcome you. You can get some rest and recuperation here – restore up to 5 lost ❤️."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e576", "Follow the river north"],
+          ["e082", "Follow the river south"],
+          ["e278", "Head east into the countryside"],
+          ["e558", "Go west to the main road"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e615",
+    "title": "The Temple of Lacuna in Caran Baru",
+    "desc": [
+      "Lacuna is the Goddess of the Moon, and of the Wilderness. She aids hunters, and woodsmen, and travellers in the lost places of the world. Her temple here is a long hall of oak, covered in vines and plants of all kinds. Inside, flowers fill the air with a pure and clean scent."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e170", "Become an initiate"],
+          ["e253", "Renounce worship"],
+          ["e482", "Seek a blessing"],
+          ["e400", "Leave the temple"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e616",
+    "title": "Swimming Back to the Ship",
+    "desc": [
+      "You swim up to your ship, and haul yourself on board. The crew is astonished to see you. 'Another one of the sea devils,' says the first mate. 'We don't want any more bad luck,' says a crew member. 'Aye, we'll have to kill this one as well,' says the first mate.",
+      "You try to protest, but your words come out as a bubbling, fishy warble. The first mate finishes you with his spear. Your adventuring days are over unless you have a resurrection deal. If you do have a deal, when you come back to life, note that you have lost your ship and crew – as far as they are concerned, you never came back from the depths."
+    ]
+  },
+  {
+    "tag": "e617",
+    "title": "Fighting the Ghoul",
+    "desc": [
+      "A desperate battle ensues.",
+      "If you win, turn to e196. If you lose, your adventures are over, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Ghoul", "3", "7", "15"]]
+      }
+    ]
+  },
+  {
+    "tag": "e618",
+    "title": "Becoming an Initiate of Lacuna",
+    "desc": [
+      "Becoming an initiate of Lacuna gives you the benefit of paying less for blessings and other services the temple can offer. It costs 30 💎 to become an initiate. You cannot do this if you are already an initiate of another temple.",
+      "If you choose to become an initiate, write Lacuna in the God box on your Adventure Sheet and remember to cross off the 30 💎.",
+      "Once you have finished here, turn to e544."
+    ]
+  },
+  {
+    "tag": "e619",
+    "title": "A Blazing House",
+    "desc": [
+      "If there is a tick in the box, turn to e339 immediately. If not, put a tick there now, and read on.",
+      "You come across a blazing house in the poorer area of town. A crowd has gathered, watching the flames impassively.",
+      "A young girl runs up to you, in tears. 'My mother is inside! Please, please help her!' she begs. The fire is raging hard, and you are not sure whether anyone could be left alive inside."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e262", "Attempt a rescue"],
+          ["e100", "Walk on"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e620",
+    "title": "Recognised and Left Alone",
+    "desc": [
+      "Some local militiamen approach you with ill intent, presumably with a view to extorting a few Shards. They recognize you as a favourite of General Marlock, however, and leave you well alone, bowing and scraping to avoid your anger. Nothing else occurs this night.",
+      "Turn to e100."
+    ]
+  },
+  {
+    "tag": "e621",
+    "title": "The Coast Road",
+    "desc": [
+      "The coast road between Yellowport and Venefax is well-maintained and you make good time. You pass a few army patrols but they leave you alone."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e510", "Travel to Blessed Springs"],
+          ["e427", "Head for Venefax"],
+          ["e548", "Go north across country"],
+          ["e010", "South to Yellowport"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e622",
+    "title": "Retrieving the Magic Chest",
+    "desc": [
+      "The last time you were here, you had only a few minutes to grab some loot. Desperately, you search around for the magic chest that Oliphard the Wizardly wanted you to get for him. You find it – note the magic chest on your Adventure Sheet – but the sea dragon returns almost straight away, and you are forced to climb out of the hole in the roof without getting anything more, save for a pouch of 50 💎.",
+      "You crawl out on to the island in the middle of the lake and hitch a boat ride back to Cadmium. During the journey, you examine the magic chest, but it is guarded by great sorcery and is impossible to open.",
+      "Delete the codeword Avenge and turn to e135."
+    ]
+  },
+  {
+    "tag": "e623",
+    "title": "The Venefax Market Revisited",
+    "desc": [
+      "You clamber down a ladder into a long, low hall, the Venefax Market. Items with no purchase price listed are not available locally.",
+      "When you are finished, turn to e427."
+    ],
+    "tables": [
+      {
+        "cols": ["Armour", "Buy", "Sell"],
+        "rows": [
+          ["Leather (🛡️ +1)", "50 💎", "45 💎"],
+          ["Ring mail (🛡️ +2)", "–", "90 💎"]
+        ]
+      },
+      {
+        "cols": ["Weapons", "Buy", "Sell"],
+        "rows": [
+          ["Without ⚔️ bonus", "50 💎", "40 💎"],
+          ["⚔️ bonus +1", "–", "200 💎"]
+        ]
+      },
+      {
+        "cols": ["Other Items", "Buy", "Sell"],
+        "rows": [
+          ["Rope", "50 💎", "45 💎"],
+          ["Lantern", "100 💎", "90 💎"],
+          ["Climbing gear", "100 💎", "90 💎"],
+          ["Scorpion antidote", "100 💎", "90 💎"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e624",
+    "title": "Renouncing the Worship of Alvir and Valmir",
+    "desc": [
+      "To renounce the worship of Alvir and Valmir, you must pay 30 💎 in compensation to the priesthood. The priest says nothing, he just points to a mural on the wall. It depicts the story of a woman who left the temple – a storm destroyed her ship and she drowned, to spend eternity as a lost soul, cleaning the barnacles off the thrones of Alvir and Valmir.",
+      "Do you want to change your mind? If you are determined to renounce your faith, pay the 30 💎 and delete Alvir and Valmir from the God box on your Adventure Sheet.",
+      "When you have finished here, turn to e220."
+    ]
+  },
+  {
+    "tag": "e625",
+    "title": "The Curse of Tyrnai",
+    "desc": [
+      "You realize that you have committed an act of sacrilege by stealing from the temple – you know in your heart that Tyrnai has cursed you.",
+      "You will never be a great fighter while you suffer the wrath of Tyrnai. Subtract 1 from your Combat ability until you can find a way of lifting the curse. Perhaps the priests of Sig in Marlock City can help you. Note that you are under 'Tyrnai's Curse, -1 Combat.'",
+      "You sneak out of the temple. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e626",
+    "title": "Repelling the Goblin-folk with Faith",
+    "desc": [
+      "You recite a devotional prayer to the gods, calling on your faith to aid you. The goblin-folk are repelled by your piety and purity of spirit. Even Gobrash finds the strength to get out from under you, and run off, such is your effect on them.",
+      "'Eeaurgh!' snarls the queen, recoiling, 'Please, your godliness is harmful to us. Here, take this and leave!' A jug of faery mead and an enchanted spear (Combat +2) are pushed towards you. Note them on your Adventure Sheet.",
+      "The wall behind you shimmers and disappears – you step through, back into the cold, night air of the Curstmoor. You leave the faery mound far behind, and camp for the night. The next day, you resume your travels."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e560", "Go north across country"],
+          ["e558", "Head east to the road"],
+          ["e250", "Go to Trefoille"],
+          ["e100", "Go to Marlock City"],
+          ["e099", "Head west towards the River Grimm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e627",
+    "title": "The Pyramid of Xinoc",
+    "desc": [
+      "A bard in the tavern recites an epic tale of ancient legend. He speaks of Xinoc the Priest King, the ruler of a mighty nation in the distant steppes, far to the north. A thousand years ago his empire flourished, and his wealth was enormous. He was buried in a great pyramid tomb, along with his riches. It is said the Pyramid of Xinoc lies beyond the Spine of Harkun, and beyond the Great Steppes, in the foothills of the Peaks at the Edge of the World. You question him further, but that is all he knows.",
+      "You leave the tavern. Turn to e010."
+    ]
+  },
+  {
+    "tag": "e628",
+    "title": "Climbing with Gear",
+    "desc": [
+      "After a hard climb, you are halfway up the side of a mountain when you discover a thin, precarious path, leading up. The sun beats down, and you are sweating heavily. You take a swig of water from your canteen and proceed up the path.",
+      "After a while you have to stop to take more water. To your horror, your water supply has turned sour and undrinkable!",
+      "Make a Magic roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e374", "Successful Magic roll"],
+          ["e643", "Failed Magic roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e629",
+    "title": "Reporting to King Nergan",
+    "desc": [
+      "The soldier recognizes you and leads you to see the king. Nergan is pleased to see you. 'Have you succeeded in ridding us of Marloes?' he asks eagerly.",
+      "If you have the codeword Assassin, turn to e256 immediately. If not, read on.",
+      "You say that you have not completed your mission. 'What are you doing here, then? There is nothing I can do to help you – you will just have to use your own wits. Now go – fulfill my royal command!' says the king.",
+      "You are escorted to the foothills of the mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e630",
+    "title": "The Thorn Bush Barrier",
+    "desc": [
+      "You struggle deeper into the forest until you come to a thick wall of impenetrable thorn bushes. Circling it, you find there is a break in the hedge, but it is filled by a large tree.",
+      "To your surprise, a face forms in the trunk, and speaks in a woody voice, 'None can pass – begone, human!'",
+      "If you have the codeword Apple, turn to e594. If not, you can:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e195", "Return to the Trading Post"],
+          ["e570", "Attack the tree"],
+          ["e237", "Try to persuade it to let you pass"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e631",
+    "title": "Siding with Marlock",
+    "desc": [
+      "The soldier nods. Suddenly, he shouts something and several archers pop up from behind rocks and start shooting at you. An arrow embeds itself in your shoulder. Lose 3 ❤️. If you still live, you realize you are a sitting duck, and you run for your life.",
+      "As you climb down, you are shot at again. Roll one die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "Hit twice, lose 6 ❤️"],
+          ["3–4", "Hit once, lose 3 ❤️"],
+          ["5–6", "Missed completely, no wounds"]
+        ]
+      }
+    ],
+    "note": [
+      "After that, if you are still alive, you make it back to the foothills of the mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e632",
+    "title": "Blessing the Mad Beggar",
+    "desc": ["Make a Sanctity roll at Difficulty 12."],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e392", "Successful Sanctity roll"],
+          ["e125", "Failed Sanctity roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e633",
+    "title": "Finding the Coast",
+    "desc": [
+      "Your unerring sense of direction, even at sea, serves you well. It is not long before you find a familiar stretch of coast.",
+      "Roll one die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Ref"],
+        "rows": [
+          ["1–2", "e120"],
+          ["3–4", "e430"],
+          ["5–6", "e136"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e634",
+    "title": "The Gryphon's Nest",
+    "desc": [
+      "The climb is slightly easier than the last time, and you heave yourself over the lip of the top of Devil's Peak. A gryphon – a creature that is half lion, half eagle, and at least the same size as you – has made its nest here. It immediately swoops in to the attack, intent on protecting its nest. You must fight.",
+      "If you lose, you are birdfeed for gryphon chicks – your adventures are over.",
+      "If you win, you find a bag of pearls and 10 💎 in the nest. There is nothing else up here, so you slog all the way down again. Turn to e658."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Gryphon", "4", "5", "7"]]
+      }
+    ]
+  },
+  {
+    "tag": "e635",
+    "title": "The Mysterious Woman",
+    "desc": [
+      "If the box above is empty, put a tick in it now and turn to e080. If it is already ticked, turn to e470."
+    ]
+  },
+  {
+    "tag": "e636",
+    "title": "Becoming an Initiate of Tyrnai in Caran Baru",
+    "desc": [
+      "Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a Combat score of at least 6. Unlike other temples, there is no entry fee. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.",
+      "If you choose to become an initiate (and meet the qualification) write Tyrnai in the God box on your Adventure Sheet.",
+      "Once you have finished here, turn to e282."
+    ]
+  },
+  {
+    "tag": "e637",
+    "title": "Escaping the Sea Dragon",
+    "desc": [
+      "Somehow you manage to evade the creature's jaws, and swim back to shore. Hauling yourself up on to the beach, you are assaulted by an angry villager.",
+      "'Where's my boat?' he cries, 'You've sunk it, haven't you? You city types don't know a thing! Well, you'll have to pay me back – fifty Shards at least!'",
+      "'Hah!' you reply, 'The cost of hiring it was more than its worth in any case. As far as I'm concerned, that boat was mine to do with as I liked!'",
+      "The argument goes on all the way back to the village but eventually the fisherman gives up and storms off.",
+      "Turn to e135."
+    ]
+  },
+  {
+    "tag": "e638",
+    "title": "Blinding the Repulsive Ones",
+    "desc": [
+      "You know from ancient texts of arcane lore that the repulsive ones cannot stand bright light. Using all your magical power, you cause the glowing moss to emit a dazzling flash of yellow light. Blinded for a few seconds, the repulsive ones mill about helplessly, and you dart in and seize the golden net (note it on your Adventure Sheet).",
+      "You swim for the Shadar Tor as fast as you can. From here, you can:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e602", "Take the road to Trefoille"],
+          ["e166", "Take the road to Marlock City"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e639",
+    "title": "Storm on the Sea of Whispers",
+    "desc": [
+      "Heavy black clouds race towards you across the sky, whipping the waves into a frenzy. The crew mutter among themselves fearfully. If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm. Cross off your blessing and turn to e507. Otherwise the storm hits with full fury.",
+      "Roll one die if your ship is a barque, two dice if it is a brigantine, or three dice if it is a galleon. Add 1 to the roll if you have a good crew; add 2 if you have an excellent crew."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e219", "1–3", "Ship sinks"],
+          ["e067", "4–5", "The mast splits"],
+          ["e507", "6–20", "You weather the storm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e640",
+    "title": "Resurrected at the Temple of Tyrnai in Caran Baru",
+    "desc": [
+      "You are restored to life at the war god's temple in Caran Baru. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost. Cross them off your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.",
+      "The high priest, sweating from the effort of the ceremony of resurrection, says, 'Tyrnai has brought you back – honour him by upholding the code of the warrior and by sending the souls of those slain in battle to him.'",
+      "Turn to e282."
+    ]
+  },
+  {
+    "tag": "e641",
+    "title": "The Gambler's Den",
+    "desc": [
+      "'Want to try your luck in the Gambler's Den?' asks a short, dark man, dressed as a mercenary bodyguard. 'Just 5 💎 entrance fee.' He nods to a door at the top of some rickety stairs.",
+      "If you pay the money, cross it off and turn to e091. If not, he shrugs and hisses at another passerby. You wander off and pass an uneventful evening, turn to e100."
+    ]
+  },
+  {
+    "tag": "e642",
+    "title": "The Trau is Freed",
+    "desc": [
+      "You open the cage door. A wide grin suddenly appears at about head height within the dark shadows that wreath the trau. All you can see is a huge sliver of a grin, topped by two glowing red eyes.",
+      "'Free at last!' gushes the trau as it leaps out. 'Now for home, and as much faery mead as I can drink!' With that, it delves into the ground so fast that it has burrowed out of sight before you can do anything to stop it.",
+      "Shrugging your shoulders resignedly, you leave the market. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e643",
+    "title": "Terrible Thirst",
+    "desc": [
+      "Gamely, you drive yourself on, but your thirst is becoming terrible, and soon you will be unable to continue. If you go on, you might die of thirst before finding a water supply."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e244", "Turn back"],
+          ["e078", "Press on"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e644",
+    "title": "Sleep Vapour on the Ratmen",
+    "desc": [
+      "Using your sorcerous powers you breathe a cloud of greenish vapour over the ratmen. Coughing and gasping, they sink into an enchanted slumber. It is an easy matter to despatch them while they sleep.",
+      "Turn to e554."
+    ]
+  },
+  {
+    "tag": "e645",
+    "title": "The Oak Druid's Mission",
+    "desc": [
+      "If there is a tick in the box, turn to e248 immediately. If not, put a tick there now, and read on.",
+      "You are brought before the druids' leader, the Oak Druid, a bearded fellow with earth and leaves all tangled up in his hair. He asks you to perform a service for them.",
+      "'Take this oak staff to the Willow Druid in the forest of Larun. The sacred grove where he lives will be hard to find, but I'm sure you can do it. The Willow Druid will give you something to bring back to me. When you return with it, I will make you a better Wayfarer.'",
+      "Note the oak staff on your Adventure Sheet. You leave the City of Trees, turn to e678."
+    ]
+  },
+  {
+    "tag": "e646",
+    "title": "Lost in the Forest",
+    "desc": [
+      "Your mind is blasted into numb confusion by the protective spells that guard the sacred grove. You wander off aimlessly into the forest, and get hopelessly lost for days. You don't even have the wit to eat and drink – lose 3 ❤️. If you are still alive, you wander through the forest until you emerge, at last, at the Bronze Hills.",
+      "Turn to e110."
+    ]
+  },
+  {
+    "tag": "e647",
+    "title": "The Golem Grabs You",
+    "desc": [
+      "As you reach for the back of the golem's head, it turns and grabs your arm, yanking you to the ground. Then it swings its club at your head."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e349", "Run away"],
+          ["e081", "Fight the golem"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e648",
+    "title": "Looting the Dragon's Hoard",
+    "desc": [
+      "You remain quiet as a mouse, behind a pile of coins. After a long wait, the sea dragon slithers into the water, and swims out on some errand.",
+      "You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with magic. Note the magic chest on your Adventure Sheet. You can also choose up to three treasures from the following: enchanted sword (Combat +3), plate armour (Defence +5), ebony wand (Magic +2), 500 💎, magic mandolin (Charisma +2), gold compass (Scouting +2), magic lockpicks (Thievery +2), silver holy symbol (Sanctity +2).",
+      "After you have taken the third treasure, you hear the sea dragon returning. Quickly you climb up through the hole in the roof on to an island in the middle of the lake. From there, you manage to get a lift on a passing boat, and make it safely to Cadmium village.",
+      "During the journey, you examine the magic chest, but it is guarded by great sorcery and is impossible to open.",
+      "Delete the codeword Avenge and turn to e135."
+    ]
+  },
+  {
+    "tag": "e649",
+    "title": "Rewarded by the Chief Administrator",
+    "desc": [
+      "If there is a tick in the box, turn to e114 immediately. If not, put a tick there now, and read on.",
+      "The chief administrator is overjoyed to see you. The priests already know you have been successful in freeing Sul Veneris, the Lord of Thunder, because their crystal ball shows them that the storm demons have been driven away.",
+      "As a reward you receive the tuition of several high priests. You gain 1 Rank. Roll a single die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "'Visit me anytime,' says the chief administrator when you leave. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e650",
+    "title": "The Moonstone of Teleportation",
+    "desc": [
+      "Cross the moonstone off your Adventure Sheet. There is a flash, and suddenly you find yourself in a warm, comfortable room, beside Elissia the Traveller, the sorceress you rescued from her burning house.",
+      "Elissia will heal you of all lost Stamina points, if you are wounded, and cure you of any diseases or poisons you may be suffering from.",
+      "'My debt to you is now paid,' she says. With that, she passes her hands through the air, and disappears in a cloud of smoke!",
+      "You find yourself in an inn at Marlock City. You venture out into town, slightly dazed. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e651",
+    "title": "Selling the Trau",
+    "desc": [
+      "The trau, realizing its fate, sinks into a dark clouding silence. You haul it off to the mines where the overseer, a fat, cruel-looking man, gives you 150 💎 for the trau.",
+      "You return to town. Turn to e400."
+    ]
+  },
+  {
+    "tag": "e652",
+    "title": "The Mountain Track",
+    "desc": [
+      "You clamber up until you come to a mountain track. It rises up between a cleft in the rock, ahead of you. A man steps out in front of you. He is clearly a soldier, but his clothes are rough and ready, as if he had been living in the wild for some time.",
+      "If you have the title King's Champion, turn to e002. If not, but you have the codeword Ambuscade, turn to e629. If you have neither of the above, but you do have the codeword Ark, turn to e353. Otherwise read on.",
+      "The soldier looks you over critically. He signals that he wants to parley with you."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e557", "Talk to him"],
+          ["e049", "Attack him straight away"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e653",
+    "title": "Seeking the Sacred Grove",
+    "desc": [
+      "You are on a quest to take the oak staff to the Willow Druid who lives in a sacred grove somewhere in the forest. You wander around, looking for unusual tracks, strange creatures, anything that might lead you to a druid's den.",
+      "Make a Scouting roll at Difficulty 12."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e217", "Successful Scouting roll"],
+          ["e007", "Failed Scouting roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e654",
+    "title": "Escaping the Mines",
+    "desc": [
+      "You slip out of your chains, and hide inside an ore-laden mining cart. When it is taken out of the mine, you creep out, and run off into the hills. Eventually you reach Caran Baru.",
+      "Turn to e400."
+    ]
+  },
+  {
+    "tag": "e655",
+    "title": "Grieve Marlock's Reward",
+    "desc": [
+      "If there is a tick in the box, turn to e574 immediately. If not, put a tick there now, and read on.",
+      "The general greets you with a smile and embraces you, saying, 'You have served me beyond my expectations, my friend!'",
+      "A servant drags over a heavy chest, and Grieve Marlock flips open the lid with his sword. Inside is 1000 💎! 'Yours', he says with a grin. Note the money on your Adventure Sheet.",
+      "He also gives you a title – in this case, whatever the title is of your next Rank. Gain 1 Rank, and roll a die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "As you leave, he says, 'Don't hesitate to ask, if you need anything.'",
+      "If you have a coded missive, turn to e677. If not, turn to e100."
+    ]
+  },
+  {
+    "tag": "e656",
+    "title": "Oliphard's Pavilion in Trefoille",
+    "desc": [
+      "You find a large, red pavilion which has been erected over a ruin. Oliphard the Wizardly is inside. He greets you warmly. If you have a magic chest, turn to e672. If not, read on.",
+      "If you have a verdigris key, turn to e431. If not, read on.",
+      "Oliphard can use his sorcery to teleport you instantly to certain places at a cost of 100 💎 a journey. If you want to be teleported, cross off the money and choose from the following destinations:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Destination", "Cost"],
+        "rows": [
+          ["e100", "Marlock City", "100 💎"],
+          ["e400", "Caran Baru", "100 💎"],
+          ["e217", "Wishport (Cities of Gold and Glory)", "100 💎"],
+          ["e100", "Dweomer (Over the Blood-Dark Sea)", "100 💎"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e602", "Take the road to the Shadar Tor"],
+          ["e377", "Take the road to Marlock City"],
+          ["e175", "Head into the Curstmoor"],
+          ["e558", "Take the road north"],
+          ["e233", "Take the road to Yellowport"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e657",
+    "title": "The Scorpion Man Falls",
+    "desc": [
+      "The creature falls dead. You can squeeze a little of its venom from its sting – if you do so, note the scorpion venom on your Adventure Sheet.",
+      "If you were wounded in the fight, you have been poisoned by the scorpion man's venom. Subtract 1 from your Combat, Thievery, and Scouting abilities, as you are severely weakened (although no ability can drop to zero). Note that you are poisoned – you can restore your abilities to normal if you get cured. If you have some scorpion antidote, it will cure the poison immediately – cross the antidote off your Adventure Sheet.",
+      "You wander on until you come to a ridge. Down below, in a shallow valley, is a great mound of earth. Many burrows have been dug through it, and scorpion men are crawling in and out. This is the mound of the scorpion men – their home.",
+      "If you have the codeword Artefact, turn to e406. If not, you realize that it would simply be too dangerous to venture down there. You head back towards Venefax. Turn to e492."
+    ]
+  },
+  {
+    "tag": "e658",
+    "title": "The Base of Devil's Peak",
+    "desc": [
+      "You are standing at the bottom of the Devil's Peak. It is a massive tower of black rock, like a stone tree-trunk, bare and branchless, climbing up into the sky. You cannot see the top, for it is shrouded in grey clouds. Thunder and lightning play about the clouded summit.",
+      "The sides of the peak are almost sheer, but there are many hand and footholds. It can be climbed, but only if you have some climbing gear. If you have climbing gear and you want to make the ascent, turn to e340. Otherwise, turn to e560."
+    ]
+  },
+  {
+    "tag": "e659",
+    "title": "Freeing the Mannekyn",
+    "desc": [
+      "You untie the little creature from its bonds. It gives a jubilant cry, and soars upwards. 'Thank you, large one!' it chatters, 'My name is Pikalik the Wing-warrior! We never forget – one day I will pay my debt.' With that, he flitters away into the clouds.",
+      "'That's 75 💎 you just let fly away,' comments the man in the palanquin wryly, 'Mannekyn People can't be trusted, believe me.'",
+      "You leave the slave market. Acquire the codeword Altruist and turn to e400."
+    ]
+  },
+  {
+    "tag": "e660",
+    "title": "Alissia Rescued",
+    "desc": [
+      "You are greeted warmly by the commander of the fort, whose daughter, Alissia, embraces you happily.",
+      "You can stay here, in comfortable lodgings, free of charge. You can restore any lost Stamina points, up to your maximum. When you are ready, you can leave."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e225", "East into Nerech (The Plains of Howling Darkness)"],
+          ["e299", "North west to Fort Mereth"],
+          ["e259", "South east to Fort Brilon"],
+          ["e548", "West into the farmlands"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e661",
+    "title": "The Wrong Line Crossed",
+    "desc": [
+      "With a thrill of horror, you realize you have missed your footing, crossing the wrong line by millimetres. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts out of the stone coffin! The column of smoke hurtles towards you, like a miniature tornado.",
+      "If you have a weapon with a Combat bonus of +1 or greater, turn to e043. If you have only an ordinary weapon or no weapon at all, turn to e260."
+    ]
+  },
+  {
+    "tag": "e662",
+    "title": "Lauria's Second Betrayal",
+    "desc": [
+      "That night, after Lauria has picked the locks on your chains, you head off for the tunnel rendezvous. You find there has been a cave-in, but the overseer and a troop of guards are waiting for you!",
+      "Lauria steps out laughing. In return for her betraying you, the overseer has transferred her to work on the surface, from which she will be able to escape more easily. You have been stitched up again!",
+      "The overseer has you whipped for trying to escape and you are left with some nasty scars. Lose 1 point of Charisma permanently.",
+      "Gain the codeword Anger, and lose the codeword Ashen.",
+      "A few days later, you try another escape on your own. Turn to e565."
+    ]
+  },
+  {
+    "tag": "e663",
+    "title": "Caught by the Scorpion Men",
+    "desc": [
+      "They are too fast. You are caught and overwhelmed. You end up as food for scorpion larvae. Your adventuring days are over, unless you have a resurrection deal."
+    ]
+  },
+  {
+    "tag": "e664",
+    "title": "Siding with Nergan Corin",
+    "desc": [
+      "'That is fortunate – for you,' says the soldier. Several archers stand up from their hiding places behind the rocks overhead.",
+      "Another soldier, a captain, comes up to you and introduces himself as Captain Vorkung. He is clearly one of the old aristocracy, the nobles loyal to the king and the old regime, before General Marlock and the army seized power and executed the old king. Vorkung tells you to leave the mountains.",
+      "You have found a rebel base – men still loyal to Nergan Corin, the heir to the throne. Nergan went into hiding when General Marlock killed his father and took control of Sokara.",
+      "You can attempt to convince Captain Vorkung that you are on his side by making a Charisma roll at Difficulty 9. You can add 1 to your roll if you are a Warrior, Rogue, or Wayfarer. If you succeed, turn to e025. If you fail, turn to e179. Otherwise, you can climb down the mountains, turn to e474."
+    ]
+  },
+  {
+    "tag": "e665",
+    "title": "The Wolf Cave",
+    "desc": [
+      "You enter the cave – it is large and dark. Unfortunately, it is the lair of a pack of wolves – a very big pack of wolves.",
+      "If you have a wolf pelt, turn to e516. If not, turn to e280."
+    ]
+  },
+  {
+    "tag": "e666",
+    "title": "The Tale of Targdaz the Magnificent",
+    "desc": [
+      "A trader from the far north tells a story about a great wizard, Targdaz the Magnificent, who was tricked by a shaman of the Horde of the Thousand Winds on the Great Steppes.",
+      "'He imprisoned Targdaz inside a giant ruby, and proceeded to loot Targdaz's tower. But in his stupidity, he opened the great wizard's Casket of Imponderables, and unleashed a terrible storm that swept across the steppes, scattering many of the tribes far and wide. The shaman was killed, of course, but as far as anyone knows, Targdaz is still trapped in the ruby, waiting patiently for release – perhaps for another hundred years, who knows? One thing's for certain – it won't be me trying to get him out!'",
+      "When you are ready, you can go:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e558", "South"],
+          ["e347", "North"],
+          ["e047", "West into the Forest of Larun"],
+          ["e135", "East to the lake and Cadmium"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e667",
+    "title": "Alissia Rescued from the Manbeasts",
+    "desc": [
+      "If there is a tick in the box, turn to e660 immediately. If not, put a tick there now and read on.",
+      "You have rescued Alissia, the commander's daughter, from the manbeasts! They have a tearful, joyous reunion – all thanks to you!",
+      "The commander rewards you with combat training. Add one to your Combat ability permanently.",
+      "When you are ready, you can leave:"
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e225", "East into Nerech (The Plains of Howling Darkness)"],
+          ["e299", "North west to Fort Mereth"],
+          ["e259", "South east to Fort Brilon"],
+          ["e548", "West into the farmlands"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e668",
+    "title": "Digging in the Bronze Hills",
+    "desc": [
+      "You are led to a rockface in the mine. You start digging. Roll two dice.",
+      "When you are finished (if you are still alive), you leave the Bronze Hills."
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["2–4", "Rockfall! You lose 2 ❤️"],
+          ["5–8", "No luck, and your hour is up"],
+          ["9–12", "A silver nugget!"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e400", "To Caran Baru"],
+          ["e047", "South into the Forest of Larun"],
+          ["e333", "West to the River Grimm"],
+          ["e276", "North into the Western Wilderness"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e669",
+    "title": "Meeting Grieve Marlock",
+    "desc": [
+      "You are recognized by an official, and a few moments later, you are summoned to see the general himself! You are taken to the throne room, which has been converted to a military style headquarters. If you have the codeword Assist, turn to e102 immediately. If not, read on.",
+      "Grieve Marlock is a tall, hook-nosed man, with cold, penetrating green eyes. 'You come highly recommended by my brother, the governor of Yellowport – I was hoping you would turn up,' he says in a commanding voice. 'You did me a great service by getting rid of that pompous fool, Nergan.'",
+      "'Now there is one more thing I need you for. The Citadel of Velis Corin, which sits astride the Pass of Eagles in the far north, is under imminent attack from an army of the steppes. The attackers are a rag-tag bunch of malcontents – nomads, Mannekyn People, some trau even, and of course, the usual traitorous dogs still loyal to the old king – may his soul burn in the hells, ha, ha, ha!'",
+      "'I need you to go to the citadel, discuss the situation with Commandant Orin Telana, and do all you can to make sure that the citadel doesn't fall. I'm relying on you!'",
+      "Record the codeword Assist.",
+      "If you have a coded missive, turn to e677 immediately. If not, you are escorted out. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e670",
+    "title": "Teleported to Trefoille",
+    "desc": [
+      "You feel a wrenching moment of disorientation, and then you suddenly appear with a flash beside a ruined, burnt-out city. A passing builder stares at you in horror, unsure whether you are a human or a demon. Quickly, you hurry away.",
+      "Turn to e250."
+    ]
+  },
+  {
+    "tag": "e671",
+    "title": "The Villagers' Gratitude",
+    "desc": [
+      "Out of gratitude the villagers present you with 80 💎. You do not wait around to see what fate befalls Old Megan and her accomplices. In theory they should be taken to the assizes in the nearest town, but feelings run so deep in this case that you suspect there will be some rough justice meted out.",
+      "You resume your journey."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e576", "Follow the river north"],
+          ["e082", "Follow the river south"],
+          ["e278", "Head east into the countryside"],
+          ["e558", "Go west to the main road"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e672",
+    "title": "The Magic Chest Returned",
+    "desc": [
+      "'My chest!' yells Oliphard joyfully as you hand it over. Cross the magic chest off your Adventure Sheet.",
+      "Oliphard thanks you and teaches you how to be a better Mage. Gain 1 Rank and roll a die. The result is the number of Stamina points you gain permanently. Also, don't forget to increase your Defence by 1 as a result of your gain in Rank.",
+      "When you are ready, turn to e656."
+    ]
+  },
+  {
+    "tag": "e673",
+    "title": "Crossing the Curstmoor",
+    "desc": [
+      "You are trekking across the aptly named Curstmoor. A great rolling expanse of blasted heath stretches before you. Grey clouds hang over a mournful, dirty-water coloured plain, studded with rocky outcrops and low hills.",
+      "Roll one die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          [
+            "1–2",
+            "You are attacked by a wolf. If you win, you get a wolf pelt."
+          ],
+          ["3–4", "Nothing happens"],
+          ["5–6", "You find 10 💎 on an old skeleton"]
+        ]
+      },
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Wolf", "3", "5", "7"]]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e560", "North across the country"],
+          ["e558", "East to the road"],
+          ["e250", "To Trefoille"],
+          ["e100", "To Marlock City"],
+          ["e099", "West towards the River Grimm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e674",
+    "title": "The Safe Path Through the Pentacle",
+    "desc": [
+      "You realize from your magical studies that there is a safe path through the pentacle. If you step off the correct symbols, drawn on the ground, there is no telling what sorcerous trap you will set off.",
+      "If you decide the whole thing is too dangerous and leave, turn to e047.",
+      "If you want to try the path to the sarcophagus, make a Thievery roll at Difficulty 9."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e606", "Successful Thievery roll"],
+          ["e661", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e675",
+    "title": "Falling into the Sea",
+    "desc": [
+      "You fall into the yawning blackness with a despairing cry. You plummet like a stone through the air for what seems like an age. You are engulfed in absolute darkness, and all you can hear is the whistling of the wind past your ears.",
+      "Suddenly you shoot into bright sunlight, and land with an almighty splash into the sea! Coughing and spluttering, you rise to the surface. You are not far from a forested island, and you swim for shore. A small settlement crowds the shore – it looks like you have arrived at the Trading Post on the Isle of Druids.",
+      "Turn to e195."
+    ]
+  },
+  {
+    "tag": "e676",
+    "title": "The Coded Missive Delivered to the King",
+    "desc": [
+      "You were given the message to take to the king by some spies in Golnir. The king takes the coded missive. Cross it off your Adventure Sheet. He hands it to one of his counsellors to read.",
+      "'You have done well in bringing this to me. It is important,' says the king. You are rewarded with 200 💎.",
+      "If you have the codeword Deliver, turn to e098 immediately. If not, read on.",
+      "The king goes on, 'However, I was hoping you had spoken with General Beladai of the allied army by now – we need that citadel. Now go. That is a Royal command!'",
+      "You leave, climbing down to the foothills of the mountains. Turn to e474."
+    ]
+  },
+  {
+    "tag": "e677",
+    "title": "The Coded Missive Delivered to the General",
+    "desc": [
+      "You were given the missive to take to the general by spies in Golnir. He takes the coded missive and reads it. Cross it off your Adventure Sheet.",
+      "'Interesting. You have done well in bringing this to me,' he says. 'I thank you, once more!' He rewards you with 150 💎.",
+      "When you are ready, you leave the palace. Turn to e100."
+    ]
+  },
+  {
+    "tag": "e678",
+    "title": "Leaving the City of Trees",
+    "desc": [
+      "If you have the codeword Aspen, turn to e195. Otherwise read on.",
+      "The journey through the trees proves as difficult as when you first ventured into the Old Forest. Make a Scouting roll at Difficulty 10."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e679", "Successful Scouting roll"],
+          ["e036", "Failed Scouting roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e679",
+    "title": "Following the Scent of the Sea",
+    "desc": [
+      "The scent of the sea proves strongest in one direction. Following your nose, you eventually break free of the trees and find yourself on the coast.",
+      "Turn to e128."
+    ]
+  },
+  {
+    "tag": "e680",
+    "title": "You Are Dead",
+    "desc": [
+      "You are dead. If you have a resurrection deal, turn to the section noted on your Adventure Sheet after first erasing your current possessions, money, and any details on your Ship's Manifest.",
+      "If you don't have a resurrection arranged, this is the end and you can only start afresh with a new character. First make sure to erase all ticks, codewords, and Adventure Sheet details in all your Fabled Lands books. You can begin at e001 in any of the books of the series."
+    ]
+  }
+]

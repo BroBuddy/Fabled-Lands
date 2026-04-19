@@ -4,6 +4,7 @@ import events_201 from "../data/events_201_300.json";
 import events_301 from "../data/events_301_400.json";
 import events_401 from "../data/events_401_500.json";
 import events_501 from "../data/events_501_600.json";
+import events_601 from "../data/events_601_680.json";
 import type { Event, EventItem } from "../types/EventType";
 
 const typedEvents001 = events_001 as Event[];
@@ -12,6 +13,7 @@ const typedEvents201 = events_201 as Event[];
 const typedEvents301 = events_301 as Event[];
 const typedEvents401 = events_401 as Event[];
 const typedEvents501 = events_501 as Event[];
+const typedEvents601 = events_601 as Event[];
 
 export function useEventService() {
   const eventData: Event[] = [
@@ -21,6 +23,7 @@ export function useEventService() {
     ...typedEvents301,
     ...typedEvents401,
     ...typedEvents501,
+    ...typedEvents601,
   ];
 
   const getEventData = (): EventItem[] => {

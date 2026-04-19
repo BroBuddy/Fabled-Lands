@@ -1123,5 +1123,306 @@
         ]
       }
     ]
+  },
+  {
+    "tag": "e577",
+    "title": "Recognizing the Gorlock's Tracks",
+    "desc": [
+      "You recognize the tracks as those of the legendary gorlock. You remember that it is said to have backward-pointing feet, so that the tracks it leaves will always show the opposite direction of travel! This means that the gorlock is currently inside the cave."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e174", "Challenge the beast to combat"],
+          ["e287", "Wait for it to leave the cave"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e578",
+    "title": "A Hero's Welcome in Venefax",
+    "desc": [
+      "The villagers welcome you as the one who brought Fourze to justice, and saved their people from slavery.",
+      "Turn back to e427 and read on."
+    ]
+  },
+  {
+    "tag": "e579",
+    "title": "The River Grimm Delta",
+    "desc": [
+      "You are travelling across flatlands. The River Grimm splits into a delta here, spilling its waters into the sea. Long, sandy beaches stretch out to sea.",
+      "Roll one die:"
+    ],
+    "tables": [
+      {
+        "cols": ["Score", "Result"],
+        "rows": [
+          ["1–2", "Bitten by a crab! Lose 1 ❤️"],
+          ["3–4", "Nothing happens"],
+          ["5–6", "Find an ink sac washed up on the shore"]
+        ]
+      },
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e100", "Go to Marlock City"],
+          ["e099", "Follow the river north"],
+          ["e219", "Travel west into Golnir (Cities of Gold and Glory)"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e580",
+    "title": "Back to the Throne Room",
+    "desc": [
+      "You wait for things to die down, and make your way back to the door marked 'Thrown Rum'. Ignoring the kitchens, you go through.",
+      "Turn to e202."
+    ]
+  },
+  {
+    "tag": "e581",
+    "title": "The Assassination Fails",
+    "desc": [
+      "You try to cut the king down, but at the last moment, he catches your wrist. His face is a mask of hate and rage. 'Traitorous viper!' he hisses, before shouting for the guards. You are forced to flee for your life.",
+      "Although you make it out of the stockade, you are caught in a narrow defile and seized by many men. You are hauled before Captain Vorkung, who looks sick and ashen-faced – he let you in to see the king in the first place.",
+      "You are sentenced to be hanged; the sentence is carried out immediately. Your adventures are over, unless you have a resurrection deal."
+    ]
+  },
+  {
+    "tag": "e582",
+    "title": "The Dragon's Wrath",
+    "desc": [
+      "Before you have time to react, the dragon's massive tail smashes into the keel of your boat, lifting it out of the water, and breaking it in two. You are pitched into the sulphurous lake, with a rabid sea dragon closing in, intent on swallowing you whole!",
+      "Roll one die. If you score less than or equal to your Rank, turn to e637. Otherwise, turn to e477."
+    ]
+  },
+  {
+    "tag": "e583",
+    "title": "The Mast Splits",
+    "desc": [
+      "Your ship is thrown about like flotsam and jetsam. When the storm subsides, you take stock. Much has been swept overboard – you lose 1 Cargo Unit, if you had any, of your choice. Also, the ship has been blown way off course and the mate has no idea where you are. 'We're lost at sea, Cap'n!' he moans.",
+      "Turn to e090."
+    ]
+  },
+  {
+    "tag": "e584",
+    "title": "The Kiss of the Mer-folk",
+    "desc": [
+      "'How can I come out to you? I would drown in the sea – is that what you plan?' you ask angrily.",
+      "'Don't you know?' sighs one of them. 'The kiss of the mer-folk gives the power to breathe the waters to one of your kind for a short time!' The others laugh mischievously."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e254", "Be kissed by the mer-folk"],
+          ["e035", "Return to the clifftop tor"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e585",
+    "title": "The Monster Suit Revealed",
+    "desc": [
+      "You trail Fourze to the old farm. He goes inside, and you creep to see what he is doing. Two rough-looking thugs are helping Fourze get into what is obviously a monster suit! It's a bit like a giant hairy toad, made of the hide of some animal stretched over a wooden framework. So much for the dreaded Gob-gobbler!",
+      "You wait by the door. As the thugs emerge, you club one to the ground, but you will have to fight the other one.",
+      "If you win, turn to e236. If you lose, you are dead unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Bandit", "4", "6", "6"]]
+      }
+    ]
+  },
+  {
+    "tag": "e586",
+    "title": "Storm off Scorpion Bight",
+    "desc": [
+      "Heavy black clouds race towards you across the sky, whipping the waves into a frenzy. The crew mutter among themselves fearfully. If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm. Cross off the blessing and turn to e085.",
+      "Otherwise the storm hits with full fury. Roll one die if your ship is a barque, two dice if it is a brigantine, or three dice if a galleon. Add 1 to the roll if you have a good crew; add 2 if it is an excellent crew."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Score", "Result"],
+        "rows": [
+          ["e182", "1–3", "Ship sinks"],
+          ["e530", "4–5", "The mast splits"],
+          ["e085", "6–20", "You weather the storm"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e587",
+    "title": "Trade Secrets in the Harbour",
+    "desc": [
+      "While taking a stroll through the busy harbour area, you overhear a conversation between two merchants and learn the most profitable trading routes between Sokara and Golnir. Record the codeword Almanac.",
+      "Turn to e010 and choose again."
+    ]
+  },
+  {
+    "tag": "e588",
+    "title": "Escaping the House",
+    "desc": [
+      "You break past the militia, leap over the table and rush out of the door. From behind you can hear muffled curses and then a fiery blast which sizzles wetly in the damp yellow fog, but you don't look back and you don't stop running until you are well clear of the house.",
+      "Turn to e010."
+    ]
+  },
+  {
+    "tag": "e589",
+    "title": "Confronting the Man with the Eyepatch",
+    "desc": [
+      "Striding purposefully into the tavern, you walk straight up to him and say, 'I want what you've got under that eyepatch.' His one good eye widens in surprise, and he jumps back, drawing his sword. 'We'll see about that, by Sig!' he cries.",
+      "The other people in the tavern draw back to give you room and start taking bets on the outcome of the fight.",
+      "If you win, turn to e092. If you lose, the man with the eyepatch kills you – your adventuring days are over, unless you have a resurrection deal."
+    ],
+    "tables": [
+      {
+        "cols": ["Name", "⚔️", "🛡️", "❤️"],
+        "rows": [["Man with eyepatch", "5", "8", "12"]]
+      }
+    ]
+  },
+  {
+    "tag": "e590",
+    "title": "Watching for the Ghosts",
+    "desc": [
+      "From the cover of a hedge you wait until dusk. By now all the villagers are safely indoors with their shutters tightly barred.",
+      "As the sky is turning from velvet indigo to the starlit blackness of night, you see three pale figures come loping across the green from the direction of the millpond. They must be the ghosts. Seeing the banquet, they utter gleeful cries and start to devour what has been set out for them.",
+      "Make a Magic roll at a Difficulty of 11."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e231", "Successful Magic roll"],
+          ["e357", "Failed Magic roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e591",
+    "title": "Washed Up at Scorpion Bight",
+    "desc": [
+      "You find yourself washed up on a rocky shore, battered and cold, but lucky to be alive. You are almost certain you have cast away on the beaches of Scorpion Bight. You have no choice but to head inland.",
+      "Turn to e032."
+    ]
+  },
+  {
+    "tag": "e592",
+    "title": "Trying Magic Undersea",
+    "desc": ["Make a Magic roll at Difficulty 11."],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e638", "Successful Magic roll"],
+          ["e111", "Failed Magic roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e593",
+    "title": "The Curse Must Be Lifted",
+    "desc": [
+      "You are under a curse. You remember what you were told – to lift the curse, you have to throw a weapon (Combat +1) into the waters. If you have such a weapon and want to throw it away, turn to e354. If not, turn to e450."
+    ]
+  },
+  {
+    "tag": "e594",
+    "title": "The Tree Remembers You",
+    "desc": [
+      "'Oh, it's you again,' says the tree grumpily. 'All right, off you go.' The tree uproots itself and shuffles out of your way, leaving you free to visit the City of Trees once more.",
+      "Turn to e358."
+    ]
+  },
+  {
+    "tag": "e595",
+    "title": "Sneaking Up on King Skabb",
+    "desc": [
+      "You will have to sneak in around the hall to get behind the king. There are plenty of shadows to hide in but it will not be easy. Make a Thievery roll at Difficulty 11."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Result"],
+        "rows": [
+          ["e608", "Successful Thievery roll"],
+          ["e475", "Failed Thievery roll"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e596",
+    "title": "The Demon Door of the Forest",
+    "desc": [
+      "You thread your way through the ranks of trees. In places, the forest canopy almost blocks out the sunlight completely, and you are wandering in deep shadow, haunted by the cries of the creatures of the forest. If you have an oak staff, turn to e653 immediately. If not, read on.",
+      "You hack your way through the undergrowth until you stumble across an old ruin. Creepers and forest moss have grown over most of it, but you can see mask-like faces set into the walls, glaring down at you as if in angry outrage at your intrusion. You come to a massive stone slab – clearly a door. Set into the middle of it is a round, granite face, the visage of a sleeping demon. Suddenly, an eye pops open, and regards you curiously.",
+      "'By the Tentacles of Tantallon!' exclaims the face in a gravelly voice. 'A human! I haven't seen one of you lot for a hundred years.' An expression of suspicion forms on its rocky features. 'What do you want, anyway?'",
+      "'Just passing through,' you comment airily. 'Well you can't pass through me unless you know the password. And that was given to me by Astrallus the Wizard King, umm... let me see, now... a thousand years ago, by Ebron! This is his tomb, you know.'",
+      "If you have the codeword Crag, turn to e160. Otherwise, read on.",
+      "'How do I find the password then?' you ask. 'Well,' says the demon door, 'Astrallus was a wizard, so why don't you ask some wizards?' 'Where would I find some wizards?' you ask. 'How would I know?' replies the door testily. 'I've been stuck here for a thousand years!' You decide it is time to leave."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e110", "North to the Bronze Hills"],
+          ["e333", "West to the River Grimm"],
+          ["e560", "South into the country"],
+          ["e387", "East to the road"]
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "e597",
+    "title": "Delivering the Ghoul's Head",
+    "desc": [
+      "'You did it!' exclaims the warden happily, taking the ghoul's head and placing it in a jar. Cross it off your Adventure Sheet.",
+      "You can have a choice of reward: an amber wand (+1 Magic), 500 💎, or a free resurrection deal, if you do not have one already. You can choose only one of these three rewards.",
+      "To arrange resurrection, write 'Temple of Nagil – The War-Torn Kingdom e350)' in the Resurrection box on your Adventure Sheet. If you are later killed, turn to e350 in this book.",
+      "Finally, if you are suffering from Ghoulbite disease, turn to e156. Otherwise, you return to town: turn to e100."
+    ]
+  },
+  {
+    "tag": "e598",
+    "title": "Bathing in the Holy Waters",
+    "desc": [
+      "You strip off, and wade into the bubbling waters. The effect is astonishing! You feel a sense of well-being coursing through your body. If you are suffering from disease or poison, you are cured instantly, and can restore your abilities to normal.",
+      "When you are ready to leave, turn to e510."
+    ]
+  },
+  {
+    "tag": "e599",
+    "title": "Resurrection at the Temple of Tyrnai",
+    "desc": [
+      "Resurrection costs 200 💎 if you are an initiate, and 800 💎 if not. It is the last word in insurance. Once you have arranged for resurrection you need not fear death, as you will be magically restored to life here at the temple.",
+      "To arrange resurrection, pay the fee and write 'Temple of Tyrnai – The War-Torn Kingdom e500' in the Resurrection box on your Adventure Sheet. If you are later killed, turn to e500 in this book. You can have only one resurrection arranged at any one time. If you arranged another resurrection later at a different temple, the original one is cancelled – cross it off your Adventure Sheet, you do not get a refund.",
+      "When you are finished here, turn to e526."
+    ]
+  },
+  {
+    "tag": "e600",
+    "title": "Waiting Until Thursday",
+    "desc": [
+      "You wait until Thursday. Lynn tells you that the disappearances happened a little way out of town, near an old farmhouse. As you leave town, you notice Fourze, the Master of the Market, heading in the opposite direction."
+    ],
+    "tables": [
+      {
+        "cols": ["Ref", "Option"],
+        "rows": [
+          ["e383", "Follow Fourze"],
+          ["e263", "Head for the old farm"]
+        ]
+      }
+    ]
   }
 ]
