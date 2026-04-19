@@ -11,6 +11,7 @@ const RuleDetailPage = lazy(
 const EventDetailPage = lazy(
   () => import("./features/event/pages/EventDetailPage"),
 );
+const CombatPage = lazy(() => import("./pages/CombatPage"));
 const CodewordsPage = lazy(() => import("./pages/CodewordsPage"));
 const HistoryPage = lazy(() => import("./pages/HistoryPage"));
 const MapPage = lazy(() => import("./pages/MapPage"));
@@ -23,6 +24,7 @@ const router = createBrowserRouter([
       { path: "/rule", element: <RulePage /> },
       { path: "/rule/:tag", element: <RuleDetailPage /> },
       { path: "/event/:tag", element: <EventDetailPage /> },
+      { path: "/combat", element: <CombatPage /> },
       { path: "/codewords", element: <CodewordsPage /> },
       { path: "/history", element: <HistoryPage /> },
       { path: "/map", element: <MapPage /> },

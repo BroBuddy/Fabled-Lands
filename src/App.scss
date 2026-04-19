@@ -49,6 +49,16 @@ img {
   border-radius: 8px;
 }
 
+input,
+button {
+  border: none;
+  border-bottom: 2px solid var(--brown);
+  background-color: transparent;
+  cursor: pointer;
+  padding: 3px;
+  text-align: center;
+}
+
 p,
 li,
 em,
