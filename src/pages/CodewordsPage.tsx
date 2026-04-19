@@ -39,21 +39,18 @@ const CODEWORDS: string[] = [
   "Azure",
 ];
 
+const STORAGE_KEY = "fabled-lands-codewords";
+
 function CodewordsPage() {
   const [checked, setChecked] = useState<Record<string, boolean>>(() => {
-    const saved = localStorage.getItem("fabled-lands-codewords");
+    if (typeof window === "undefined") return {};
+
+    const saved = localStorage.getItem(STORAGE_KEY);
     return saved ? JSON.parse(saved) : {};
   });
 
   useEffect(() => {
-    const saved = localStorage.getItem("fabled-lands-codewords");
-    if (saved) {
-      setChecked(JSON.parse(saved));
-    }
-  }, []);
-
-  useEffect(() => {
-    localStorage.setItem("fabled-lands-codewords", JSON.stringify(checked));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(checked));
   }, [checked]);
 
   const toggleCodeword = (word: string) => {
