@@ -16,13 +16,13 @@ function CombatPage() {
   } = useCombat();
 
   const logTable = {
-    cols: ["Combat", "⚔️", "🛡️", "💥"],
+    cols: ["Turns", "⚔️", "🛡️", "💥"],
     rows: log,
   };
 
   return (
     <>
-      <Card title="Preperation">
+      <Card title="Combat">
         <CombatStats
           title="Attacker"
           stats={attacker}
